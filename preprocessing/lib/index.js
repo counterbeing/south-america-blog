@@ -57,7 +57,7 @@ function run() {
       };
     });
   }).then(function (destinations) {
-    writeJson(_path2.default.join('../public', 'index.json'), { 'data': destinations });
+    writeJson(_path2.default.join('../public', 'destinations.json'), destinations);
   });
 }
 

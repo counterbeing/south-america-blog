@@ -42,8 +42,8 @@ export function run() {
   })
   .then((destinations) => {
     writeJson(
-      path.join('../public', 'index.json'),
-      {'data': destinations }
+      path.join('../public', 'destinations.json'),
+      destinations
     )
   })
 }
@@ -87,6 +87,5 @@ let readAndProcess = (destination) => {
     console.log(err)
   })
 }
-
 
 run()
