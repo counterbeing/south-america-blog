@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SouthAmericaBlog</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <title>Travel Map | Places I've Traveled Along My Motorcycle Trip</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="I've stopped in a lot of places, and wanted to take plot them all on a map." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="images/favicon.ico" />
     {{content-for "head"}}
-
     <link rel="stylesheet" href="{{rootURL}}assets/vendor.css">
     <link rel="stylesheet" href="{{rootURL}}assets/south-america-blog.css">
-
     {{content-for "head-footer"}}
+    <script type="text/javascript" src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCe5-bAGpPv8rYSfgiJkmL6YJYZk4Zen_Q'></script>
   </head>
-  <body>
+
+  <body class="map-content">
     {{content-for "body"}}
 
     <script src="{{rootURL}}assets/vendor.js"></script>
