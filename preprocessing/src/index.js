@@ -39,12 +39,12 @@ export function run() {
         }
       }
     })
-    .then((destinations) => {
-      writeJson(
-        path.join('../public', 'index.json'),
-        {'data': destinations }
-      )
-    })
+  })
+  .then((destinations) => {
+    writeJson(
+      path.join('../public', 'index.json'),
+      {'data': destinations }
+    )
   })
 }
 

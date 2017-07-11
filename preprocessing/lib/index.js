@@ -55,9 +55,9 @@ function run() {
           'date': attributes.date
         }
       };
-    }).then(function (destinations) {
-      writeJson(_path2.default.join('../public', 'index.json'), { 'data': destinations });
     });
+  }).then(function (destinations) {
+    writeJson(_path2.default.join('../public', 'index.json'), { 'data': destinations });
   });
 }
 
