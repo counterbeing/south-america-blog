@@ -1,0 +1,31 @@
+---
+date: '20121228'
+latitude: 35.6869752
+longitude: -105.937799
+city: Santa Fe
+country: New Mexico
+flickr_link: '72157638460043964'
+---
+
+# Santa Fe Days
+After Flagstaff came Santa Fe. I’d been having issues with my heated grips. They seem to keep blowing fuses, no matter the amperage. They had the night before in the last 20 minutes of riding. Anyway, I swapped them out first thing before leaving. The ride itself was pretty uneventful. Just long and cold. When I woke up in Flagstaff the temperature was about 3º F. By the time I left it was in the 20s, which was much more doable, especially with my heated grips working again.
+
+When I made it into Santa Fe I was greeted by two dogs, two cats, and two humans. There was a warm fire, and warming scotch. I let the chill out of my  bones, and the ringing in my ears slowly stopped. The next week was, for the most part, wonderfully relaxing and productive.
+
+There were a few troubles. The first was Rio (the black dog in the pictures below). On the first morning I was there, Sheila and I were going to go for a dog walk. We weren’t 200 feet from the house when I threw the ball for Rio. He ran after it, behind us (throwing the ball behind on a walk gives the dog a bit more of a run) and we kept walking. He didn’t come for a minute. We had walked for another 2 minutes, and still no Rio. Sheila wasn’t concerned because this is pretty normal behavior for him. I decided to trot back to find him. I saw a black figure in a bush near where the ball was, it was him, perfectly still. I walked around behind it and saw him there. He wagged his tail and looked generally happy to see me. I saw that one of his legs was between two branches, and since he wasn’t in terrible pain, I took a photo (below). Then I got over near him, he started to wag his tail again, but the moment I touched him he cried. I stopped and stared for a moment. Then I saw it. He had a 3″ stick that went into the skin on his belly, but not out the other side. It wasn’t his leg that was keeping him there at all.
+
+I called Sheila, and she came back as soon as she could round up Lenore, until then we just waited. She didn’t see it on first sight either. I lifted his body and she guided the stick out in the same direction it went in to prevent any more damage. There was no blood dripping for some reason, but we were off to the emergency vet. The following week was full of lots of sick dog care. He’s on the up and up though, and will be just fine soon.
+
+My days pretty much fit a pattern, aside from a few. I woke up, had coffee, someone would start a fire. We would make breakfast, and then I sat and worked until lunch time. More working (I had several Ruby projects I was very intent on). I was as focused on work as I’ve ever been, which is to say, much more than usual. It was great being so secluded and able to just get things done with zero distractions of other humans. And then later in the day we would usually go find food somewhere. I ate everything “green chile” I could find, and it was all wonderful.
+
+Fred was around here and there. He likes to do his own there. He was frequently going on walks, or hikes, or running into town. He took me into town once to make up some duplicate IDs for my trip south (Thanks Fred!), and pick up some oil. He also got me all set up in his garage to do some soldering and other modifications to my motorcycle.
+
+I got to go see Howard and Jerry. I met Muriel, their newest dog. They remembered an old road trip I went on when I got very sick, and they gifted me something to combat a bacterial infection in the event that I encounter one.
+
+I got to see some snow fall, and coat everything. I got to see amazing sunsets. By the end of the trip I was surprised at just how much I liked Santa Fe. And then it was over, so very quickly. I would have stayed longer had I not had to meet up with Matt in Guatemala on the 23rd. As I left I missed it immediately, but it wasn’t bad getting back on the road at all.
+
+I waited until nearly 11 AM to leave knowing how damn cold it was out, and how warm it was where I was going. It just made sense. Back on the road, I felt composed and natural. I felt like all of my things were together and in order… but something was missing. What was it? Since then I’ve learned that it’s just a feeling I can’t leave a place without. All I can do is double check, and then forget about it.
+
+It was mile after mile of long boring road, burning oil at high RPM again. I hated it, but knew with over 500 miles to go, I really ought to make good time, it could get cold somewhere, and it did. I once again saw an opportunity to take a shorter, more scenic route, that took much longer. I stand by my decision, but it had me worried a couple of times. It started out as a straight two lane highway with better scenery (some photos below) and then started to elevate and turn into constant twisties. It was a lovely road for riding. And then it kept winding, up and up, and up and up. Then it started to get colder. Then came small patches of snow, that slowly expanded into a full sheet of snow, and then to a blanket…. That’s when I started to see some in the road, and I got nervous. I was about 50 miles from the other routes… And this road is still going up. With enough snow and ice, I just wasn’t going to make it that way, but I pressed on, and it seemed as if there was always a strip of pavement at least as wide as my tire.
+
+I fought the feeling that perhaps I was making a mistake, and then the road started to wind down, and down and down. And the snow left, just as it came. The sun followed me down the mountain, so I didn’t make much gain with the temperature. As I lowered in altitude the temperature kept dropping. I passed through Silver City, and then kept on down the line to Lordsberg. I gassed up and checked the temperature in Tucson, it was in fact warm there, but it was in fact very cold where I was. I got back on the freeway, I was starting to get a bit spacey, but fortunately my descent continued, and finally it warmed up a bit. I made it to a quirky little neighborhood in Tucson, and was greeted by Ashly: my couchsurfing host, and she was wearing the same house slippers I used to own. I think I started to make a couple of friends.
