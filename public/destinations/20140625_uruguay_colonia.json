@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20140625_uruguay_colonia",
-      "attributes": {
-        "latitude": -34.471389,
-        "longitude": -57.844167,
-        "date": "20140625",
-        "city": "Colonia",
-        "country": "Uruguay",
-        "flickr_link": "72157645414933071",
-        "body": "<p>Uruguay was meant to be a single day trip, just to transfer the motorcycle to the new owner. We had attempted to get everything done in Buenos Aires, but they wouldn&#39;t allow it, because he had Argentine citizenship,along with US. So, we were off to Uruguay.</p>\n<p>We rode two up. I drove. It was about three hours up to the border. Once we arrived, I turned in my import permit for the bike, and got stamped out of Argentina. That&#39;s when they told us that we would be required to have insurance to be allowed to bring the bike in, oh, and they don&#39;t sell it there. After a few minutes we realized we were going to have to take a trip. Tried to hitch hike, but ultimately ended up taking a cab to the next town. It wasn&#39;t far, but it did eat several hours of daylight.</p>\n<p>Back on the road, dark was coming soon. This time I drove again, becasue my visor wasn&#39;t tinted, and I had proper gear to block the wind. We rode fast given the conditions. It was getting cold, and we still had hopes  of making the last ferry. That turned out to be optimistic. A bit down the road Chris was looking at the map and said &quot;we&#39;re not going to make the last ferry&quot;. By the time we arrived we were both shivering uncontrollably. </p>\n<p>And that was how we ended up spending the night in a hostel in Colonia. Had a great dinner, and a couple of beers to celebrate the end of the trip, and the beginning of his. We spent a good 30 minutes or so going all of the specifics of the motorcycle hands on, and then put her in storage there in Uruguay, because he will never be able to ride her in Argentina as long as he&#39;s a citizen. </p>\n<p>The next day there was a quick ferry ride back to Buenos Aires, and we settled the paper work and the tab. And within a few more hours I had a plane ticket back to San Francisco.</p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm3.staticflickr.com/2940/14347899940_7d79206cba_c.jpg\" alt=\"Pesos from Uruguay\"><figcaption>Some pesos from Uruguay.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2906/14533067194_96de8389af_c.jpg\" alt=\"Santa Azul\"><figcaption>Where I last saw my motorcycle.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3869/14347937029_a3349fb96f_c.jpg\" alt=\"Insurance Office\"><figcaption>The insurance is run by the state in Uruguay. But, she got everything sorted out.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2940/14511428376_5190dc2953_c.jpg\" alt=\"The Border\"><figcaption>This is where we tried to hitch hike for a little while before calling a taxi.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20140625_uruguay_colonia",
+    "attributes": {
+      "latitude": -34.471389,
+      "longitude": -57.844167,
+      "date": "20140625",
+      "city": "Colonia",
+      "country": "Uruguay",
+      "flickr-link": "72157645414933071",
+      "body": "<p>Uruguay was meant to be a single day trip, just to transfer the motorcycle to the new owner. We had attempted to get everything done in Buenos Aires, but they wouldn&#39;t allow it, because he had Argentine citizenship,along with US. So, we were off to Uruguay.</p>\n<p>We rode two up. I drove. It was about three hours up to the border. Once we arrived, I turned in my import permit for the bike, and got stamped out of Argentina. That&#39;s when they told us that we would be required to have insurance to be allowed to bring the bike in, oh, and they don&#39;t sell it there. After a few minutes we realized we were going to have to take a trip. Tried to hitch hike, but ultimately ended up taking a cab to the next town. It wasn&#39;t far, but it did eat several hours of daylight.</p>\n<p>Back on the road, dark was coming soon. This time I drove again, becasue my visor wasn&#39;t tinted, and I had proper gear to block the wind. We rode fast given the conditions. It was getting cold, and we still had hopes  of making the last ferry. That turned out to be optimistic. A bit down the road Chris was looking at the map and said &quot;we&#39;re not going to make the last ferry&quot;. By the time we arrived we were both shivering uncontrollably. </p>\n<p>And that was how we ended up spending the night in a hostel in Colonia. Had a great dinner, and a couple of beers to celebrate the end of the trip, and the beginning of his. We spent a good 30 minutes or so going all of the specifics of the motorcycle hands on, and then put her in storage there in Uruguay, because he will never be able to ride her in Argentina as long as he&#39;s a citizen. </p>\n<p>The next day there was a quick ferry ride back to Buenos Aires, and we settled the paper work and the tab. And within a few more hours I had a plane ticket back to San Francisco.</p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm3.staticflickr.com/2940/14347899940_7d79206cba_c.jpg\" alt=\"Pesos from Uruguay\"><figcaption>Some pesos from Uruguay.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2906/14533067194_96de8389af_c.jpg\" alt=\"Santa Azul\"><figcaption>Where I last saw my motorcycle.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3869/14347937029_a3349fb96f_c.jpg\" alt=\"Insurance Office\"><figcaption>The insurance is run by the state in Uruguay. But, she got everything sorted out.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2940/14511428376_5190dc2953_c.jpg\" alt=\"The Border\"><figcaption>This is where we tried to hitch hike for a little while before calling a taxi.</figcaption></figure>"
     }
   }
 }

@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20140211_colombia_ipiales",
-      "attributes": {
-        "latitude": 0.821762,
-        "longitude": -77.641678,
-        "date": "20140211",
-        "city": "Ipiales",
-        "country": "Colombia",
-        "flickr_link": "72157640920854854",
-        "body": "<p>This was one of the more beautiful rides I&#39;ve done. Aside from the perfect weather, and the green scenery, the road was engineered for fun on a motorcycle. </p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm4.staticflickr.com/3773/12498148085_c2e6faff2e_c.jpg\" alt=\"KLR650\"><figcaption>She's still looking good.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3772/12498149965_9ee560b167_c.jpg\" alt=\"Scenery\"><figcaption></figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7316/12498151275_269c22314f_c.jpg\" alt=\"Mountain Panorama\"><figcaption>On the way to Ipiales.</figcaption></figure><figure><img src=\"http://farm6.staticflickr.com/5548/12498632334_2af9036a2d_c.jpg\" alt=\"Lunch\"><figcaption>There are lots of funny root vegetables in the soup, something like yucca, but not exactly.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7297/12498633804_a03cbabef6_c.jpg\" alt=\"The Riding\"><figcaption>This is about halfway to Ipiales. The road was gorgeous, and the scenery kept changing. But the thing that seemed pretty consistent was the windiness of the roads. The riding was a complete joy.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7387/12498155905_eba3a2cd9f_c.jpg\" alt=\"The Sign\"><figcaption>Hotel Noche Bella caught my attention with this glorious sign.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7395/12498636884_1e68a5e733_c.jpg\" alt=\"Ipiales Downtown\"><figcaption>As far as border towns go, it's not bad.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20140211_colombia_ipiales",
+    "attributes": {
+      "latitude": 0.821762,
+      "longitude": -77.641678,
+      "date": "20140211",
+      "city": "Ipiales",
+      "country": "Colombia",
+      "flickr-link": "72157640920854854",
+      "body": "<p>This was one of the more beautiful rides I&#39;ve done. Aside from the perfect weather, and the green scenery, the road was engineered for fun on a motorcycle. </p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm4.staticflickr.com/3773/12498148085_c2e6faff2e_c.jpg\" alt=\"KLR650\"><figcaption>She's still looking good.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3772/12498149965_9ee560b167_c.jpg\" alt=\"Scenery\"><figcaption></figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7316/12498151275_269c22314f_c.jpg\" alt=\"Mountain Panorama\"><figcaption>On the way to Ipiales.</figcaption></figure><figure><img src=\"http://farm6.staticflickr.com/5548/12498632334_2af9036a2d_c.jpg\" alt=\"Lunch\"><figcaption>There are lots of funny root vegetables in the soup, something like yucca, but not exactly.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7297/12498633804_a03cbabef6_c.jpg\" alt=\"The Riding\"><figcaption>This is about halfway to Ipiales. The road was gorgeous, and the scenery kept changing. But the thing that seemed pretty consistent was the windiness of the roads. The riding was a complete joy.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7387/12498155905_eba3a2cd9f_c.jpg\" alt=\"The Sign\"><figcaption>Hotel Noche Bella caught my attention with this glorious sign.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7395/12498636884_1e68a5e733_c.jpg\" alt=\"Ipiales Downtown\"><figcaption>As far as border towns go, it's not bad.</figcaption></figure>"
     }
   }
 }

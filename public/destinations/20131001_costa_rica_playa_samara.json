@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20131001_costa_rica_playa_samara",
-      "attributes": {
-        "latitude": 9.883333,
-        "longitude": -85.533333,
-        "date": "20131001",
-        "city": "Playa Samara",
-        "country": "Costa Rica",
-        "flickr_link": "72157638449893576",
-        "body": "<h1 id=\"picking-up-the-motorcycle\">Picking up the Motorcycle</h1>\n<p>Just a night, and just one photo here. After spending a few weeks back in San Francisco, I returned to Playa Nosara to pick up my motorcycle, and wound up in Samara for the night. The bus ride took most of the day already, so it made sense to spend at least one night.</p>\n<p>Had a fun time playing frisbee on the beach with my LED frisbee, and later dancing. It&#39;s an alright place, and worth stopping in if you&#39;re in the area. </p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm8.staticflickr.com/7423/11257517803_c0a76313c6_c.jpg\" alt=\"Evening Drinking\"><figcaption>Sorry for the bad photo everyone.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20131001_costa_rica_playa_samara",
+    "attributes": {
+      "latitude": 9.883333,
+      "longitude": -85.533333,
+      "date": "20131001",
+      "city": "Playa Samara",
+      "country": "Costa Rica",
+      "flickr-link": "72157638449893576",
+      "body": "<h1 id=\"picking-up-the-motorcycle\">Picking up the Motorcycle</h1>\n<p>Just a night, and just one photo here. After spending a few weeks back in San Francisco, I returned to Playa Nosara to pick up my motorcycle, and wound up in Samara for the night. The bus ride took most of the day already, so it made sense to spend at least one night.</p>\n<p>Had a fun time playing frisbee on the beach with my LED frisbee, and later dancing. It&#39;s an alright place, and worth stopping in if you&#39;re in the area. </p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm8.staticflickr.com/7423/11257517803_c0a76313c6_c.jpg\" alt=\"Evening Drinking\"><figcaption>Sorry for the bad photo everyone.</figcaption></figure>"
     }
   }
 }

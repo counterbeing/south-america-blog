@@ -23,7 +23,7 @@ export function run() {
     .then( (destination) => {
       writeJson(
         path.join('../public/destinations/', (destination.id + '.json')),
-        {'data': destination}
+        destination
       )
       return destination
     })
@@ -73,9 +73,9 @@ let readAndProcess = (destination) => {
         'date': val.date,
         'city': val.city,
         'country': val.country,
-        'flickr_link': val.flickr_link,
+        'flickr-link': val.flickr_link,
         'body': marked(val.__content),
-        'flickr_cache': flickrCache
+        'flickr-cache': flickrCache
       }
     }
   })

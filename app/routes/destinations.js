@@ -4,4 +4,7 @@ export default Ember.Route.extend({
   model() {
     return this.get('store').findAll('destination')
   },
-});
+  afterModel(model) {
+    this.transitionTo('destination', model.get('firstObject'))
+  }
+})

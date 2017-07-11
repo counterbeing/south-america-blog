@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20140224_ecuador_cuenca",
-      "attributes": {
-        "latitude": -2.9001285,
-        "longitude": -79.00589649999999,
-        "date": "20140224",
-        "city": "Cuenca",
-        "country": "Ecuador",
-        "flickr_link": "72157641494613753",
-        "body": "<p>This was sort of a work holiday for me. I took some time and put together a new app while hanging out in the hostel.</p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm4.staticflickr.com/3780/12764046743_f9ba876d26_c.jpg\" alt=\"Statue\"><figcaption>Not sure, just a thing I saw as I was walking around.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20140224_ecuador_cuenca",
+    "attributes": {
+      "latitude": -2.9001285,
+      "longitude": -79.00589649999999,
+      "date": "20140224",
+      "city": "Cuenca",
+      "country": "Ecuador",
+      "flickr-link": "72157641494613753",
+      "body": "<p>This was sort of a work holiday for me. I took some time and put together a new app while hanging out in the hostel.</p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm4.staticflickr.com/3780/12764046743_f9ba876d26_c.jpg\" alt=\"Statue\"><figcaption>Not sure, just a thing I saw as I was walking around.</figcaption></figure>"
     }
   }
 }

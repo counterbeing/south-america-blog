@@ -42,7 +42,7 @@ function run() {
     };
   }).map(function (destination) {
     return readAndProcess(destination).then(function (destination) {
-      writeJson(_path2.default.join('../public/destinations/', destination.id + '.json'), { 'data': destination });
+      writeJson(_path2.default.join('../public/destinations/', destination.id + '.json'), destination);
       return destination;
     }).then(function (destination) {
       var attributes = destination.attributes;
@@ -77,9 +77,9 @@ var readAndProcess = function readAndProcess(destination) {
         'date': val.date,
         'city': val.city,
         'country': val.country,
-        'flickr_link': val.flickr_link,
+        'flickr-link': val.flickr_link,
         'body': (0, _marked2.default)(val.__content),
-        'flickr_cache': flickrCache
+        'flickr-cache': flickrCache
       }
     };
   }).catch(SyntaxError, function () {

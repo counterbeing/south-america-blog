@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20130508_guatemala_quetzaltenango",
-      "attributes": {
-        "latitude": 14.836156,
-        "longitude": -91.521959,
-        "date": "20130508",
-        "city": "Quetzaltenango",
-        "country": "Guatemala",
-        "flickr_link": "72157638442082734",
-        "body": "",
-        "flickr_cache": "<figure><img src=\"http://farm3.staticflickr.com/2858/11253023675_7f10f2c68b_c.jpg\" alt=\"Hub\"><figcaption>This is when I found out about my speedometer housing being improperly reinstalled. </figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2808/11253025335_c255c09d9c_c.jpg\" alt=\"Hub\"><figcaption>You can see chunks of pot metal in the speedo housing there. They're the gears from the hub... </figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3704/11253113543_934b4ac5a4_c.jpg\" alt=\"Hub\"><figcaption>Around the edges you can see where the metal has been taken right off.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2858/11253115343_d73ef7889c_c.jpg\" alt=\"Mobile Office\"><figcaption>Just working.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2849/11253117433_607e1de710_c.jpg\" alt=\"Xela\"><figcaption>View from the hostel.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3712/11253032685_df24750c4d_c.jpg\" alt=\"Xela\"><figcaption></figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2824/11253034215_8c211537fd_c.jpg\" alt=\"Chicken\"><figcaption>Dinner, just after I arrived. I was exhausted, and the mystery sauce wasn't bad.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20130508_guatemala_quetzaltenango",
+    "attributes": {
+      "latitude": 14.836156,
+      "longitude": -91.521959,
+      "date": "20130508",
+      "city": "Quetzaltenango",
+      "country": "Guatemala",
+      "flickr-link": "72157638442082734",
+      "body": "",
+      "flickr-cache": "<figure><img src=\"http://farm3.staticflickr.com/2858/11253023675_7f10f2c68b_c.jpg\" alt=\"Hub\"><figcaption>This is when I found out about my speedometer housing being improperly reinstalled. </figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2808/11253025335_c255c09d9c_c.jpg\" alt=\"Hub\"><figcaption>You can see chunks of pot metal in the speedo housing there. They're the gears from the hub... </figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3704/11253113543_934b4ac5a4_c.jpg\" alt=\"Hub\"><figcaption>Around the edges you can see where the metal has been taken right off.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2858/11253115343_d73ef7889c_c.jpg\" alt=\"Mobile Office\"><figcaption>Just working.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2849/11253117433_607e1de710_c.jpg\" alt=\"Xela\"><figcaption>View from the hostel.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3712/11253032685_df24750c4d_c.jpg\" alt=\"Xela\"><figcaption></figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2824/11253034215_8c211537fd_c.jpg\" alt=\"Chicken\"><figcaption>Dinner, just after I arrived. I was exhausted, and the mystery sauce wasn't bad.</figcaption></figure>"
     }
   }
 }

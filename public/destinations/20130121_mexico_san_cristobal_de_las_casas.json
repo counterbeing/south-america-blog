@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20130121_mexico_san_cristobal_de_las_casas",
-      "attributes": {
-        "latitude": 16.7420359,
-        "longitude": -92.6376186,
-        "date": "20130121",
-        "city": "San Cristobal de Las Casas",
-        "country": "Mexico",
-        "flickr_link": "72157638448237205",
-        "body": "<h1 id=\"quick-stop\">Quick Stop</h1>\n<p>Too bad I had to get back on the road immediately. Had a nice walk around and dinner though. </p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm4.staticflickr.com/3812/11256745274_77bdc5f5df_c.jpg\" alt=\"Streets\"><figcaption>Grabbed this single photo on the way out of town.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20130121_mexico_san_cristobal_de_las_casas",
+    "attributes": {
+      "latitude": 16.7420359,
+      "longitude": -92.6376186,
+      "date": "20130121",
+      "city": "San Cristobal de Las Casas",
+      "country": "Mexico",
+      "flickr-link": "72157638448237205",
+      "body": "<h1 id=\"quick-stop\">Quick Stop</h1>\n<p>Too bad I had to get back on the road immediately. Had a nice walk around and dinner though. </p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm4.staticflickr.com/3812/11256745274_77bdc5f5df_c.jpg\" alt=\"Streets\"><figcaption>Grabbed this single photo on the way out of town.</figcaption></figure>"
     }
   }
 }

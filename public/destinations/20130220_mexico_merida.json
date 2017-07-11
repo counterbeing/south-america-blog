@@ -1,17 +1,15 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20130220_mexico_merida",
-      "attributes": {
-        "latitude": 20.979721,
-        "longitude": -89.61578899999999,
-        "date": "20130220",
-        "city": "Merida",
-        "country": "Mexico",
-        "body": "<h2 id=\"laura-arrives\">Laura Arrives</h2>\n<p>I met up with Laura here in Merida. She was in town for a conference. There&#39;s not much to report on Merida, except that it&#39;s nice, and is very hot. Somehow taking photos escaped me.</p>\n",
-        "flickr_cache": ""
-      }
+    "type": "destination",
+    "id": "20130220_mexico_merida",
+    "attributes": {
+      "latitude": 20.979721,
+      "longitude": -89.61578899999999,
+      "date": "20130220",
+      "city": "Merida",
+      "country": "Mexico",
+      "body": "<h2 id=\"laura-arrives\">Laura Arrives</h2>\n<p>I met up with Laura here in Merida. She was in town for a conference. There&#39;s not much to report on Merida, except that it&#39;s nice, and is very hot. Somehow taking photos escaped me.</p>\n",
+      "flickr-cache": ""
     }
   }
 }

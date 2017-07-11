@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20140511_bolivia_sucre",
-      "attributes": {
-        "latitude": -19.0195852,
-        "longitude": -65.2619615,
-        "date": "20140511",
-        "city": "Sucre",
-        "country": "Bolivia",
-        "flickr_link": "72157644278618538",
-        "body": "<p>Once again, I thought I was on a roll. I thought I would be in Chile before the week was out, but I snapped a couple of bolts, and vibrated another free on the ride to Sucre. All this due to about a hundred miles of cobblestone and dirt. It was apparant that some work needed to be done on the bike before moving on. </p>\n<p>Fortunately, someone recommended a really nice hostel with some friendly folks that let me park in the courtyard and work on the bike. Took a good bit of time to hack off a couple of bolts to get the box off. The two remaining bolts were so bent that I couldn&#39;t remove them as intended. I had to take parts off of the bike to bring them to a welder to get them extracted. Then it was only about five more stops to get all of the necessary parts. I have to say, I&#39;m pleased with the results, but it was a reail pain to get it done.  </p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm3.staticflickr.com/2898/14192176431_929a3323e0_c.jpg\" alt=\"Welding\"><figcaption>Here we are, welding without a mask or eyewear. He says he closes his eyes when he welds. The picture even feels bright to look at.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7334/14008802078_d75982fb70_c.jpg\" alt=\"Dry Land\"><figcaption>Nice place to pause for a piddle.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7328/14192181251_06545bee59_c.jpg\" alt=\"KLR650 On Dirt Road\"><figcaption>I hadn't realized it, but two of my bolts holding my box on were probably sheared at this point.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20140511_bolivia_sucre",
+    "attributes": {
+      "latitude": -19.0195852,
+      "longitude": -65.2619615,
+      "date": "20140511",
+      "city": "Sucre",
+      "country": "Bolivia",
+      "flickr-link": "72157644278618538",
+      "body": "<p>Once again, I thought I was on a roll. I thought I would be in Chile before the week was out, but I snapped a couple of bolts, and vibrated another free on the ride to Sucre. All this due to about a hundred miles of cobblestone and dirt. It was apparant that some work needed to be done on the bike before moving on. </p>\n<p>Fortunately, someone recommended a really nice hostel with some friendly folks that let me park in the courtyard and work on the bike. Took a good bit of time to hack off a couple of bolts to get the box off. The two remaining bolts were so bent that I couldn&#39;t remove them as intended. I had to take parts off of the bike to bring them to a welder to get them extracted. Then it was only about five more stops to get all of the necessary parts. I have to say, I&#39;m pleased with the results, but it was a reail pain to get it done.  </p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm3.staticflickr.com/2898/14192176431_929a3323e0_c.jpg\" alt=\"Welding\"><figcaption>Here we are, welding without a mask or eyewear. He says he closes his eyes when he welds. The picture even feels bright to look at.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7334/14008802078_d75982fb70_c.jpg\" alt=\"Dry Land\"><figcaption>Nice place to pause for a piddle.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7328/14192181251_06545bee59_c.jpg\" alt=\"KLR650 On Dirt Road\"><figcaption>I hadn't realized it, but two of my bolts holding my box on were probably sheared at this point.</figcaption></figure>"
     }
   }
 }

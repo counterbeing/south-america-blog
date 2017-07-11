@@ -1,18 +1,16 @@
 {
   "data": {
-    "data": {
-      "type": "destination",
-      "id": "20140621_argentina_buenos_aires",
-      "attributes": {
-        "latitude": -34.6037232,
-        "longitude": -58.3815931,
-        "date": "20140621",
-        "city": "Buenos Aires",
-        "country": "Argentina",
-        "flickr_link": "72157645303860014",
-        "body": "<p>This is a temporary status update. I&#39;ve just arrived in Buenos Aires, and will probably have a lot more to come. I&#39;m currently attempting to sell a motorcycle. Wish me luck!</p>\n",
-        "flickr_cache": "<figure><img src=\"http://farm3.staticflickr.com/2901/14457576216_34d05da7d4_c.jpg\" alt=\"Damon Drinking\"><figcaption>Damon is a Kiwi-Canadian musician I met at the hostel. We went out in search of food, and we sure found it.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3905/14480675985_83ec901b7a_c.jpg\" alt=\"Chorizo\"><figcaption>So much chorizo. I gotta say, it was incredible.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2896/14480677235_5d6faaa4e5_c.jpg\" alt=\"Buenos Aires Buildings\"><figcaption>Just walking down the street. Here's what it looks like.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2908/14294057040_b21fd94296_c.jpg\" alt=\"The Pink House\"><figcaption>This is The Pink House. It's the Argentinian equivalent of the White House. </figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3914/14294097588_ba025bebf8_c.jpg\" alt=\"Center of Buenos Aires\"><figcaption>Not my best photo, but here's near the center. That's what I get for not wanting to unplug my headphones while taking a photo.</figcaption></figure><figure><img src=\"http://farm6.staticflickr.com/5495/14294247257_6f7b0239a9_c.jpg\" alt=\"Street Art\"><figcaption>I liked this guy.</figcaption></figure><figure><img src=\"http://farm6.staticflickr.com/5483/14534517875_0eff125b04_c.jpg\" alt=\"Coffee and Medialunas\"><figcaption>There was a lot of great coffee in Buenos Aires. That really surprised me, given the lack of good coffee most everywhere else I've been.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2909/14511410116_20c41a7a12_c.jpg\" alt=\"Buenos Aires Buildings\"><figcaption>Just walking around.\n</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3858/14511410866_9ec91f6348_c.jpg\" alt=\"Eva\"><figcaption>I don't know much about Eva Perón, but this monument is of her.</figcaption></figure>"
-      }
+    "type": "destination",
+    "id": "20140621_argentina_buenos_aires",
+    "attributes": {
+      "latitude": -34.6037232,
+      "longitude": -58.3815931,
+      "date": "20140621",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "flickr-link": "72157645303860014",
+      "body": "<p>This is a temporary status update. I&#39;ve just arrived in Buenos Aires, and will probably have a lot more to come. I&#39;m currently attempting to sell a motorcycle. Wish me luck!</p>\n",
+      "flickr-cache": "<figure><img src=\"http://farm3.staticflickr.com/2901/14457576216_34d05da7d4_c.jpg\" alt=\"Damon Drinking\"><figcaption>Damon is a Kiwi-Canadian musician I met at the hostel. We went out in search of food, and we sure found it.</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3905/14480675985_83ec901b7a_c.jpg\" alt=\"Chorizo\"><figcaption>So much chorizo. I gotta say, it was incredible.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2896/14480677235_5d6faaa4e5_c.jpg\" alt=\"Buenos Aires Buildings\"><figcaption>Just walking down the street. Here's what it looks like.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2908/14294057040_b21fd94296_c.jpg\" alt=\"The Pink House\"><figcaption>This is The Pink House. It's the Argentinian equivalent of the White House. </figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3914/14294097588_ba025bebf8_c.jpg\" alt=\"Center of Buenos Aires\"><figcaption>Not my best photo, but here's near the center. That's what I get for not wanting to unplug my headphones while taking a photo.</figcaption></figure><figure><img src=\"http://farm6.staticflickr.com/5495/14294247257_6f7b0239a9_c.jpg\" alt=\"Street Art\"><figcaption>I liked this guy.</figcaption></figure><figure><img src=\"http://farm6.staticflickr.com/5483/14534517875_0eff125b04_c.jpg\" alt=\"Coffee and Medialunas\"><figcaption>There was a lot of great coffee in Buenos Aires. That really surprised me, given the lack of good coffee most everywhere else I've been.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2909/14511410116_20c41a7a12_c.jpg\" alt=\"Buenos Aires Buildings\"><figcaption>Just walking around.\n</figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3858/14511410866_9ec91f6348_c.jpg\" alt=\"Eva\"><figcaption>I don't know much about Eva Perón, but this monument is of her.</figcaption></figure>"
     }
   }
 }
