@@ -1,0 +1,18 @@
+{
+  "data": {
+    "data": {
+      "type": "destination",
+      "id": "20130426_mexico_xpujil",
+      "attributes": {
+        "latitude": 18.5121202,
+        "longitude": -89.4078584,
+        "date": "20130426",
+        "city": "Xpujil",
+        "country": "Mexico",
+        "flickr_link": "72157638448815473",
+        "body": "",
+        "flickr_cache": "<figure><img src=\"http://farm6.staticflickr.com/5526/11256655745_2d11c2f370_c.jpg\" alt=\"Casita\"><figcaption></figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3713/11256687484_f398d1d096_c.jpg\" alt=\"Sunset\"><figcaption></figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3784/11256689664_2d245bea2d_c.jpg\" alt=\"Burning Trash\"><figcaption>You burn it, then it's gone, right?</figcaption></figure>"
+      }
+    }
+  }
+}

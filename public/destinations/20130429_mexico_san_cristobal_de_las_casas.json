@@ -1,0 +1,18 @@
+{
+  "data": {
+    "data": {
+      "type": "destination",
+      "id": "20130429_mexico_san_cristobal_de_las_casas",
+      "attributes": {
+        "latitude": 16.7370359,
+        "longitude": -92.6376186,
+        "date": "20130429",
+        "city": "San Cristobal de Las Casas",
+        "country": "Mexico",
+        "flickr_link": "72157638448481486",
+        "body": "",
+        "flickr_cache": "<figure><img src=\"http://farm8.staticflickr.com/7422/11256705496_11eb6e2b63_c.jpg\" alt=\"Roof Panorama\"><figcaption></figcaption></figure><figure><img src=\"http://farm4.staticflickr.com/3668/11256775283_d957a8126b_c.jpg\" alt=\"Roof Shot\"><figcaption></figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2861/11256687265_5fa1ef7855_c.jpg\" alt=\"Urinal Shot\"><figcaption>One of my most striking photos, shot from a urinal.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2887/11256710506_467e96332e_c.jpg\" alt=\"Cross\"><figcaption></figcaption></figure>"
+      }
+    }
+  }
+}

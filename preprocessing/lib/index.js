@@ -1,5 +1,10 @@
 'use strict';
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.run = run;
+
 var _fsExtra = require('fs-extra');
 
 var _fsExtra2 = _interopRequireDefault(_fsExtra);
@@ -16,19 +21,53 @@ var _bluebird = require('bluebird');
 
 var _bluebird2 = _interopRequireDefault(_bluebird);
 
+var _path = require('path');
+
+var _path2 = _interopRequireDefault(_path);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-// import path from 'path'
 _bluebird2.default.promisifyAll(_fsExtra2.default);
 
-var destination = {
-  id: '20121222_california_san_francisco',
-  markdownPath: 'data/20121222_california_san_francisco/post.md',
-  flickrCachePath: 'data/20121222_california_san_francisco/flickr.cache'
+function run() {
+  _fsExtra2.default.ensureDirSync('../public/destinations/');
+  _fsExtra2.default.readdirAsync('./data/').filter(function (element) {
+    return (/\d{7}/.test(element)
+    );
+  }).map(function (fileName) {
+    return {
+      id: fileName,
+      markdownPath: 'data/' + fileName + '/post.md',
+      flickrCachePath: 'data/' + fileName + '/flickr.cache'
+    };
+  }).map(function (destination) {
+    return readAndProcess(destination).then(function (destination) {
+      writeJson(_path2.default.join('../public/destinations/', destination.id + '.json'), { 'data': destination });
+      return destination;
+    }).then(function (destination) {
+      var attributes = destination.attributes;
+      return {
+        'type': 'destination',
+        'id': destination.id,
+        'attributes': {
+          'latitude': attributes.latitude,
+          'longitude': attributes.longitude,
+          'date': attributes.date
+        }
+      };
+    }).then(function (destinations) {
+      writeJson(_path2.default.join('../public', 'index.json'), { 'data': destinations });
+    });
+  });
+}
+
+var writeJson = function writeJson(file, data) {
+  return _fsExtra2.default.writeJson(file, { data: data }, { spaces: 2 });
 };
 
 var readAndProcess = function readAndProcess(destination) {
   return _fsExtra2.default.readFileAsync(destination.markdownPath).then(_yamlFrontMatter2.default.loadFront).then(function (val) {
+    var flickrCache = _fsExtra2.default.existsSync(destination.flickrCachePath) ? _fsExtra2.default.readFileSync(destination.flickrCachePath, { encoding: 'utf-8' }) : '';
     return {
       'type': 'destination',
       'id': destination.id,
@@ -40,17 +79,15 @@ var readAndProcess = function readAndProcess(destination) {
         'country': val.country,
         'flickr_link': val.flickr_link,
         'body': (0, _marked2.default)(val.__content),
-        'flickr_cache': _fsExtra2.default.readFileSync(destination.flickrCachePath, { encoding: 'utf-8' })
+        'flickr_cache': flickrCache
       }
     };
   }).catch(SyntaxError, function () {
     console.error('invalid yaml in file');
-  }).catch(function () {
+  }).catch(function (err) {
     console.error('unable to read file');
+    console.log(err);
   });
 };
 
-var result = readAndProcess(destination);
-result.then(function (out) {
-  console.log(out);
-});
+run();

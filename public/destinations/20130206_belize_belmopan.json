@@ -1,0 +1,18 @@
+{
+  "data": {
+    "data": {
+      "type": "destination",
+      "id": "20130206_belize_belmopan",
+      "attributes": {
+        "latitude": 17.2513889,
+        "longitude": -88.7669444,
+        "date": "20130206",
+        "city": "Belmopan",
+        "country": "Belize",
+        "flickr_link": "72157638437861956",
+        "body": "<p>Just a quick stopover. </p>\n",
+        "flickr_cache": "<figure><img src=\"http://farm4.staticflickr.com/3675/11251175366_f38986a98c_c.jpg\" alt=\"Roadside\"><figcaption>Definitely rained a bit around these parts.</figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2873/11251513284_c7a5a60bdf_c.jpg\" alt=\"Dirty Motorcycle\"><figcaption>From Guatemala, on my way into Belize. The road was a thick yellow line on a map, but turned out to be over 50 miles of dirt. </figcaption></figure><figure><img src=\"http://farm3.staticflickr.com/2852/11251573563_02a560b5a6_c.jpg\" alt=\"Dirty Legs\"><figcaption>I got dirty too.</figcaption></figure><figure><img src=\"http://farm8.staticflickr.com/7396/11251485245_aa99cb54da_c.jpg\" alt=\"Dirty Motorcycle\"><figcaption>I can't say I'm not a little proud.</figcaption></figure>"
+      }
+    }
+  }
+}
