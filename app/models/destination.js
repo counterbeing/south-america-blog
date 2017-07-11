@@ -7,7 +7,7 @@ export default Model.extend({
   date: attr(),
   city: attr(),
   country: attr(),
-  flickr_link: attr(),
+  flickrLink: attr(),
   body: attr(),
-  flickr_cache: attr(),
+  flickrCache: attr(),
 })

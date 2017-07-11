@@ -1,7 +1,9 @@
+@import "ember-bootstrap/bootstrap";
+// @import "ember-bootstrap/bootstrap/scaffolding.scss";
+
 a:hover{color: white; background-color:#ff95c4; text-decoration: none;}
 
 body{
-  /*background-image: url('../images/textured_paper_orig.jpg');*/
   background-attachment:fixed;
   width: 100%;
   height: 100%;

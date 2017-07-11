@@ -1,0 +1,15 @@
+{{outlet}}
+{{google-map}}
+<div id='blog-content'>
+  {{{model.body}}}
+  {{{model.flickrCache}}}
+  {{#if model.flickrLink}}
+    <section data-flickr-id={{model.flickrLink}} class="photos">
+      Loading photos.
+    </section>
+    <p>
+      Here are <a href="http://www.flickr.com/photos/counterbeing/sets/{{model.flickLrink}}/" title="The flickr set">the original files on flickr</a>.
+    </p>
+  {{/if}}
+</div>
+<!-- analytics -->
