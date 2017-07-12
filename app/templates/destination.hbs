@@ -7,6 +7,12 @@
     <a href="#" title="next post" class="button scripty">Next &gt;</a>
     <a href="/index.html" title="homepage" class="button">Homepage</a>
   </div>
+
+  <header>
+    <h2>{{model.city}}, {{model.country}}</h2>
+    {{!-- <h3>{{model.formatDate date}}</h3> --}}
+  </header>
+
   {{{model.body}}}
   {{#if model.flickrLink}}
     {{{model.flickrCache}}}
