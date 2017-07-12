@@ -1,14 +1,17 @@
 {{outlet}}
-{{google-map}}
+{{google-map latitude=model.latitude longitude=model.longitude}}
+
 <div id='blog-content'>
+  <div class="map-nav">
+    <a href="#" title="previous post" class="button scripty">&lt; Previous</a>
+    <a href="#" title="next post" class="button scripty">Next &gt;</a>
+    <a href="/index.html" title="homepage" class="button">Homepage</a>
+  </div>
   {{{model.body}}}
-  {{{model.flickrCache}}}
   {{#if model.flickrLink}}
-    <section data-flickr-id={{model.flickrLink}} class="photos">
-      Loading photos.
-    </section>
+    {{{model.flickrCache}}}
     <p>
-      Here are <a href="http://www.flickr.com/photos/counterbeing/sets/{{model.flickLrink}}/" title="The flickr set">the original files on flickr</a>.
+      Here are <a href="http://www.flickr.com/photos/counterbeing/sets/{{model.flickrLink}}/" title="The flickr set">the original files on flickr</a>.
     </p>
   {{/if}}
 </div>

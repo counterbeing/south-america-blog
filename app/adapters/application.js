@@ -4,11 +4,6 @@ const { String: { pluralize } } = Ember;
 
 export default DS.JSONAPIAdapter.extend({
   suffix: '.json',
-
-  // pathForType: function(type) {
-  //   debugger
-  //   return this._super(type) + this.get('suffix');
-  // }
   buildURL: function(modelName, id, snapshot, requestType, query) {
     if(id) {
       let pluralModel = pluralize(modelName)
