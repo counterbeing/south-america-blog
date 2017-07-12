@@ -3,8 +3,8 @@ import Ember from 'ember';
 export default Ember.Component.extend({
   locationManager: Ember.inject.service('location-manager'),
   insertMap: function() {
-    let locationManager = this.get('locationManager')
-    console.log(locationManager.allLocations)
+    // let locationManager = this.get('locationManager')
+    // console.log(locationManager.allLocations())
     let lat = this.get('latitude')
     let lng = this.get('longitude')
     let container = this.$('.map-canvas')[0]

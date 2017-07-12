@@ -1,6 +1,7 @@
 {{outlet}}
-{{google-map}}
-<div id='blog-content'>
-  <h2>blog content</h2>
-</div>
-<!-- analytics -->
+
+{{#each model as |location|}}
+  {{#link-to 'destination' location.id}}
+    {{location.id}} {{location.date}}: {{location.latitude}}, {{location.longitude}}<br>
+  {{/link-to}}
+{{/each}}
