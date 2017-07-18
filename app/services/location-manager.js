@@ -7,14 +7,19 @@ const {
 
 export default Service.extend({
   store: service(),
+  currentLocation: null,
+  allLocations: null,
+  test: false,
 
   init() {
     let store = this.get('store')
-    this.set('allLocations', store.findAll('destination'))
+    let result = store.findAll('destination')
+    this.set('allLocations', result)
+    this.set('test', true)
     this._super(...arguments)
   },
 
   setLocation(location) {
-    this.set('currentlySelectedLocation', location)
+    this.set('currentLocation', location)
   }
 })

@@ -1,6 +1,6 @@
 import DS from 'ember-data';
-const { String: { pluralize } } = Ember;
 
+const { String: { pluralize } } = Ember
 
 export default DS.JSONAPIAdapter.extend({
   suffix: '.json',
