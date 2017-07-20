@@ -8,7 +8,7 @@ flickr_link: "72157638414531395"
 
 ---
 
-#Adorable town in the mountains
+### Adorable town in the mountains
 
 I'd decided that I'd had enough of partying in overwhelming heat, and that it was time for some mountains. So, I skipped out on Santa Marta, and headed for the hills.
 

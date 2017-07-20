@@ -7,7 +7,7 @@ country: California
 flickr_link: '72157638449903896'
 ---
 
-# Here's where it all started
+## Here's where it all started
 
 Lots of bike prep in the last few days before heading out. My new suit arrived just in time for an on-time departure. And I struggled to wrap things up with work.
 

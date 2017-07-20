@@ -7,7 +7,7 @@ country: Guatemala
 flickr_link: '72157638438245403'
 ---
 
-# An Old Friend
+## An Old Friend
 Today was the day Matt was to show up. This was the reason I had dashed through Mexico so quickly. Finding my way down to San Pedro wasn't a challenge, but I'm sure it took its toll on my brakes. Finding the hostel was a bit of a challenge, and I ended up hiring a tuktuk just to show me where it was. Of course, he didn't know and we spent some time going back and forth, and he asked people he knew until we located it. 
 
 It was great seeing Matt again. The hostel we stayed in was somewhat garbage, but, it was cheap at least. Matt had already done a bit of homework about taking a scuba class, and so he was ready to hop a boat over to Santa Cruz and get started on his course first thing in  the morning. For me it wasn't so simple. I went to a tourism office, which is really much to formal a title for what it was, and asked about the best way to get to Santa Cruz. At first she said it wasn't possible. I then pointed to a road on my map that went way up out of  the crater we were in... Suddenly she changed her mind, and pointed out this other route.

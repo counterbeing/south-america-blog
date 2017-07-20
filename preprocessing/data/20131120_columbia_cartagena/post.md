@@ -8,7 +8,7 @@ flickr_link: "72157638418206116"
 
 ---
 
-# Three Showers Per Day
+## Three Showers Per Day
 
 Cartagena is a hot and sweaty town. It's a touch dirty, but it has its charms. I really did often take three showers a day there, it was just hard to cope without them. The old town is pleasant, but I enjoyed where I was staying a little bit more. Things were a bit dirtier and cheaper, which is how I like them.
 

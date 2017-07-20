@@ -7,5 +7,5 @@ country: Mexico
 flickr_link: '72157638448237205'
 ---
 
-# Quick Stop
+## Quick Stop
 Too bad I had to get back on the road immediately. Had a nice walk around and dinner though. 

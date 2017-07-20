@@ -7,6 +7,6 @@ country: Mexico
 
 ---
 
-## Laura Arrives
+### Laura Arrives
 
 I met up with Laura here in Merida. She was in town for a conference. There's not much to report on Merida, except that it's nice, and is very hot. Somehow taking photos escaped me.

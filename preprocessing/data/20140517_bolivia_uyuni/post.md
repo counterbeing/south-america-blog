@@ -7,7 +7,7 @@ country: Bolivia
 flickr_link: '72157644308015227'
 ---
 
-## I don't know what to say about the town
+### I don't know what to say about the town
 
 I arrived, dropped off my bags, and tensioned my chain. I grabbed lunch and then I took off for the Salar (the salt flats).
 

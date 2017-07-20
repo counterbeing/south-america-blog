@@ -25,6 +25,6 @@ I came to a spot where there was a cave entrance about 3 feet high, and 2 wide. 
 
 Another hour later, and I was at the bottom. Three more hours, and I was at the beach, completely wiped. All in all, a great day.
 
-# Huanchaco Itself
+## Huanchaco Itself
 
 I've found this to be a delightful little town. There's plenty of good food to be found. The hostel I'm staying at ([Surf Hostel Meri](http://www.hostelz.com/hostel/+187893-Surf-Hostel-Meri 'This hostel has been very good to me.')) has been an exceptoinally relaxed place to get some things done, surf, and meet friendly people. If you're in search of some downtime and you're in Peru, this is an excellent choice.  

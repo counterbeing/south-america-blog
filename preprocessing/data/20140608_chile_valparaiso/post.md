@@ -12,7 +12,7 @@ The ride to Valparaiso was another unexpected adventure. It all started getting 
 
 The day ended safely, but full of embarrassment. I'm going to pull the, "it's because I had three hours of sleep", card. 
 
-## The Wallet
+### The Wallet
 I pulled up to the first tollbooth about an hour after departure. As I rolled up I reached for a wallet that wasn't in its proper place. I immediately realized I must have left it at the gas station somehow. Most likely I had just set it in my lap, and just rode away. I pulled off to the side. I started going through all of my things, already having lost hope, knowing there's one place and one place only I put my wallet, and it wasn't there.
 
 A bus driver signaled at me, I explained the situation, and he gave me the money for the toll booth and told me where the next ATM was (fortunately, I still had my backup ATM card).
@@ -22,7 +22,7 @@ The next hour I still hadn't forgiven myself, and wouldn't give myself permissio
 Eventually I arrived, and the ATM gave me the money, and I was relieved, still mad, but relieved. I told myself "good, the systems I have in place kept this from being a really bad thing". Time for some cookies. I'm buying cookies, and pull out my phone, and find my wallet behind it, in the wrong pocket. I felt like such an ass.
 
 
-## The Weakest Link
+### The Weakest Link
 
 I was moving along down a nice stretch of road, feeling generally good about having found my wallet, but knowing also that I wasn't going to make it during daylight hours. I hit a bump. A strange bump that didn't make any sense, it didn't make any sense, because I didn't see a rock or anything, and I dodged it with my front tire, but not my rear. Very odd. 
 

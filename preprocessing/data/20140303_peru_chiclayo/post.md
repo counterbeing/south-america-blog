@@ -16,7 +16,7 @@ The ride was stunning. Somehow running in that direction you cross the mountain 
 The whole time I was slightly concerned about running into police, without insurance I was asking for trouble. Most likely someone would want to be bribed.
 
 
-##Peruvian SOAT
+### Peruvian SOAT
 Getting my SOAT was no easy thing due to where I crossed in. I ended up having to go to Chiclayo to get it. I just wanted to share a bit on how that went.
 
 Part one is finding a place to sleep that can store a motorcycle. Here's one that treated me nicely and was pretty cheap. It's called Aurora's and there's a photo below: [map](https://www.google.com/maps/place/6%C2%B045'51.5%22S+79%C2%B050'26.5%22W/@-6.76432,-79.8407,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0 Aurora's Hostel).
@@ -24,7 +24,7 @@ Part one is finding a place to sleep that can store a motorcycle. Here's one tha
 And here's [the place I got my SOAT](https://www.google.com/maps/place/6%C2%B046'23.2%22S+79%C2%B050'18.2%22W/@-6.77312,-79.8384,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0 "SOAT Seller") for 45 days. It took a few minutes, and cost about $50 USD which I thought was quite steep.
 
 
-## Lessons Learned
+### Lessons Learned
 While in the shower a moment ago, I started thinking about some of the things that I've learned on this trip, whilst stooping to pick a bar of dropped soap up.
 
 - Every time you use a bar of soap, it is a new bar of soap.
@@ -37,5 +37,3 @@ While in the shower a moment ago, I started thinking about some of the things th
 - The most important aspect to speaking a new language is confidence – act like you know what you're talking about, and you probably do.
 - Police have a life too... Playing dumb really can get you a long way, as long as you're willing to swallow your ego.
 - When asking to take someone's photo, don't feel weird about it, or they'll feel weird about it.
-
-

@@ -8,6 +8,6 @@ flickr_link: "72157638422277135"
 
 ---
 
-#Quiet Times
+### Quiet Times
 
-I was here for a couple of weeks, but managed to take just a couple of photos. I was super relaxed, and spent time cooking, and walking around, and working. 
+I was here for a couple of weeks, but managed to take just a couple of photos. I was super relaxed, and spent time cooking, and walking around, and working.

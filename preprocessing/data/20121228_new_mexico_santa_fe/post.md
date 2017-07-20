@@ -7,7 +7,7 @@ country: New Mexico
 flickr_link: '72157638460043964'
 ---
 
-# Santa Fe Days
+## Santa Fe Days
 After Flagstaff came Santa Fe. I’d been having issues with my heated grips. They seem to keep blowing fuses, no matter the amperage. They had the night before in the last 20 minutes of riding. Anyway, I swapped them out first thing before leaving. The ride itself was pretty uneventful. Just long and cold. When I woke up in Flagstaff the temperature was about 3º F. By the time I left it was in the 20s, which was much more doable, especially with my heated grips working again.
 
 When I made it into Santa Fe I was greeted by two dogs, two cats, and two humans. There was a warm fire, and warming scotch. I let the chill out of my  bones, and the ringing in my ears slowly stopped. The next week was, for the most part, wonderfully relaxing and productive.

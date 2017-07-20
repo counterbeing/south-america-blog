@@ -7,7 +7,7 @@ country: California
 flickr_link: '72157638449927864'
 ---
 
-# Friends and Family for the Holidays
+## Friends and Family for the Holidays
 
 Made it back down to Dana Point where I got to see my mother, and loads of friends and their families. I dinnered at the Smith estate. I got a little bit of work done on the motorcycle, and managed to install a USB charger for my phone.
 

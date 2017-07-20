@@ -7,7 +7,7 @@ longitude: -87.194107
 
 ---
 
-## A Bland Evening
+### A Bland Evening
 
 Not much to report here, and no pictures. I had a nice phone call from Whitney at this location, which was the turning point at which I decided I would try to fly back to San Francisco for Burning Man, or at least the seed was planted.
 

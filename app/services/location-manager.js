@@ -17,5 +17,10 @@ export default Service.extend({
 
   setLocation(location) {
     this.set('currentLocation', location)
-  }
+  },
+
+  numberOfLocations: Ember.computed('allLocations', function() {
+    return this.get('allLocations.length')
+  }),
+
 })

@@ -11,12 +11,17 @@ export default Component.extend({
   store: service(),
   map: null,
 
+  init() {
+    this._super(...arguments)
+    this.get('locationManager.numberOfLocations')
+  },
+
   locations() {
-    return this.get('locationManager').allLocations
+    return this.get('locationManager.allLocations')
   },
 
   insertMap: function() {
-    let lat = this.get('latitude')
+    let lat = this.get('destination.latitude')
     let lng = this.get('longitude')
     let container = this.$('.map-canvas')[0]
     let options = {
@@ -24,20 +29,17 @@ export default Component.extend({
       zoom: 4,
     }
     this.set('map', new window.google.maps.Map(container, options))
-    // this.set('locationManager.currentLocation', this.get('id'))
     this.get('locationManager').setLocation(this.get('id'))
   }.on('didInsertElement'),
 
   addLocationsToMap() {
-    // console.log('add locations to map triggered')
-
-    let map = this.get('map')
     let currentID = this.get('id')
     let parent = this
+    let map = this.get('map')
 
     this.locations().then((locations) => {
       locations.forEach((location) => {
-        let position = this._locationPosition(location)
+        let position = location.get('position')
         let markerIsCurrent = location.id == currentID
         let color = markerIsCurrent ? 'yellow' : 'red'
         let locationMarker = this._generateLocationMarker(color, position, map)
@@ -51,7 +53,6 @@ export default Component.extend({
         location.set('locationMarker', locationMarker)
       })
     })
-    this._drawPolylines(this.locations(), map)
   },
 
   _updateMapByMarker(marker){
@@ -67,6 +68,13 @@ export default Component.extend({
     'locationManager.{currentLocation,allLocations.@each}',
     function() {
       Ember.run.once(this, 'addLocationsToMap')
+    }.on('init')
+  ),
+
+  observeForPolyline: observer(
+    'locationManager.numberOfLocations',
+    function() {
+      Ember.run.once(this, '_drawPolylines')
     }.on('init')
   ),
 
@@ -89,14 +97,6 @@ export default Component.extend({
     })
   },
 
-
-  _locationPosition(location) {
-    return {
-      lat: location.get('latitude'),
-      lng: location.get('longitude')
-    }
-  },
-
   _drawPolyline(pointA, pointB, map) {
     if(!pointA || !pointB) { return }
     new window.google.maps.Polyline({
@@ -108,12 +108,14 @@ export default Component.extend({
     })
   },
 
-  _drawPolylines(locations, map) {
-    locations.forEach((locationA, index, array) => {
+  _drawPolylines() {
+    let map = this.get('map')
+    let sorted = this.locations().sortBy('id')
+    sorted.forEach((locationA, index, array) => {
       let locationB = array.objectAt(index + 1)
       if(!locationB) { return }
-      let pointB = this._locationPosition(locationB)
-      let pointA = this._locationPosition(locationA)
+      let pointB = locationB.get('position')
+      let pointA = locationA.get('position')
       this._drawPolyline(pointA, pointB, map)
     })
   },

@@ -8,7 +8,7 @@ flickr_link: '72157644339658738'
 
 ---
 
-## Preparation Ache
+### Preparation Ache
 
 I left as early as I could, but before I could leave I had to go out in literally (and I do mean literally) freezing temperatures to attempt to replace a light bulb that I had shaken out on the way to the salar. It turned out my spare bulb wasn't working and so I had to steal my high beam for a low beam. I wasn't entirely pleased with this solution, but I knew that if I ended up caught in the dark I would rather have low beams. But the thing that really set my departure time was the immigration office. They weren't due to open until 9 and decided not to open until 9:30. If you're not travling by bus into Chile, it's a good idea to get an exit stamp in Uyuni before leaving Bolivia. The trick is that the immigration office at the border isn't always manned.
 
@@ -16,7 +16,7 @@ Finally, I got out of there. When I arrived at the gas station I noticed someone
 
 I rode on for about an hour, and then thought, I've probably got enough room in my gas tank now to put one of those bottles in and pull it off the bike. One of the bottles was missing. I wasn't too excited about that. I dumped the other bottle in and mulled it over. I opted to press on, thinking that if I didn't make it, I would at least be damn close to town, and that losing two hours could actually be dangerous. I had a mountain pass to make it through before dark. Temperatures would be back down to freezing if I didn't scrub some altitude.
 
-## The Border
+### The Border
 
 When it comes to border officials, there's really not much you can do. You're somewhat out of control. I arrived to find two other cars waiting for the officials to come and let them in. But, it didn't happen. We waited there at the border for four hours. All the while, dark was approaching, and I could feel the cold coming on. Finally they came out and started letting people through. They went through all of my bags, and checked me into the country. 
 

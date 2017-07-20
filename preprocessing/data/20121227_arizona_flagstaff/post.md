@@ -7,7 +7,7 @@ country: Arizona
 flickr_link: '72157638449779484'
 ---
 
-#Cold Cold Cold
+## Cold Cold Cold
 Back on the motorcycle, the day was long, and my back was getting sore. I still had hours of travel left to get to a couchsurfing couch in Flagstaff. I knew that temperatures were beginning to drop, and I could see the sun changing to it’s evening colors. Due to sheer boredom, and a feeling of adventure, I decided to take an alternate route, that was shorter, but would also take more time. The road ventured through flat lands with dry grass, which was still pretty boring, but then there was a sudden elevation gain with almost switchbacks. Just then as I was gaining elevation the sun decided it was bed time, and put on a spectacular show, at first to my right, then left, then right, as the road turned to climb at a reasonable incline.
 
 At the top, the sun had just gone down, and things were suddenly lots colder. I felt chills coming on, and sharp pain in my shoulders as the muscles refused to relax trying to keep warm. Then I saw a long line of traffic and a strange shape in the middle of the road. It was a small toyota pickup truck, completely upside down and it had clearly just been extinguished. With that and the cold, it was hard to not feel like a bad omen. I saw a gas station with an attached convenience store and decided to see if I could get another layer on.
