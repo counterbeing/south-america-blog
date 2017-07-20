@@ -9,8 +9,8 @@
   </div>
 
   <header>
-    <h2>{{model.city}}, {{model.country}}</h2>
-    {{!-- <h3>{{model.formatDate date}}</h3> --}}
+    <h1>{{model.city}}, {{model.country}}</h1>
+    <h3>{{moment-format model.date 'dddd, MMMM Do YYYY' 'YYYYMMDD'}}</h3>
   </header>
 
   {{{model.body}}}
