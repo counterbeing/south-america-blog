@@ -1,4 +1,24 @@
 import Ember from 'ember';
 
-export default Ember.Route.extend({
+const {
+  Route,
+  observer,
+  inject: { service }
+} = Ember
+
+export default Route.extend({
+  init() {
+    this._super(...arguments)
+    this.get('locationManager.currentLocation');
+  },
+
+  locationManager: service(),
+
+  destinationObserver: observer(
+    'locationManager.currentLocation',
+    function() {
+      let id = this.get('locationManager.currentLocation')
+      this.transitionTo('destination', id)
+    }
+  ),
 })

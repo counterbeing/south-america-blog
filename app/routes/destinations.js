@@ -1,10 +1,11 @@
 import Ember from 'ember';
 
-export default Ember.Route.extend({
+const {
+  Route,
+} = Ember
+
+export default Route.extend({
   model() {
     return this.get('store').findAll('destination')
   },
-  // afterModel(model) {
-  //   this.transitionTo('destination', model.get('firstObject'))
-  // }
 })

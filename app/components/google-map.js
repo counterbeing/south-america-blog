@@ -24,55 +24,71 @@ export default Component.extend({
       zoom: 4,
     }
     this.set('map', new window.google.maps.Map(container, options))
+    // this.set('locationManager.currentLocation', this.get('id'))
     this.get('locationManager').setLocation(this.get('id'))
   }.on('didInsertElement'),
 
   addLocationsToMap() {
+    // console.log('add locations to map triggered')
+
     let map = this.get('map')
     let currentID = this.get('id')
+    let parent = this
 
     this.locations().then((locations) => {
       locations.forEach((location) => {
         let position = this._locationPosition(location)
         let markerIsCurrent = location.id == currentID
         let color = markerIsCurrent ? 'yellow' : 'red'
-        let _generateLocationMarker = this.get('_generateLocationMarker')
-        let locationMarker = _generateLocationMarker(color, position, map)
+        let locationMarker = this._generateLocationMarker(color, position, map)
+        let updateMapByMarker = this.get('_updateMapByMarker')
+        locationMarker.addListener('click', function() {
+          updateMapByMarker.call(parent,locationMarker)
+        })
 
+        let oldMarker = location.get('locationMarker')
+        if (oldMarker) { oldMarker.setMap(null)}
         location.set('locationMarker', locationMarker)
       })
     })
     this._drawPolylines(this.locations(), map)
   },
 
-  updateMapByMarker(marker){
-    marker.setIcon('/yellow-marker.png')
+  _updateMapByMarker(marker){
+    let clickedLocation = this.locations().find(function(m) {
+      return m.locationMarker == marker
+    })
+    this.get('locationManager').setLocation(clickedLocation.id)
+    marker.setIcon(this._markerIcon('yellow'))
     marker.map.panTo(marker.getPosition())
   },
 
   observeDestinations: observer(
     'locationManager.{currentLocation,allLocations.@each}',
     function() {
-      this.addLocationsToMap()
-    }
+      Ember.run.once(this, 'addLocationsToMap')
+    }.on('init')
   ),
 
-  _generateLocationMarker(color, position, map) {
-    let icon = {
+  _markerIcon(color) {
+    return {
       url: `/${color}-marker.png`,
       size: new window.google.maps.Size(62, 62),
       origin: new window.google.maps.Point(0, 0),
       anchor: new window.google.maps.Point(15, 30),
       scaledSize: new window.google.maps.Size(30, 30),
     }
+  },
 
+  _generateLocationMarker(color, position, map) {
+    let icon = this._markerIcon(color)
     return new window.google.maps.Marker({
       position: position,
       map: map,
       icon: icon,
     })
-
   },
+
 
   _locationPosition(location) {
     return {
@@ -85,10 +101,10 @@ export default Component.extend({
     if(!pointA || !pointB) { return }
     new window.google.maps.Polyline({
       path: [pointA, pointB],
-      strokeColor: "#FF62CC",
+      strokeColor: '#FF62CC',
       map: map,
       strokeOpacity: 0.5,
-      strokeWeight: 8
+      strokeWeight: 4
     })
   },
 
