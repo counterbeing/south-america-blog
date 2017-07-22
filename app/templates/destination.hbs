@@ -2,18 +2,16 @@
 {{google-map destination=model latitude=model.latitude longitude=model.longitude}}
 
 <div id='blog-content'>
-  <div class="map-nav">
-    <a href="#" title="previous post" class="button scripty">&lt; Previous</a>
-    <a href="#" title="next post" class="button scripty">Next &gt;</a>
-    <a href="/index.html" title="homepage" class="button">Homepage</a>
-  </div>
-
+  {{navigation-buttons}}
+  
   <header>
     <h1>{{model.city}}, {{model.country}}</h1>
     <h3>{{moment-format model.date 'dddd, MMMM Do YYYY' 'YYYYMMDD'}}</h3>
   </header>
 
-  {{{model.body}}}
+  <article>
+    {{{model.body}}}
+  </article>
 
   {{#if model.flickrLink}}
     {{{model.flickrCache}}}
@@ -21,5 +19,7 @@
       Here are <a href="http://www.flickr.com/photos/counterbeing/sets/{{model.flickrLink}}/" title="The flickr set">the original files on flickr</a>.
     </p>
   {{/if}}
+
+  {{navigation-buttons}}
 </div>
 <!-- analytics -->

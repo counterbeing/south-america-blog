@@ -14,6 +14,21 @@ export default Model.extend({
 
   locationManager: Ember.inject.service(),
 
+  init() {
+    this._super(...arguments);
+    this.createMapMarker()
+  },
+
+  createMapMarker() {
+    let marker = new window.google.maps.Marker({})
+    let parent = this
+    marker.addListener('click', function() {
+      parent.get('locationManager').setLocation(parent.get('id'))
+    })
+
+    this.set('marker', marker)
+  },
+
   position: Ember.computed('latitude', 'longitude', function() {
     return {
       lat: this.get('latitude'),
@@ -28,7 +43,7 @@ export default Model.extend({
     return markerIsCurrent ? 'yellow' : 'red'
   }),
 
-  icon: Ember.computed('locationManager.currentLocation', function(){
+  icon: Ember.computed('color', function(){
     return {
       url: `/${this.get('color')}-marker.png`,
       size: new window.google.maps.Size(62, 62),
@@ -38,11 +53,17 @@ export default Model.extend({
     }
   }),
 
-  marker: Ember.computed('position', 'icon', function(){
-    return new window.google.maps.Marker({
-      position: this.get('position'),
-      map: this.get('locationManager.map'),
-      icon: this.get('icon'),
-    })
+  observer: Ember.observer('position', 'icon', function(){
+    let marker = this.get('marker')
+    marker.setIcon(this.get('icon'))
   }),
+
+  initialObserver: Ember.observer('position', 'locationManager.map', function(){
+    let marker = this.get('marker')
+    let position = this.get('position')
+    if(!position.lat) {return}
+    marker.setPosition(position)
+    marker.setIcon(this.get('icon'))
+    marker.setMap(this.get('locationManager.map'))
+  }).on('init'),
 })

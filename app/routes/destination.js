@@ -14,6 +14,10 @@ export default Route.extend({
 
   locationManager: service(),
 
+  // afterModel(one) {
+    // this.locationManager.setLocation(one.id)
+  // },
+
   destinationObserver: observer(
     'locationManager.currentLocation',
     function() {
