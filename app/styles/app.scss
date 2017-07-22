@@ -39,24 +39,20 @@ body{
 p{
   margin-top: 13px;
   margin-bottom: 13px;
-  line-height: 23px;
+  line-height: 27px;
 }
 
 img{ width: 100%;}
 
 h1{
-  font-size: 100px;
-  text-shadow: #feffb7 1px 1px 0, #feffb7 2px 2px 0, #fecc47 3px 3px 0, #fd64ff 4px 4px 0, #fd64ff 5px 5px 0, 5px 8px 10px rgba(0,0,0,.35)
+  font-size: 50px;
+  // text-shadow: #feffb7 1px 1px 0, #feffb7 2px 2px 0, #fecc47 3px 3px 0, 5px 8px 10px rgba(0,0,0,.35)
 }
 
 figcaption {
   margin-bottom: 35px;
   margin-top: 10px;
 }
-
-h2{ font-size: 70px;text-shadow: #feffb7 1px 1px 0, #feffb7 2px 2px 0, #fecc47 3px 3px 0, #fd64ff 4px 4px 0, #fd64ff 5px 5px 0, 5px 8px 10px rgba(0,0,0,.35); margin-bottom: 10px; margin-top: 20px;}
-h3{ font-size: 40px;text-shadow: #f69aff 1px 1px 0, #16ff36 2px 2px 0; margin-bottom: 10px; margin-top: 20px;}
-h4{ font-size: 20px;text-shadow: #f69aff 1px 1px 0, #16ff36 2px 2px 0;}
 
 #side-buttons li{
 
@@ -104,15 +100,15 @@ list-style-type:none;
 #blog-content {
   overflow-y: scroll;
   header{ text-align: left; margin-bottom: 0px;}
-  h2{margin: 0px; line-height: 65px; margin-bottom: 10px;}
+  h2{margin: 0px; margin-bottom: 10px;}
   h3{margin: 0px; margin-top: 0px; font-size: 20px; margin-left: 5px;}
-  .text h1{ font-size: 35px; margin-top: 25px; text-shadow: none;}
-  .text h2{ font-size: 25px; margin-top: 25px; text-shadow: none;}
-  .text h3{ font-size: 20px; margin-top: 25px; text-shadow: none;}
+  .text h1 { font-size: 35px; margin-top: 25px; text-shadow: none;}
+  .text h2 { font-size: 25px; margin-top: 25px; text-shadow: none;}
+  .text h3 { font-size: 20px; margin-top: 25px; text-shadow: none;}
 }
 
 li { margin-top: 10px;}
-li li {color: #555; margin-left: 30px;}
+// li li {color: #555; margin-left: 30px;}
 ul {list-style-type:circle}
 
 .map-nav{
