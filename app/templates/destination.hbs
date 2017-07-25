@@ -3,10 +3,10 @@
 
 <div id='blog-content'>
   {{navigation-buttons}}
-  
+
   <header>
     <h1>{{model.city}}, {{model.country}}</h1>
-    <h3>{{moment-format model.date 'dddd, MMMM Do YYYY' 'YYYYMMDD'}}</h3>
+    <h3 class='timestamp'>{{moment-format model.date 'dddd, MMMM Do YYYY' 'YYYYMMDD'}}</h3>
   </header>
 
   <article>

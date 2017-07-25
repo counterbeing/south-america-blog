@@ -1,6 +1,7 @@
 
 <div class="map-nav">
-  <a href="#" title="previous post" class="button">&lt; Previous</a>
-  <a href="#" title="next post" class="button">Next &gt;</a>
-  {{!-- <a href="/index.html" title="homepage" class="button">Homepage</a> --}}
+  {{#link-to 'destination' previous class='button'}} previous {{/link-to}}
+  {{#link-to 'destination' next class='button'}} next {{/link-to}}
+  {{#link-to 'destinations' class='button'}} destinations {{/link-to}}
+  <a href="https://www.corylogan.com" title="homepage" class="button">Homepage</a>
 </div>

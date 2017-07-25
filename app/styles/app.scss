@@ -46,6 +46,7 @@ img{ width: 100%;}
 
 h1{
   font-size: 50px;
+  margin-top: 36px;
   // text-shadow: #feffb7 1px 1px 0, #feffb7 2px 2px 0, #fecc47 3px 3px 0, 5px 8px 10px rgba(0,0,0,.35)
 }
 
@@ -101,10 +102,14 @@ list-style-type:none;
   overflow-y: scroll;
   header{ text-align: left; margin-bottom: 0px;}
   h2{margin: 0px; margin-bottom: 10px;}
-  h3{margin: 0px; margin-top: 0px; font-size: 20px; margin-left: 5px;}
+  h3{ font-size: 20px; }
   .text h1 { font-size: 35px; margin-top: 25px; text-shadow: none;}
   .text h2 { font-size: 25px; margin-top: 25px; text-shadow: none;}
   .text h3 { font-size: 20px; margin-top: 25px; text-shadow: none;}
+}
+
+.timestamp {
+  margin-bottom: 35px;
 }
 
 li { margin-top: 10px;}

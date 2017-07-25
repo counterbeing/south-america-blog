@@ -12,11 +12,11 @@ export default Route.extend({
     this.get('locationManager.currentLocation');
   },
 
-  locationManager: service(),
+  afterModel(destination) {
+    this.get('locationManager').setLocation(destination.id)
+  },
 
-  // afterModel(one) {
-    // this.locationManager.setLocation(one.id)
-  // },
+  locationManager: service(),
 
   destinationObserver: observer(
     'locationManager.currentLocation',
