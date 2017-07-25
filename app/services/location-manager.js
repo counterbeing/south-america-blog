@@ -16,6 +16,8 @@ export default Service.extend({
   },
 
   setLocation(location) {
+    if(!location) { return }
+    console.log('current location was set to: ' + location)
     this.set('currentLocation', location)
   },
 
@@ -23,28 +25,36 @@ export default Service.extend({
     return this.get('allLocations.length')
   }),
 
-
-  next: Ember.computed('currentLocation', function() {
+  next: Ember.computed('currentLocation', 'numberOfLocations', function() {
+    console.log('computing next in location manager')
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
 
-    let index = null
+    if(!current) { return null }
+
+    var index = 0
     locations.find((location, thisIndex) => {
       index = thisIndex
       return location.id == current
     })
-    if(!index) { return null }
+
+    if(!(index || index == 0)) { return null }
+    console.log('    index exists')
 
     let lastIndex = (locations.get('length') - 1)
     let plusOne = (index + 1)
     let nextIndex = (plusOne >= lastIndex) ? 0 : plusOne
+
+    console.log('   next index is ' + nextIndex)
+    console.log('   object is ' + locations.objectAt(nextIndex))
     return locations.objectAt(nextIndex).id
   }),
 
-  previous: Ember.computed('currentLocation', function() {
+  previous: Ember.computed('currentLocation','numberOfLocations', function() {
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
 
+    if(!current) { return null }
     let index = null
     locations.find((location, thisIndex) => {
       index = thisIndex
