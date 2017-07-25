@@ -23,6 +23,7 @@ export default Service.extend({
     return this.get('allLocations.length')
   }),
 
+
   next: Ember.computed('currentLocation', function() {
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
@@ -37,6 +38,23 @@ export default Service.extend({
     let lastIndex = (locations.get('length') - 1)
     let plusOne = (index + 1)
     let nextIndex = (plusOne >= lastIndex) ? 0 : plusOne
+    return locations.objectAt(nextIndex).id
+  }),
+
+  previous: Ember.computed('currentLocation', function() {
+    let locations = this.get('allLocations')
+    let current = this.get('currentLocation')
+
+    let index = null
+    locations.find((location, thisIndex) => {
+      index = thisIndex
+      return location.id == current
+    })
+    if(!index) { return null }
+
+    let lastIndex = (locations.get('length') - 1)
+    let minusOne = (index - 1)
+    let nextIndex = (minusOne <= 0) ? lastIndex : minusOne
     return locations.objectAt(nextIndex).id
   })
 })
