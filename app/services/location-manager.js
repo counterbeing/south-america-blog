@@ -10,14 +10,15 @@ export default Service.extend({
 
   init() {
     let store = this.get('store')
-    let result = store.findAll('destination')
-    this.set('allLocations', result)
+    store.findAll('destination').then((destinations) => {
+      let sorted = destinations.sortBy('id')
+      this.set('allLocations', sorted)
+    })
     this._super(...arguments)
   },
 
   setLocation(location) {
     if(!location) { return }
-    console.log('current location was set to: ' + location)
     this.set('currentLocation', location)
   },
 
@@ -25,8 +26,15 @@ export default Service.extend({
     return this.get('allLocations.length')
   }),
 
+  destination: Ember.computed('currentLocation', function() {
+    let locations = this.get('allLocations')
+    let current = this.get('currentLocation')
+    return locations.find((location) => {
+      return location.id == current
+    })
+  }),
+
   next: Ember.computed('currentLocation', 'numberOfLocations', function() {
-    console.log('computing next in location manager')
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
 
@@ -39,14 +47,11 @@ export default Service.extend({
     })
 
     if(!(index || index == 0)) { return null }
-    console.log('    index exists')
 
-    let lastIndex = (locations.get('length') - 1)
-    let plusOne = (index + 1)
+    let lastIndex = (locations.get('length'))
+    let plusOne = index + 1
     let nextIndex = (plusOne >= lastIndex) ? 0 : plusOne
 
-    console.log('   next index is ' + nextIndex)
-    console.log('   object is ' + locations.objectAt(nextIndex))
     return locations.objectAt(nextIndex).id
   }),
 
@@ -55,16 +60,16 @@ export default Service.extend({
     let current = this.get('currentLocation')
 
     if(!current) { return null }
-    let index = null
+    let currentIndex = null
     locations.find((location, thisIndex) => {
-      index = thisIndex
+      currentIndex = thisIndex
       return location.id == current
     })
-    if(!index) { return null }
+    if(!(currentIndex || currentIndex == 0)) { return null }
 
     let lastIndex = (locations.get('length') - 1)
-    let minusOne = (index - 1)
-    let nextIndex = (minusOne <= 0) ? lastIndex : minusOne
-    return locations.objectAt(nextIndex).id
+    let minusOne = currentIndex - 1
+    let desiredIndex = (minusOne < 0) ? lastIndex : minusOne
+    return locations.objectAt(desiredIndex).id
   })
 })

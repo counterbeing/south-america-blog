@@ -39,6 +39,11 @@ export default Component.extend({
     }.on('init')
   ),
 
+  observeCurrent: observer( 'locationManager.currentLocation', function() {
+      let position = this.get('locationManager.destination.position')
+      this.get('locationManager.map').panTo(position)
+  }),
+
   _drawPolyline(pointA, pointB, map) {
     if(!pointA || !pointB) { return }
     new window.google.maps.Polyline({
@@ -52,8 +57,7 @@ export default Component.extend({
 
   _drawPolylines() {
     let map = this.get('locationManager.map')
-    let sorted = this.locations().sortBy('id')
-    sorted.forEach((locationA, index, array) => {
+    this.locations().forEach((locationA, index, array) => {
       let locationB = array.objectAt(index + 1)
       if(!locationB) { return }
       let pointB = locationB.get('position')
