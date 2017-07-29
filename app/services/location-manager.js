@@ -17,6 +17,14 @@ export default Service.extend({
     this._super(...arguments)
   },
 
+  locationsPromise() {
+    let store = this.get('store')
+    return store.findAll('destination').then((destinations) => {
+      let sorted = destinations.sortBy('id')
+      this.set('allLocations', sorted)
+    })
+  },
+
   setLocation(location) {
     if(!location) { return }
     this.set('currentLocation', location)
