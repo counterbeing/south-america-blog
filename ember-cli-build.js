@@ -7,7 +7,10 @@ module.exports = function(defaults) {
       'bootstrapVersion': 4,
       'importBootstrapFont': false,
       'importBootstrapCSS': false
-    }
+    },
+    // fingerprint: {
+    //   prepend: 'https://cdn.example.com/'
+    // }
   });
 
   // Use `app.import` to add additional libraries to the generated
