@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'south-america-blog',
     environment: environment,
-    rootURL: '/',
+    rootURL: '/sa',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {

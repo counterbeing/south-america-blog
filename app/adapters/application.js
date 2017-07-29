@@ -8,10 +8,12 @@ export default DS.JSONAPIAdapter.extend({
   buildURL: function(modelName, id, snapshot, requestType, query) {
     if(id) {
       let pluralModel = pluralize(modelName)
-      return `/${pluralModel}/${id}.json`
+      return `/sa/${pluralModel}/${id}.json`
     } else {
-      return this._super(modelName, id, snapshot, requestType, query) +
-        this.get('suffix')
+      let prefix = this._super(modelName, id, snapshot, requestType, query)
+      let suffix = this.get('suffix')
+      let combined =  '/sa' + prefix + suffix
+      return combined
     }
   }
 });

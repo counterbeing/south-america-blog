@@ -45,7 +45,7 @@ export default Model.extend({
 
   icon: Ember.computed('color', function(){
     return {
-      url: `/${this.get('color')}-marker.png`,
+      url: `/sa/${this.get('color')}-marker.png`,
       size: new window.google.maps.Size(62, 62),
       origin: new window.google.maps.Point(0, 0),
       anchor: new window.google.maps.Point(8, 30),
