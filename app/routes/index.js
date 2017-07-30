@@ -9,7 +9,6 @@ export default Ember.Route.extend({
   },
 
   model() {
-    // this.store.findAll('destination')
     return this.get('store').findAll('destination')
   },
 

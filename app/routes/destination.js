@@ -12,6 +12,22 @@ export default Route.extend({
     this.get('locationManager.currentLocation');
   },
 
+  model(params) {
+    return this.store.findRecord(
+      'destination',
+      params.destination_id,
+      { reload: true }
+    )
+  },
+
+  titleToken(model) {
+    let country = model.get('country')
+    let city = model.get('city')
+    return `${city}, ${country} | South America Motorcycle Tour`
+  },
+
+
+
   afterModel(destination) {
     if(!destination) {
       return
