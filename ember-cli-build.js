@@ -8,10 +8,15 @@ module.exports = function(defaults) {
       'importBootstrapFont': false,
       'importBootstrapCSS': false
     },
-    // fingerprint: {
-    //   prepend: 'https://cdn.example.com/'
-    // }
-  });
+
+    fingerprint: {
+      generateAssetMap: true,
+      exclude: [
+        'red-marker.png',
+        'yellow-marker.png',
+      ]
+    },
+  })
 
   // Use `app.import` to add additional libraries to the generated
   // output files.
@@ -27,6 +32,7 @@ module.exports = function(defaults) {
   // along with the exports of each module as its value.
 
   // app.import('vendor/gmaps.js');
+  // app.import('public/assets/red-marker.png')
 
-  return app.toTree();
+  return app.toTree()
 };
