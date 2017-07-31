@@ -25,6 +25,10 @@ var _path = require('path');
 
 var _path2 = _interopRequireDefault(_path);
 
+var _minimalSitemap = require('minimal-sitemap');
+
+var _minimalSitemap2 = _interopRequireDefault(_minimalSitemap);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 _bluebird2.default.promisifyAll(_fsExtra2.default);
@@ -55,6 +59,15 @@ function run() {
           'date': attributes.date
         }
       };
+    });
+  }).tap(function (destinations) {
+    var ids = destinations.map(function (destination) {
+      return destination.id;
+    });
+    _minimalSitemap2.default.toSiteMapFile({
+      urls: ids,
+      prefix: 'https://www.corylogan.com/sa/destination/',
+      file: '../public/sitemap.xml'
     });
   }).then(function (destinations) {
     writeJson(_path2.default.join('../public', 'destinations.json'), destinations);

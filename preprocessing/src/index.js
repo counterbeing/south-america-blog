@@ -3,6 +3,7 @@ import yamlFront from 'yaml-front-matter'
 import marked from 'marked'
 import Promise from 'bluebird'
 import path from 'path'
+import ms from 'minimal-sitemap'
 Promise.promisifyAll(fs)
 
 export function run() {
@@ -18,6 +19,7 @@ export function run() {
       flickrCachePath: `data/${fileName}/flickr.cache`,
     }
   })
+
   .map((destination) => {
     return readAndProcess(destination)
     .then( (destination) => {
@@ -38,6 +40,16 @@ export function run() {
           'date': attributes.date,
         }
       }
+    })
+  })
+  .tap((destinations) => {
+    let ids = destinations.map(function(destination) {
+      return destination.id
+    })
+    ms.toSiteMapFile({
+      urls: ids,
+      prefix: 'https://www.corylogan.com/sa/destination/',
+      file: '../public/sitemap.xml',
     })
   })
   .then((destinations) => {
