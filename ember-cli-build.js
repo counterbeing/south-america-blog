@@ -14,6 +14,7 @@ module.exports = function(defaults) {
       exclude: [
         'red-marker.png',
         'yellow-marker.png',
+        'favicon.ico',
       ]
     },
   })
