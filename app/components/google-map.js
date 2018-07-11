@@ -17,18 +17,6 @@ export default Component.extend({
     return this.get('locationManager.allLocations')
   },
 
-  // insertMap: function() {
-  //   let lat = this.get('destination.latitude')
-  //   let lng = this.get('longitude')
-  //   let container = this.$('.map-canvas')[0]
-  //   let options = {
-  //     center: new window.google.maps.LatLng(lat, lng),
-  //     zoom: 4,
-  //   }
-  //   this.set('locationManager.map', new window.google.maps.Map(container, options))
-  //   this.get('locationManager').setLocation(this.get('id'))
-  // }.on('didInsertElement'),
-
   insertMap: function() {
     let lat = this.get('destination.latitude')
     let lng = this.get('longitude')
