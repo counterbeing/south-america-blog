@@ -1,6 +1,7 @@
-import Ember from 'ember'
 import Model from 'ember-data/model'
 import attr from 'ember-data/attr'
+import { computed, observer } from '@ember/object'
+import { inject } from '@ember/service'
 
 export default Model.extend({
   latitude: attr(),
@@ -12,6 +13,8 @@ export default Model.extend({
   body: attr(),
   flickrCache: attr(),
 
+  // Some issue here, want but does not work next line
+  // locationManager: inject.service(),
   locationManager: Ember.inject.service(),
 
   init() {
@@ -29,21 +32,21 @@ export default Model.extend({
     this.set('marker', marker)
   },
 
-  position: Ember.computed('latitude', 'longitude', function() {
+  position: computed('latitude', 'longitude', function() {
     return {
       lat: this.get('latitude'),
       lng: this.get('longitude')
     }
   }),
 
-  color: Ember.computed('locationManager.currentLocation', function(){
+  color: computed('locationManager.currentLocation', function(){
     let id = this.get('id')
     let currentlySelectedId = this.get('locationManager.currentLocation')
     let markerIsCurrent = id == currentlySelectedId
     return markerIsCurrent ? 'yellow' : 'red'
   }),
 
-  icon: Ember.computed('color', function(){
+  icon: computed('color', function(){
     return {
       url: `/sa/${this.get('color')}-marker.png`,
       size: new window.google.maps.Size(62, 62),
@@ -53,12 +56,12 @@ export default Model.extend({
     }
   }),
 
-  observer: Ember.observer('position', 'icon', function(){
+  observer: observer('position', 'icon', function(){
     let marker = this.get('marker')
     marker.setIcon(this.get('icon'))
   }),
 
-  initialObserver: Ember.observer('position', 'locationManager.map', function(){
+  initialObserver: observer('position', 'locationManager.map', function(){
     let marker = this.get('marker')
     let position = this.get('position')
     if(!position.lat) {return}

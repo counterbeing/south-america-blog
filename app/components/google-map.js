@@ -1,10 +1,7 @@
-import Ember from 'ember';
-
-const {
-  Component,
-  observer,
-  inject: { service }
-} = Ember
+import Component from '@ember/component'
+import { observer } from '@ember/object'
+import { inject as service } from '@ember/service'
+import { once } from '@ember/runloop'
 
 export default Component.extend({
   locationManager: service(),
@@ -19,6 +16,18 @@ export default Component.extend({
   locations() {
     return this.get('locationManager.allLocations')
   },
+
+  // insertMap: function() {
+  //   let lat = this.get('destination.latitude')
+  //   let lng = this.get('longitude')
+  //   let container = this.$('.map-canvas')[0]
+  //   let options = {
+  //     center: new window.google.maps.LatLng(lat, lng),
+  //     zoom: 4,
+  //   }
+  //   this.set('locationManager.map', new window.google.maps.Map(container, options))
+  //   this.get('locationManager').setLocation(this.get('id'))
+  // }.on('didInsertElement'),
 
   insertMap: function() {
     let lat = this.get('destination.latitude')
@@ -35,7 +44,7 @@ export default Component.extend({
   observeForPolyline: observer(
     'locationManager.numberOfLocations',
     function() {
-      Ember.run.once(this, '_drawPolylines')
+      once(this, '_drawPolylines')
     }.on('init')
   ),
 

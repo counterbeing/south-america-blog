@@ -9,55 +9,55 @@ Promise.promisifyAll(fs)
 export function run() {
   fs.ensureDirSync('../public/destinations/')
   fs.readdirAsync('./data/')
-  .filter((element) => {
-    return /\d{7}/.test(element)
-  })
-  .map(function(fileName) {
-    return {
-      id: fileName,
-      markdownPath: `data/${fileName}/post.md`,
-      flickrCachePath: `data/${fileName}/flickr.cache`,
-    }
-  })
-
-  .map((destination) => {
-    return readAndProcess(destination)
-    .then( (destination) => {
-      writeJson(
-        path.join('../public/destinations/', (destination.id + '.json')),
-        destination
-      )
-      return destination
+    .filter((element) => {
+      return /\d{7}/.test(element)
     })
-    .then((destination) => {
-      let attributes = destination.attributes
+    .map(function(fileName) {
       return {
-        'type': 'destination',
-        'id': destination.id,
-        'attributes': {
-          'latitude': attributes.latitude,
-          'longitude': attributes.longitude,
-          'date': attributes.date,
-        }
+        id: fileName,
+        markdownPath: `data/${fileName}/post.md`,
+        flickrCachePath: `data/${fileName}/flickr.cache`,
       }
     })
-  })
-  .tap((destinations) => {
-    let ids = destinations.map(function(destination) {
-      return destination.id
+
+    .map((destination) => {
+      return readAndProcess(destination)
+        .then( (destination) => {
+          writeJson(
+            path.join('../public/destinations/', (destination.id + '.json')),
+            destination
+          )
+          return destination
+        })
+        .then((destination) => {
+          let attributes = destination.attributes
+          return {
+            'type': 'destination',
+            'id': destination.id,
+            'attributes': {
+              'latitude': attributes.latitude,
+              'longitude': attributes.longitude,
+              'date': attributes.date,
+            }
+          }
+        })
     })
-    ms.toSiteMapFile({
-      urls: ids,
-      prefix: 'https://www.corylogan.com/sa/destination/',
-      file: '../public/sitemap.xml',
+    .tap((destinations) => {
+      let ids = destinations.map(function(destination) {
+        return destination.id
+      })
+      ms.toSiteMapFile({
+        urls: ids,
+        prefix: 'https://www.corylogan.com/sa/destination/',
+        file: '../public/sitemap.xml',
+      })
     })
-  })
-  .then((destinations) => {
-    writeJson(
-      path.join('../public', 'destinations.json'),
-      destinations
-    )
-  })
+    .then((destinations) => {
+      writeJson(
+        path.join('../public', 'destinations.json'),
+        destinations
+      )
+    })
 }
 
 
@@ -71,33 +71,33 @@ var writeJson = (file, data) => {
 
 let readAndProcess = (destination) => {
   return fs.readFileAsync(destination.markdownPath)
-  .then(yamlFront.loadFront)
-  .then(function (val) {
-    let flickrCache = fs.existsSync(destination.flickrCachePath) ?
-    fs.readFileSync(destination.flickrCachePath, {encoding: 'utf-8'}) :
-    ''
-    return {
-      'type': 'destination',
-      'id': destination.id,
-      'attributes': {
-        'latitude': val.latitude,
-        'longitude': val.longitude,
-        'date': val.date,
-        'city': val.city,
-        'country': val.country,
-        'flickr-link': val.flickr_link,
-        'body': marked(val.__content),
-        'flickr-cache': flickrCache
+    .then(yamlFront.loadFront)
+    .then(function (val) {
+      let flickrCache = fs.existsSync(destination.flickrCachePath) ?
+        fs.readFileSync(destination.flickrCachePath, {encoding: 'utf-8'}) :
+        ''
+      return {
+        'type': 'destination',
+        'id': destination.id,
+        'attributes': {
+          'latitude': val.latitude,
+          'longitude': val.longitude,
+          'date': val.date,
+          'city': val.city,
+          'country': val.country,
+          'flickr-link': val.flickr_link,
+          'body': marked(val.__content),
+          'flickr-cache': flickrCache
+        }
       }
-    }
-  })
-  .catch(SyntaxError, function () {
-    console.error('invalid yaml in file')
-  })
-  .catch(function (err) {
-    console.error('unable to read file')
-    console.log(err)
-  })
+    })
+    .catch(SyntaxError, function () {
+      console.error('invalid yaml in file')
+    })
+    .catch(function (err) {
+      console.error('unable to read file')
+      console.log(err)
+    })
 }
 
 run()

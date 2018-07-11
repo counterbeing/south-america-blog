@@ -1,9 +1,7 @@
-import Ember from 'ember'
+import Service from '@ember/service'
+import { inject as service } from '@ember/service'
+import { computed } from '@ember/object'
 
-const {
-  Service,
-  inject: { service }
-} = Ember
 
 export default Service.extend({
   store: service(),
@@ -30,11 +28,11 @@ export default Service.extend({
     this.set('currentLocation', location)
   },
 
-  numberOfLocations: Ember.computed('allLocations', function() {
+  numberOfLocations: computed('allLocations', function() {
     return this.get('allLocations.length')
   }),
 
-  destination: Ember.computed('currentLocation', function() {
+  destination: computed('currentLocation', function() {
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
     return locations.find((location) => {
@@ -42,7 +40,7 @@ export default Service.extend({
     })
   }),
 
-  next: Ember.computed('currentLocation', 'numberOfLocations', function() {
+  next: computed('currentLocation', 'numberOfLocations', function() {
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
 
@@ -63,7 +61,7 @@ export default Service.extend({
     return locations.objectAt(nextIndex).id
   }),
 
-  previous: Ember.computed('currentLocation','numberOfLocations', function() {
+  previous: computed('currentLocation','numberOfLocations', function() {
     let locations = this.get('allLocations')
     let current = this.get('currentLocation')
 
