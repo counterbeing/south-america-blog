@@ -84,8 +84,10 @@ var writeJson = function writeJson(file, data) {
 
 var readAndProcess = function readAndProcess(destination) {
   return _fsExtra2.default.readFileAsync(destination.markdownPath).then(_yamlFrontMatter2.default.loadFront).then(async function (val) {
-    var flickrCache = await _axios2.default.get('https://s3.amazonaws.com/south-america-blog/' + val.flickr_link + '/index.json');
 
+    console.log('https://s3.amazonaws.com/south-america-blog/' + val.flickr_link + '/index.json');
+    console.log('---------------------------');
+    var flickrCache = await _axios2.default.get('https://s3.amazonaws.com/south-america-blog/' + val.flickr_link + '/index.json');
     return {
       'type': 'destination',
       'id': destination.id,
@@ -104,7 +106,7 @@ var readAndProcess = function readAndProcess(destination) {
     console.error('invalid yaml in file');
   }).catch(function (err) {
     console.error('unable to read file');
-    console.log(err);
+    // console.log(err)
   });
 };
 

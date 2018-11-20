@@ -75,8 +75,10 @@ let readAndProcess = (destination) => {
   return fs.readFileAsync(destination.markdownPath)
     .then(yamlFront.loadFront)
     .then(async function (val) {
-      let flickrCache = await axios.get(`https://s3.amazonaws.com/south-america-blog/${val.flickr_link}/index.json`)      
 
+      console.log(`https://s3.amazonaws.com/south-america-blog/${val.flickr_link}/index.json`)
+      console.log('---------------------------')
+      let flickrCache = await axios.get(`https://s3.amazonaws.com/south-america-blog/${val.flickr_link}/index.json`)      
       return {
         'type': 'destination',
         'id': destination.id,
@@ -97,7 +99,7 @@ let readAndProcess = (destination) => {
     })
     .catch(function (err) {
       console.error('unable to read file')
-      console.log(err)
+      // console.log(err)
     })
 }
 
