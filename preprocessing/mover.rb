@@ -41,7 +41,7 @@ end
 
 def download_photo_versions(photo, folder, extension)
   flickr.photos.getSizes(photo_id: photo.id).map do |version|
-    file_name = ["#{version.width}x#{version.height}", version.label]
+    file_name = [photo.id, "#{version.width}x#{version.height}", version.label]
                 .join('-') + '.' + extension
 
     file_path = File.join(folder, file_name)

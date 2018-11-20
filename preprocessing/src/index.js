@@ -4,6 +4,8 @@ import marked from 'marked'
 import Promise from 'bluebird'
 import path from 'path'
 import ms from 'minimal-sitemap'
+import axios from 'axios'
+
 Promise.promisifyAll(fs)
 
 export function run() {
@@ -72,10 +74,9 @@ var writeJson = (file, data) => {
 let readAndProcess = (destination) => {
   return fs.readFileAsync(destination.markdownPath)
     .then(yamlFront.loadFront)
-    .then(function (val) {
-      let flickrCache = fs.existsSync(destination.flickrCachePath) ?
-        fs.readFileSync(destination.flickrCachePath, {encoding: 'utf-8'}) :
-        ''
+    .then(async function (val) {
+      let flickrCache = await axios.get(`https://s3.amazonaws.com/south-america-blog/${val.flickr_link}/index.json`)      
+
       return {
         'type': 'destination',
         'id': destination.id,
@@ -87,7 +88,7 @@ let readAndProcess = (destination) => {
           'country': val.country,
           'flickr-link': val.flickr_link,
           'body': marked(val.__content),
-          'flickr-cache': flickrCache
+          'flickr-cache': flickrCache.data
         }
       }
     })

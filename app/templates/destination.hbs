@@ -14,10 +14,15 @@
   </article>
 
   {{#if model.flickrLink}}
-    {{{model.flickrCache}}}
-    <p>
-      Here are <a href="http://www.flickr.com/photos/counterbeing/sets/{{model.flickrLink}}/" title="The flickr set">the original files on flickr</a>.
-    </p>
+    {{#each model.photos as |photo| }}
+      <figure >
+        <img 
+          alt="{{photo.title}}"
+          src="https://s3.amazonaws.com/south-america-blog/{{model.flickrLink}}/{{photo.name}}" 
+        >
+      </figure>
+      <figcaption>{{photo.description}}</figcaption>
+    {{/each}}
   {{/if}}
 
   {{navigation-buttons}}

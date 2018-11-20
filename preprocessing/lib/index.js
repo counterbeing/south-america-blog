@@ -1,55 +1,59 @@
-'use strict'
+'use strict';
 
-Object.defineProperty(exports, '__esModule', {
+Object.defineProperty(exports, "__esModule", {
   value: true
-})
-exports.run = run
+});
+exports.run = run;
 
-var _fsExtra = require('fs-extra')
+var _fsExtra = require('fs-extra');
 
-var _fsExtra2 = _interopRequireDefault(_fsExtra)
+var _fsExtra2 = _interopRequireDefault(_fsExtra);
 
-var _yamlFrontMatter = require('yaml-front-matter')
+var _yamlFrontMatter = require('yaml-front-matter');
 
-var _yamlFrontMatter2 = _interopRequireDefault(_yamlFrontMatter)
+var _yamlFrontMatter2 = _interopRequireDefault(_yamlFrontMatter);
 
-var _marked = require('marked')
+var _marked = require('marked');
 
-var _marked2 = _interopRequireDefault(_marked)
+var _marked2 = _interopRequireDefault(_marked);
 
-var _bluebird = require('bluebird')
+var _bluebird = require('bluebird');
 
-var _bluebird2 = _interopRequireDefault(_bluebird)
+var _bluebird2 = _interopRequireDefault(_bluebird);
 
-var _path = require('path')
+var _path = require('path');
 
-var _path2 = _interopRequireDefault(_path)
+var _path2 = _interopRequireDefault(_path);
 
-var _minimalSitemap = require('minimal-sitemap')
+var _minimalSitemap = require('minimal-sitemap');
 
-var _minimalSitemap2 = _interopRequireDefault(_minimalSitemap)
+var _minimalSitemap2 = _interopRequireDefault(_minimalSitemap);
 
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj } }
+var _axios = require('axios');
 
-_bluebird2.default.promisifyAll(_fsExtra2.default)
+var _axios2 = _interopRequireDefault(_axios);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+_bluebird2.default.promisifyAll(_fsExtra2.default);
 
 function run() {
-  _fsExtra2.default.ensureDirSync('../public/destinations/')
+  _fsExtra2.default.ensureDirSync('../public/destinations/');
   _fsExtra2.default.readdirAsync('./data/').filter(function (element) {
     return (/\d{7}/.test(element)
-    )
+    );
   }).map(function (fileName) {
     return {
       id: fileName,
       markdownPath: 'data/' + fileName + '/post.md',
       flickrCachePath: 'data/' + fileName + '/flickr.cache'
-    }
+    };
   }).map(function (destination) {
     return readAndProcess(destination).then(function (destination) {
-      writeJson(_path2.default.join('../public/destinations/', destination.id + '.json'), destination)
-      return destination
+      writeJson(_path2.default.join('../public/destinations/', destination.id + '.json'), destination);
+      return destination;
     }).then(function (destination) {
-      var attributes = destination.attributes
+      var attributes = destination.attributes;
       return {
         'type': 'destination',
         'id': destination.id,
@@ -58,29 +62,30 @@ function run() {
           'longitude': attributes.longitude,
           'date': attributes.date
         }
-      }
-    })
+      };
+    });
   }).tap(function (destinations) {
     var ids = destinations.map(function (destination) {
-      return destination.id
-    })
+      return destination.id;
+    });
     _minimalSitemap2.default.toSiteMapFile({
       urls: ids,
       prefix: 'https://www.corylogan.com/sa/destination/',
       file: '../public/sitemap.xml'
-    })
+    });
   }).then(function (destinations) {
-    writeJson(_path2.default.join('../public', 'destinations.json'), destinations)
-  })
+    writeJson(_path2.default.join('../public', 'destinations.json'), destinations);
+  });
 }
 
 var writeJson = function writeJson(file, data) {
-  return _fsExtra2.default.writeJson(file, { data: data }, { spaces: 2 })
-}
+  return _fsExtra2.default.writeJson(file, { data: data }, { spaces: 2 });
+};
 
 var readAndProcess = function readAndProcess(destination) {
-  return _fsExtra2.default.readFileAsync(destination.markdownPath).then(_yamlFrontMatter2.default.loadFront).then(function (val) {
-    var flickrCache = _fsExtra2.default.existsSync(destination.flickrCachePath) ? _fsExtra2.default.readFileSync(destination.flickrCachePath, { encoding: 'utf-8' }) : ''
+  return _fsExtra2.default.readFileAsync(destination.markdownPath).then(_yamlFrontMatter2.default.loadFront).then(async function (val) {
+    var flickrCache = await _axios2.default.get('https://s3.amazonaws.com/south-america-blog/' + val.flickr_link + '/index.json');
+
     return {
       'type': 'destination',
       'id': destination.id,
@@ -92,15 +97,15 @@ var readAndProcess = function readAndProcess(destination) {
         'country': val.country,
         'flickr-link': val.flickr_link,
         'body': (0, _marked2.default)(val.__content),
-        'flickr-cache': flickrCache
+        'flickr-cache': flickrCache.data
       }
-    }
+    };
   }).catch(SyntaxError, function () {
-    console.error('invalid yaml in file')
+    console.error('invalid yaml in file');
   }).catch(function (err) {
-    console.error('unable to read file')
-    console.log(err)
-  })
-}
+    console.error('unable to read file');
+    console.log(err);
+  });
+};
 
-run()
+run();

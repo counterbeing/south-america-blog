@@ -10,7 +10,466 @@
       "country": "Mexico",
       "flickr-link": "72157638450609874",
       "body": "<p>Today was the first day waking up in another country on this trip. In that way it was significant. I woke up around dawn, peered out of my tent. All I could see was motorcycle and pink sky. It made me pretty happy. I was still tired, but I forced myself up. I immediately broke down camp. Before I was done I met a super cute puppy, and her owner. If I recall correctly their names were Rebel and Wendy, respectively.</p>\n<p>Wendy was super nice. She gifted me a cup of coffee, a tangerine, and a roll of toilet paper. Mexico is a BYOTP nation. At least in a lot of parts. I had somehow forgotten that item. I was very thankful. I left shortly after taking care of my business. It was too early to pay, so I hit the road.</p>\n<p>I went down long straight flat roads that were in poor condition. They ran adjacent to some farmland. I didn’t see too many people, but every now and again someone would appear, sometimes with no real clear way of having gotten there. We were over 20 miles of desert land from anywhere. And by anywhere, I mean nowhere.</p>\n<p>The day before there had been huge dirt mounds covered with cactus. Today they were becoming more sparse. The land was mostly flat, and then there would be a lonely peak jutting out, seemingly without  reason. It would be greener than the land surrounding  and often dotted with purple brush flowers. Cows roamed without fences. Gotta look out for those.</p>\n<p>The riding was a game for a while. There would be complex patterns of potholes. The goal was to avoid them all. Sometimes it would mean riding into the center of them where there was a narrow flat bridge. Sometimes a quick turn, leaning the moto so the tires were elsewhere. Sometimes back and forth. Then occasionally, you realize you’re not going to make it, and slowing down won’t help. The only thing to do then is to brace yourself, and by that i mean stay loose, and accelerate into it. It never feels great. But the rest of the time it’s pretty fun. And can be played at around 50mph safely. Eventually… it gets kind of tiring.</p>\n<p>I was once again getting a bit paranoid about things. Mostly about my rear tire. I knew it was fine for today, but was it going to make it to Guatemala? Being alone for so long has some interesting side effects. You’re left to think, or not think. Both can be nice, but thought can at times be dangerous. I have a habit of planning out my next steps in my head. Thinking about projects that I’m working on, thinking through them, and trying to create a checklist of what I will do the next time I sit down. I don’t know if it’s always helpful, but it does put my mind at rest.</p>\n<p>This day however, there was a growing unease that I couldn’t stop. I rode through it all day. I took the toll road most of the day. I fought it and fought it and fought it, but it just kept coming back. I stopped for lunch. More tacos (there’s a photo below).</p>\n",
-      "flickr-cache": "<figure><img src=\"https://farm8.staticflickr.com/7460/11257548793_d32839c528_c.jpg\" alt=\"Road\"><figcaption>This road, though straight was textured enough to limit my speed. Lot's of surprise potholes, it was kind of like a video game.</figcaption></figure><figure><img src=\"https://farm8.staticflickr.com/7322/11257457295_8a57c3dc09_c.jpg\" alt=\"Landscape\"><figcaption></figcaption></figure><figure><img src=\"https://farm4.staticflickr.com/3766/11257487236_336a3aa422_c.jpg\" alt=\"Landscape\"><figcaption></figcaption></figure><figure><img src=\"https://farm6.staticflickr.com/5472/11257460405_1885bab99d_c.jpg\" alt=\"Campground Sunrise\"><figcaption></figcaption></figure><figure><img src=\"https://farm8.staticflickr.com/7355/11257489736_03f96cc0a0_c.jpg\" alt=\"Camping\"><figcaption></figcaption></figure>"
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Road",
+            "taken": "2013-01-08 13:00:57",
+            "description": "This road, though straight was textured enough to limit my speed. Lot's of surprise potholes, it was kind of like a video game.",
+            "versions": [
+              {
+                "name": "75x75-Square.jpg",
+                "path": "tmp/72157638450609874/75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "150x150-Large Square.jpg",
+                "path": "tmp/72157638450609874/150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "100x75-Thumbnail.jpg",
+                "path": "tmp/72157638450609874/100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "240x180-Small.jpg",
+                "path": "tmp/72157638450609874/240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "320x240-Small 320.jpg",
+                "path": "tmp/72157638450609874/320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "500x375-Medium.jpg",
+                "path": "tmp/72157638450609874/500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "640x480-Medium 640.jpg",
+                "path": "tmp/72157638450609874/640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "800x600-Medium 800.jpg",
+                "path": "tmp/72157638450609874/800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "1024x768-Large.jpg",
+                "path": "tmp/72157638450609874/1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "1600x1200-Large 1600.jpg",
+                "path": "tmp/72157638450609874/1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "2048x1536-Large 2048.jpg",
+                "path": "tmp/72157638450609874/2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "3264x2448-Original.jpg",
+                "path": "tmp/72157638450609874/3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Landscape",
+            "taken": "2013-01-08 13:00:50",
+            "description": "",
+            "versions": [
+              {
+                "name": "75x75-Square.jpg",
+                "path": "tmp/72157638450609874/75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "150x150-Large Square.jpg",
+                "path": "tmp/72157638450609874/150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "100x75-Thumbnail.jpg",
+                "path": "tmp/72157638450609874/100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "240x180-Small.jpg",
+                "path": "tmp/72157638450609874/240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "320x240-Small 320.jpg",
+                "path": "tmp/72157638450609874/320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "500x375-Medium.jpg",
+                "path": "tmp/72157638450609874/500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "640x480-Medium 640.jpg",
+                "path": "tmp/72157638450609874/640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "800x600-Medium 800.jpg",
+                "path": "tmp/72157638450609874/800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "1024x768-Large.jpg",
+                "path": "tmp/72157638450609874/1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "1600x1200-Large 1600.jpg",
+                "path": "tmp/72157638450609874/1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "2048x1536-Large 2048.jpg",
+                "path": "tmp/72157638450609874/2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "3264x2448-Original.jpg",
+                "path": "tmp/72157638450609874/3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Landscape",
+            "taken": "2013-01-08 12:34:41",
+            "description": "",
+            "versions": [
+              {
+                "name": "75x75-Square.jpg",
+                "path": "tmp/72157638450609874/75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "150x150-Large Square.jpg",
+                "path": "tmp/72157638450609874/150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "100x75-Thumbnail.jpg",
+                "path": "tmp/72157638450609874/100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "240x180-Small.jpg",
+                "path": "tmp/72157638450609874/240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "320x240-Small 320.jpg",
+                "path": "tmp/72157638450609874/320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "500x375-Medium.jpg",
+                "path": "tmp/72157638450609874/500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "640x480-Medium 640.jpg",
+                "path": "tmp/72157638450609874/640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "800x600-Medium 800.jpg",
+                "path": "tmp/72157638450609874/800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "1024x768-Large.jpg",
+                "path": "tmp/72157638450609874/1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "1600x1200-Large 1600.jpg",
+                "path": "tmp/72157638450609874/1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "2048x1536-Large 2048.jpg",
+                "path": "tmp/72157638450609874/2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "3264x2448-Original.jpg",
+                "path": "tmp/72157638450609874/3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Campground Sunrise",
+            "taken": "2013-01-08 09:21:19",
+            "description": "",
+            "versions": [
+              {
+                "name": "75x75-Square.jpg",
+                "path": "tmp/72157638450609874/75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "150x150-Large Square.jpg",
+                "path": "tmp/72157638450609874/150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "100x75-Thumbnail.jpg",
+                "path": "tmp/72157638450609874/100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "240x180-Small.jpg",
+                "path": "tmp/72157638450609874/240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "320x240-Small 320.jpg",
+                "path": "tmp/72157638450609874/320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "500x375-Medium.jpg",
+                "path": "tmp/72157638450609874/500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "640x480-Medium 640.jpg",
+                "path": "tmp/72157638450609874/640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "800x600-Medium 800.jpg",
+                "path": "tmp/72157638450609874/800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "1024x768-Large.jpg",
+                "path": "tmp/72157638450609874/1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "1600x1200-Large 1600.jpg",
+                "path": "tmp/72157638450609874/1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "2048x1536-Large 2048.jpg",
+                "path": "tmp/72157638450609874/2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "3264x2448-Original.jpg",
+                "path": "tmp/72157638450609874/3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Camping",
+            "taken": "2013-01-08 09:21:08",
+            "description": "",
+            "versions": [
+              {
+                "name": "75x75-Square.jpg",
+                "path": "tmp/72157638450609874/75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "150x150-Large Square.jpg",
+                "path": "tmp/72157638450609874/150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "100x75-Thumbnail.jpg",
+                "path": "tmp/72157638450609874/100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "240x180-Small.jpg",
+                "path": "tmp/72157638450609874/240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "320x240-Small 320.jpg",
+                "path": "tmp/72157638450609874/320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "500x375-Medium.jpg",
+                "path": "tmp/72157638450609874/500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "640x480-Medium 640.jpg",
+                "path": "tmp/72157638450609874/640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "800x600-Medium 800.jpg",
+                "path": "tmp/72157638450609874/800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "1024x768-Large.jpg",
+                "path": "tmp/72157638450609874/1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "1600x1200-Large 1600.jpg",
+                "path": "tmp/72157638450609874/1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "2048x1536-Large 2048.jpg",
+                "path": "tmp/72157638450609874/2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "3264x2448-Original.jpg",
+                "path": "tmp/72157638450609874/3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Mexico, Bahia de Kino"
+      }
     }
   }
 }

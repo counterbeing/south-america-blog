@@ -26,12 +26,8 @@ export default Route.extend({
     return `${city}, ${country} | South America Motorcycle Tour`
   },
 
-
-
   afterModel(destination) {
-    if(!destination) {
-      return
-    }
+    if(!destination) { return }
     this.get('locationManager').setLocation(destination.id)
   },
 

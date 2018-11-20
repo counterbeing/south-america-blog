@@ -13,8 +13,6 @@ export default Model.extend({
   body: attr(),
   flickrCache: attr(),
 
-  // Some issue here, want but does not work next line
-  // locationManager: inject.service(),
   locationManager: Ember.inject.service(),
 
   init() {
@@ -37,6 +35,20 @@ export default Model.extend({
       lat: this.get('latitude'),
       lng: this.get('longitude')
     }
+  }),
+
+  photos: computed('flickrCache', function() {
+    const photos = this.get('flickrCache').photos
+    return photos.map(function(photo) {
+      const element = {
+        description: photo.description,
+        title: photo.title,
+        name: photo.versions[6].name,
+      }
+      console.log(element)
+      return element
+    })
+
   }),
 
   color: computed('locationManager.currentLocation', function(){

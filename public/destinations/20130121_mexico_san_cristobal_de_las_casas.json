@@ -10,7 +10,102 @@
       "country": "Mexico",
       "flickr-link": "72157638448237205",
       "body": "<h2 id=\"quick-stop\">Quick Stop</h2>\n<p>Too bad I had to get back on the road immediately. Had a nice walk around and dinner though. </p>\n",
-      "flickr-cache": "<figure><img src=\"https://farm4.staticflickr.com/3812/11256745274_77bdc5f5df_c.jpg\" alt=\"Streets\"><figcaption>Grabbed this single photo on the way out of town.</figcaption></figure>"
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Streets",
+            "taken": "2013-01-23 08:02:07",
+            "description": "Grabbed this single photo on the way out of town.",
+            "versions": [
+              {
+                "name": "75x75-Square.jpg",
+                "path": "tmp/72157638448237205/75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "150x150-Large Square.jpg",
+                "path": "tmp/72157638448237205/150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "100x75-Thumbnail.jpg",
+                "path": "tmp/72157638448237205/100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "240x180-Small.jpg",
+                "path": "tmp/72157638448237205/240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "320x240-Small 320.jpg",
+                "path": "tmp/72157638448237205/320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "500x375-Medium.jpg",
+                "path": "tmp/72157638448237205/500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "640x480-Medium 640.jpg",
+                "path": "tmp/72157638448237205/640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "800x600-Medium 800.jpg",
+                "path": "tmp/72157638448237205/800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "1024x768-Large.jpg",
+                "path": "tmp/72157638448237205/1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "1600x1200-Large 1600.jpg",
+                "path": "tmp/72157638448237205/1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "2048x1536-Large 2048.jpg",
+                "path": "tmp/72157638448237205/2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "3264x2448-Original.jpg",
+                "path": "tmp/72157638448237205/3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Mexico, San Cristobal de Las Casas I"
+      }
     }
   }
 }
