@@ -1,53 +1,46 @@
 {
   "name": "south-america-blog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
-  "description": "Small description for south-america-blog goes here",
-  "license": "MIT",
-  "author": "",
-  "directories": {
-    "doc": "doc",
-    "test": "tests"
-  },
-  "repository": "",
   "scripts": {
-    "build": "ember build",
-    "lint:js": "eslint .",
-    "start": "ember serve",
-    "test": "ember test"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
-    "bootstrap": "^4.0.0-alpha.6",
-    "broccoli-asset-rev": "^2.7.0",
-    "ember-ajax": "^3.0.0",
-    "ember-bootstrap": "^1.0.0-beta.2",
-    "ember-cli": "~3.2.0",
-    "ember-cli-app-version": "^3.0.0",
-    "ember-cli-babel": "^6.6.0",
-    "ember-cli-dependency-checker": "^2.0.0",
-    "ember-cli-document-title": "^0.4.0",
-    "ember-cli-eslint": "^4.2.1",
-    "ember-cli-htmlbars": "^2.0.1",
-    "ember-cli-htmlbars-inline-precompile": "^1.0.0",
-    "ember-cli-inject-live-reload": "^1.4.1",
-    "ember-cli-moment-shim": "^3.3.3",
-    "ember-cli-qunit": "^4.3.2",
-    "ember-cli-sass": "^7.0.0",
-    "ember-cli-shims": "^1.2.0",
-    "ember-cli-sri": "^2.1.0",
-    "ember-cli-uglify": "^2.0.0",
-    "ember-data": "~3.2.0",
-    "ember-export-application-global": "^2.0.0",
-    "ember-load-initializers": "^1.1.0",
-    "ember-maybe-import-regenerator": "^0.1.6",
-    "ember-moment": "^7.3.1",
-    "ember-resolver": "^4.3.0",
-    "ember-source": "~3.2.0",
-    "eslint-plugin-ember": "^5.0.0",
-    "loader.js": "^4.2.3",
-    "qunit-dom": "^0.6.2"
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.5.21"
   },
-  "engines": {
-    "node": "6.* || 8.* || >= 10.*"
-  }
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }
