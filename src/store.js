@@ -1,24 +1,32 @@
-import Vue from "vue";
-import Vuex from "vuex";
-import Destinations from "./data/destinations.json";
+import Vue from 'vue'
+import Vuex from 'vuex'
+import Destinations from './data/destinations.json'
 
-Vue.use(Vuex);
+Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    currentDestination: Destinations[Destinations.length - 1]
+    destinations: Destinations,
+    current: Destinations[Destinations.length - 1],
+    destination: {},
   },
   mutations: {
-    setDestination(state, destination) {
-      state.currentDestination = destination;
-    }
+    SET_DESTINATION(state, destination) {
+      state.destination = destination
+    },
   },
   actions: {
+    async getDestination({ commit, state }) {
+      const response = await fetch(
+        '/destinations/' + state.current.id + '.json'
+      )
+      // console.log(response.json())
+      commit('SET_DESTINATION', await response.json())
+    },
     setDestination: (context, payload) =>
-      context.commit("setDestination", payload)
+      context.commit('SET_CURRENT', payload),
   },
-  getters: {
-    destination: state =>
-      Destinations.find(s => state.currentDestination === s.id)
-  }
-});
+  // getters: {
+  //   destination: state => state.destinations[0]
+  // }
+})

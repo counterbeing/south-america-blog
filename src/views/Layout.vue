@@ -1,37 +1,36 @@
 <template>
-  <div id="blog">
+  <div id="layout">
     <Inspector />
-    <!-- <Map /> -->
+    <div id="map-container">
+      <Map />
+    </div>
     <!-- <Navbar v-if="story" :story="story" class="desktop-hidden" /> -->
   </div>
 </template>
 <script>
-import { mapActions, mapGetters } from "vuex";
-import Inspector from "@/components/Inspector";
-// import Map from './Map';
+import Inspector from '@/components/Inspector'
+import Map from '@/components/Map'
 // import Navbar from './micro/Navbar';
 // import Stories from './stories.json';
 
 export default {
   data: () => ({}),
-  // components: { Map, Inspector, Navbar },
-  components: { Inspector },
-  computed: {
-    ...mapGetters(["destination"])
-  },
+  components: { Inspector, Map },
+  computed: {},
   methods: {
-    ...mapActions(["setDestination"])
+    // ...mapActions(["setDestination"])
   },
   watch: {
-    $route(to) {
-      this.setDestination(to.params.id);
-    }
+    // $route(to) {
+    //   this.setDestination(to.params.id);
+    // },
   },
   mounted() {
-    this.setDestination(this.$route.params.id);
-  }
-};
+    // this.setDestination(this.$route.params.id);
+  },
+}
 </script>
+
 <style>
 #blog {
 }
@@ -40,5 +39,13 @@ export default {
   .desktop-hidden {
     display: none !important;
   }
+}
+
+#map-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 40vw;
+  height: 100vh;
 }
 </style>
