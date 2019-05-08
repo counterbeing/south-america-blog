@@ -21,9 +21,8 @@ export default new Vuex.Store({
   },
   actions: {
     async getDestination({ commit, state }) {
-      const u =
-        process.env.BASE_URL + 'destinations/' + state.current.id + '.json'
-      process
+      const jsonPath = 'destinations/' + state.current.id + '.json'
+      const u = process.env.BASE_URL + jsonPath
       const response = await fetch(u)
       commit('SET_DESTINATION', await response.json())
     },
