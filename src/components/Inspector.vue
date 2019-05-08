@@ -50,6 +50,7 @@ export default {
 }
 .body {
   padding: 5rem;
+  font-size: 1.4rem;
 }
 img {
   width: 100%;
