@@ -1,0 +1,384 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20130112_mexico_puerto_vallarta",
+    "attributes": {
+      "latitude": 20.615845,
+      "longitude": -105.230256,
+      "date": "20130112",
+      "city": "Puerto Vallarta",
+      "country": "Mexico",
+      "flickr-link": "72157638459528353",
+      "body": "",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Landscape",
+            "taken": "2013-01-14 09:26:40",
+            "description": "",
+            "versions": [
+              {
+                "name": "11262403995-75x75-Square.jpg",
+                "path": "72157638459528353/11262403995-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11262403995-150x150-Large Square.jpg",
+                "path": "72157638459528353/11262403995-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11262403995-100x75-Thumbnail.jpg",
+                "path": "72157638459528353/11262403995-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11262403995-240x180-Small.jpg",
+                "path": "72157638459528353/11262403995-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11262403995-320x240-Small 320.jpg",
+                "path": "72157638459528353/11262403995-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11262403995-500x375-Medium.jpg",
+                "path": "72157638459528353/11262403995-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11262403995-640x480-Medium 640.jpg",
+                "path": "72157638459528353/11262403995-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11262403995-800x600-Medium 800.jpg",
+                "path": "72157638459528353/11262403995-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11262403995-1024x768-Large.jpg",
+                "path": "72157638459528353/11262403995-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11262403995-1600x1200-Large 1600.jpg",
+                "path": "72157638459528353/11262403995-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11262403995-2048x1536-Large 2048.jpg",
+                "path": "72157638459528353/11262403995-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11262403995-3264x2448-Original.jpg",
+                "path": "72157638459528353/11262403995-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Puerto Vallarta",
+            "taken": "2013-01-13 13:23:02",
+            "description": "Not really my scene, but interesting anyway.",
+            "versions": [
+              {
+                "name": "11262493453-75x75-Square.jpg",
+                "path": "72157638459528353/11262493453-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11262493453-150x150-Large Square.jpg",
+                "path": "72157638459528353/11262493453-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11262493453-100x75-Thumbnail.jpg",
+                "path": "72157638459528353/11262493453-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11262493453-240x180-Small.jpg",
+                "path": "72157638459528353/11262493453-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11262493453-320x240-Small 320.jpg",
+                "path": "72157638459528353/11262493453-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11262493453-500x375-Medium.jpg",
+                "path": "72157638459528353/11262493453-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11262493453-640x480-Medium 640.jpg",
+                "path": "72157638459528353/11262493453-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11262493453-800x600-Medium 800.jpg",
+                "path": "72157638459528353/11262493453-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11262493453-1024x768-Large.jpg",
+                "path": "72157638459528353/11262493453-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11262493453-1600x1200-Large 1600.jpg",
+                "path": "72157638459528353/11262493453-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11262493453-2048x1536-Large 2048.jpg",
+                "path": "72157638459528353/11262493453-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11262493453-3264x2448-Original.jpg",
+                "path": "72157638459528353/11262493453-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Breakfast",
+            "taken": "2013-01-13 12:06:46",
+            "description": "Huevos divorciados. Solid breakfast.",
+            "versions": [
+              {
+                "name": "11262438636-75x75-Square.jpg",
+                "path": "72157638459528353/11262438636-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11262438636-150x150-Large Square.jpg",
+                "path": "72157638459528353/11262438636-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11262438636-100x75-Thumbnail.jpg",
+                "path": "72157638459528353/11262438636-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11262438636-240x180-Small.jpg",
+                "path": "72157638459528353/11262438636-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11262438636-320x240-Small 320.jpg",
+                "path": "72157638459528353/11262438636-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11262438636-500x375-Medium.jpg",
+                "path": "72157638459528353/11262438636-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11262438636-640x480-Medium 640.jpg",
+                "path": "72157638459528353/11262438636-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11262438636-800x600-Medium 800.jpg",
+                "path": "72157638459528353/11262438636-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11262438636-1024x768-Large.jpg",
+                "path": "72157638459528353/11262438636-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11262438636-1600x1200-Large 1600.jpg",
+                "path": "72157638459528353/11262438636-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11262438636-2048x1536-Large 2048.jpg",
+                "path": "72157638459528353/11262438636-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11262438636-3264x2448-Original.jpg",
+                "path": "72157638459528353/11262438636-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Street",
+            "taken": "2013-01-12 19:08:05",
+            "description": "",
+            "versions": [
+              {
+                "name": "11262440306-75x75-Square.jpg",
+                "path": "72157638459528353/11262440306-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11262440306-150x150-Large Square.jpg",
+                "path": "72157638459528353/11262440306-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11262440306-100x75-Thumbnail.jpg",
+                "path": "72157638459528353/11262440306-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11262440306-240x180-Small.jpg",
+                "path": "72157638459528353/11262440306-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11262440306-320x240-Small 320.jpg",
+                "path": "72157638459528353/11262440306-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11262440306-500x375-Medium.jpg",
+                "path": "72157638459528353/11262440306-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11262440306-640x480-Medium 640.jpg",
+                "path": "72157638459528353/11262440306-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11262440306-800x600-Medium 800.jpg",
+                "path": "72157638459528353/11262440306-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11262440306-1024x768-Large.jpg",
+                "path": "72157638459528353/11262440306-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11262440306-1600x1200-Large 1600.jpg",
+                "path": "72157638459528353/11262440306-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11262440306-2048x1536-Large 2048.jpg",
+                "path": "72157638459528353/11262440306-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11262440306-3264x2448-Original.jpg",
+                "path": "72157638459528353/11262440306-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Mexico, Puerto Vallarta"
+      }
+    }
+  }
+}

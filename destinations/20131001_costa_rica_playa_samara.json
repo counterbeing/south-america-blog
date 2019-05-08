@@ -1,0 +1,111 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20131001_costa_rica_playa_samara",
+    "attributes": {
+      "latitude": 9.883333,
+      "longitude": -85.533333,
+      "date": "20131001",
+      "city": "Playa Samara",
+      "country": "Costa Rica",
+      "flickr-link": "72157638449893576",
+      "body": "<h2 id=\"picking-up-the-motorcycle\">Picking up the Motorcycle</h2>\n<p>Just a night, and just one photo here. After spending a few weeks back in San Francisco, I returned to Playa Nosara to pick up my motorcycle, and wound up in Samara for the night. The bus ride took most of the day already, so it made sense to spend at least one night.</p>\n<p>Had a fun time playing frisbee on the beach with my LED frisbee, and later dancing. It&#39;s an alright place, and worth stopping in if you&#39;re in the area. </p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Evening Drinking",
+            "taken": "2013-09-19 17:06:07",
+            "description": "Sorry for the bad photo everyone.",
+            "versions": [
+              {
+                "name": "11257517803-75x75-Square.jpg",
+                "path": "72157638449893576/11257517803-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11257517803-150x150-Large Square.jpg",
+                "path": "72157638449893576/11257517803-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11257517803-100x75-Thumbnail.jpg",
+                "path": "72157638449893576/11257517803-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11257517803-240x180-Small.jpg",
+                "path": "72157638449893576/11257517803-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11257517803-320x240-Small 320.jpg",
+                "path": "72157638449893576/11257517803-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11257517803-500x375-Medium.jpg",
+                "path": "72157638449893576/11257517803-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11257517803-640x480-Medium 640.jpg",
+                "path": "72157638449893576/11257517803-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11257517803-800x600-Medium 800.jpg",
+                "path": "72157638449893576/11257517803-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11257517803-1024x768-Large.jpg",
+                "path": "72157638449893576/11257517803-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11257517803-1600x1200-Large 1600.jpg",
+                "path": "72157638449893576/11257517803-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11257517803-2048x1536-Large 2048.jpg",
+                "path": "72157638449893576/11257517803-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11257517803-3264x2448-Original.jpg",
+                "path": "72157638449893576/11257517803-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Costa Rica, Playa Samara"
+      }
+    }
+  }
+}

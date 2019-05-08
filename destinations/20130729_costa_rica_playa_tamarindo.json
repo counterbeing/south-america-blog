@@ -1,0 +1,356 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20130729_costa_rica_playa_tamarindo",
+    "attributes": {
+      "latitude": 10.29908,
+      "longitude": -85.84210999999999,
+      "date": "20130729",
+      "city": "Playa Tamarindo",
+      "country": "Costa Rica",
+      "flickr-link": "72157638440675186",
+      "body": "<h2 id=\"back-in-the-ussa\">Back In The USSA</h2>\n<p>Tamarindo has a nice beach, and it has some nice people. But, it&#39;s not my place. It feels a bit like Southern California. Everything is surf logos, and stucco. The beach just wasn&#39;t enough to keep me there. I had to get out, and in short order, I did.</p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Gallo Pinto",
+            "taken": "2013-08-01 11:16:56",
+            "description": "Found a good gallo pinto on the way out of  Tamarindo.",
+            "versions": [
+              {
+                "name": "11252699663-75x75-Square.jpg",
+                "path": "72157638440675186/11252699663-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11252699663-150x150-Large Square.jpg",
+                "path": "72157638440675186/11252699663-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11252699663-75x100-Thumbnail.jpg",
+                "path": "72157638440675186/11252699663-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11252699663-180x240-Small.jpg",
+                "path": "72157638440675186/11252699663-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11252699663-240x320-Small 320.jpg",
+                "path": "72157638440675186/11252699663-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11252699663-375x500-Medium.jpg",
+                "path": "72157638440675186/11252699663-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11252699663-480x640-Medium 640.jpg",
+                "path": "72157638440675186/11252699663-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11252699663-600x800-Medium 800.jpg",
+                "path": "72157638440675186/11252699663-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11252699663-768x1024-Large.jpg",
+                "path": "72157638440675186/11252699663-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11252699663-1200x1600-Large 1600.jpg",
+                "path": "72157638440675186/11252699663-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11252699663-1536x2048-Large 2048.jpg",
+                "path": "72157638440675186/11252699663-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11252699663-2448x3264-Original.jpg",
+                "path": "72157638440675186/11252699663-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Motorcycle Parking",
+            "taken": "2013-08-01 10:17:05",
+            "description": "My motorcycle slept near the skate ramp and pool table.",
+            "versions": [
+              {
+                "name": "11252648764-75x75-Square.jpg",
+                "path": "72157638440675186/11252648764-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11252648764-150x150-Large Square.jpg",
+                "path": "72157638440675186/11252648764-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11252648764-100x75-Thumbnail.jpg",
+                "path": "72157638440675186/11252648764-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11252648764-240x180-Small.jpg",
+                "path": "72157638440675186/11252648764-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11252648764-320x240-Small 320.jpg",
+                "path": "72157638440675186/11252648764-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11252648764-500x375-Medium.jpg",
+                "path": "72157638440675186/11252648764-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11252648764-640x480-Medium 640.jpg",
+                "path": "72157638440675186/11252648764-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11252648764-800x600-Medium 800.jpg",
+                "path": "72157638440675186/11252648764-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11252648764-1024x768-Large.jpg",
+                "path": "72157638440675186/11252648764-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11252648764-1600x1200-Large 1600.jpg",
+                "path": "72157638440675186/11252648764-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11252648764-2048x1536-Large 2048.jpg",
+                "path": "72157638440675186/11252648764-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11252648764-3264x2448-Original.jpg",
+                "path": "72157638440675186/11252648764-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Working",
+            "taken": "2013-07-30 13:25:24",
+            "description": "Lunch came with a beer, there was nothing I could do.",
+            "versions": [
+              {
+                "name": "11252619085-75x75-Square.jpg",
+                "path": "72157638440675186/11252619085-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11252619085-150x150-Large Square.jpg",
+                "path": "72157638440675186/11252619085-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11252619085-100x75-Thumbnail.jpg",
+                "path": "72157638440675186/11252619085-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11252619085-240x180-Small.jpg",
+                "path": "72157638440675186/11252619085-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11252619085-320x240-Small 320.jpg",
+                "path": "72157638440675186/11252619085-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11252619085-500x375-Medium.jpg",
+                "path": "72157638440675186/11252619085-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11252619085-640x480-Medium 640.jpg",
+                "path": "72157638440675186/11252619085-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11252619085-800x600-Medium 800.jpg",
+                "path": "72157638440675186/11252619085-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11252619085-1024x768-Large.jpg",
+                "path": "72157638440675186/11252619085-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11252619085-1600x1200-Large 1600.jpg",
+                "path": "72157638440675186/11252619085-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11252619085-2048x1536-Large 2048.jpg",
+                "path": "72157638440675186/11252619085-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11252619085-3264x2448-Original.jpg",
+                "path": "72157638440675186/11252619085-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Selfie",
+            "taken": "2013-07-29 19:43:16",
+            "description": "This new t-shirt mysteriously showed up in my laundry. Sweet!",
+            "versions": [
+              {
+                "name": "11252705103-75x75-Square.jpg",
+                "path": "72157638440675186/11252705103-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11252705103-150x150-Large Square.jpg",
+                "path": "72157638440675186/11252705103-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11252705103-75x100-Thumbnail.jpg",
+                "path": "72157638440675186/11252705103-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11252705103-180x240-Small.jpg",
+                "path": "72157638440675186/11252705103-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11252705103-240x320-Small 320.jpg",
+                "path": "72157638440675186/11252705103-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11252705103-375x500-Medium.jpg",
+                "path": "72157638440675186/11252705103-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11252705103-480x640-Medium 640.jpg",
+                "path": "72157638440675186/11252705103-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11252705103-480x640-Original.jpg",
+                "path": "72157638440675186/11252705103-480x640-Original.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Costa Rica, Playa Tamarindo"
+      }
+    }
+  }
+}

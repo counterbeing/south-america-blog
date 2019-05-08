@@ -1,0 +1,384 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20130429_mexico_san_cristobal_de_las_casas",
+    "attributes": {
+      "latitude": 16.7370359,
+      "longitude": -92.6376186,
+      "date": "20130429",
+      "city": "San Cristobal de Las Casas",
+      "country": "Mexico",
+      "flickr-link": "72157638448481486",
+      "body": "",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Roof Panorama",
+            "taken": "2013-05-04 14:55:27",
+            "description": "",
+            "versions": [
+              {
+                "name": "11256705496-75x75-Square.jpg",
+                "path": "72157638448481486/11256705496-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11256705496-150x150-Large Square.jpg",
+                "path": "72157638448481486/11256705496-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11256705496-100x22-Thumbnail.jpg",
+                "path": "72157638448481486/11256705496-100x22-Thumbnail.jpg",
+                "width": "100",
+                "height": "22",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11256705496-240x52-Small.jpg",
+                "path": "72157638448481486/11256705496-240x52-Small.jpg",
+                "width": "240",
+                "height": "52",
+                "label": "Small"
+              },
+              {
+                "name": "11256705496-320x69-Small 320.jpg",
+                "path": "72157638448481486/11256705496-320x69-Small 320.jpg",
+                "width": "320",
+                "height": 69,
+                "label": "Small 320"
+              },
+              {
+                "name": "11256705496-500x108-Medium.jpg",
+                "path": "72157638448481486/11256705496-500x108-Medium.jpg",
+                "width": "500",
+                "height": "108",
+                "label": "Medium"
+              },
+              {
+                "name": "11256705496-640x139-Medium 640.jpg",
+                "path": "72157638448481486/11256705496-640x139-Medium 640.jpg",
+                "width": "640",
+                "height": "139",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11256705496-800x173-Medium 800.jpg",
+                "path": "72157638448481486/11256705496-800x173-Medium 800.jpg",
+                "width": "800",
+                "height": 173,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11256705496-1024x222-Large.jpg",
+                "path": "72157638448481486/11256705496-1024x222-Large.jpg",
+                "width": "1024",
+                "height": "222",
+                "label": "Large"
+              },
+              {
+                "name": "11256705496-1600x347-Large 1600.jpg",
+                "path": "72157638448481486/11256705496-1600x347-Large 1600.jpg",
+                "width": "1600",
+                "height": 347,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11256705496-2048x444-Large 2048.jpg",
+                "path": "72157638448481486/11256705496-2048x444-Large 2048.jpg",
+                "width": "2048",
+                "height": 444,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11256705496-10768x2332-Original.jpg",
+                "path": "72157638448481486/11256705496-10768x2332-Original.jpg",
+                "width": "10768",
+                "height": "2332",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Roof Shot",
+            "taken": "2013-05-04 13:54:50",
+            "description": "",
+            "versions": [
+              {
+                "name": "11256775283-75x75-Square.jpg",
+                "path": "72157638448481486/11256775283-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11256775283-150x150-Large Square.jpg",
+                "path": "72157638448481486/11256775283-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11256775283-100x75-Thumbnail.jpg",
+                "path": "72157638448481486/11256775283-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11256775283-240x180-Small.jpg",
+                "path": "72157638448481486/11256775283-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11256775283-320x240-Small 320.jpg",
+                "path": "72157638448481486/11256775283-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11256775283-500x375-Medium.jpg",
+                "path": "72157638448481486/11256775283-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11256775283-640x480-Medium 640.jpg",
+                "path": "72157638448481486/11256775283-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11256775283-800x600-Medium 800.jpg",
+                "path": "72157638448481486/11256775283-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11256775283-1024x768-Large.jpg",
+                "path": "72157638448481486/11256775283-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11256775283-1600x1200-Large 1600.jpg",
+                "path": "72157638448481486/11256775283-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11256775283-2048x1536-Large 2048.jpg",
+                "path": "72157638448481486/11256775283-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11256775283-3264x2448-Original.jpg",
+                "path": "72157638448481486/11256775283-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Urinal Shot",
+            "taken": "2013-04-29 18:41:14",
+            "description": "One of my most striking photos, shot from a urinal.",
+            "versions": [
+              {
+                "name": "11256687265-75x75-Square.jpg",
+                "path": "72157638448481486/11256687265-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11256687265-150x150-Large Square.jpg",
+                "path": "72157638448481486/11256687265-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11256687265-100x75-Thumbnail.jpg",
+                "path": "72157638448481486/11256687265-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11256687265-240x180-Small.jpg",
+                "path": "72157638448481486/11256687265-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11256687265-320x240-Small 320.jpg",
+                "path": "72157638448481486/11256687265-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11256687265-500x375-Medium.jpg",
+                "path": "72157638448481486/11256687265-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11256687265-640x480-Medium 640.jpg",
+                "path": "72157638448481486/11256687265-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11256687265-800x600-Medium 800.jpg",
+                "path": "72157638448481486/11256687265-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11256687265-1024x768-Large.jpg",
+                "path": "72157638448481486/11256687265-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11256687265-1600x1200-Large 1600.jpg",
+                "path": "72157638448481486/11256687265-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11256687265-2048x1536-Large 2048.jpg",
+                "path": "72157638448481486/11256687265-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11256687265-3264x2448-Original.jpg",
+                "path": "72157638448481486/11256687265-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cross",
+            "taken": "2013-04-29 13:17:29",
+            "description": "",
+            "versions": [
+              {
+                "name": "11256710506-75x75-Square.jpg",
+                "path": "72157638448481486/11256710506-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11256710506-150x150-Large Square.jpg",
+                "path": "72157638448481486/11256710506-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11256710506-100x75-Thumbnail.jpg",
+                "path": "72157638448481486/11256710506-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11256710506-240x180-Small.jpg",
+                "path": "72157638448481486/11256710506-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11256710506-320x240-Small 320.jpg",
+                "path": "72157638448481486/11256710506-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11256710506-500x375-Medium.jpg",
+                "path": "72157638448481486/11256710506-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11256710506-640x480-Medium 640.jpg",
+                "path": "72157638448481486/11256710506-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11256710506-800x600-Medium 800.jpg",
+                "path": "72157638448481486/11256710506-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11256710506-1024x768-Large.jpg",
+                "path": "72157638448481486/11256710506-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11256710506-1600x1200-Large 1600.jpg",
+                "path": "72157638448481486/11256710506-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11256710506-2048x1536-Large 2048.jpg",
+                "path": "72157638448481486/11256710506-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11256710506-3264x2448-Original.jpg",
+                "path": "72157638448481486/11256710506-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Mexico, San Cristobal de Las Casas II"
+      }
+    }
+  }
+}

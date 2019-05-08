@@ -1,0 +1,1938 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20140408_bolivia_la_paz",
+    "attributes": {
+      "latitude": -16.4990099,
+      "longitude": -68.146248,
+      "date": "20140408",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "flickr-link": "72157643708094035",
+      "body": "<p>It looks as if there are a number of lovely things to do here in La Paz. First off, I&#39;m knocking some work out. </p>\n<p>Already I&#39;m noticing some differences from Peru. It&#39;s definitely much less oriented towards toursim. They really didn&#39;t go out of their way to make migration very easy or cheap. In Peru, as I recall, it was free. I arrived at the border and they told me that in order to enter their country I had to pay $135 USD. I was flabberghasted. It seemed to me that a country that didn&#39;t have a bunch of cash would want to encourage tourism... but, no. I paid the $135 reluctantly, not being sure if I was being had by some corrupt official. But, I did some research when I reached La Paz, and it turns out they <a href=\"http://www.southamericaliving.com/living-in-bolivia-visas-fees/\">single out Americans</a> to pay a bunch of money at the border. If I were Canadian, I could enter for free. Stranger still, they wanted it in USD.</p>\n<p>The city looks rather pretty in some parts. I&#39;m excited to explore more. </p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Death Road",
+            "taken": "2014-05-07 12:35:08",
+            "description": "Didn't feel like stopping before this point. Turns out death road isn't all that deadly. Fun ride though!",
+            "versions": [
+              {
+                "name": "14195508274-75x75-Square.jpg",
+                "path": "72157643708094035/14195508274-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14195508274-150x150-Large Square.jpg",
+                "path": "72157643708094035/14195508274-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14195508274-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/14195508274-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14195508274-240x180-Small.jpg",
+                "path": "72157643708094035/14195508274-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14195508274-320x240-Small 320.jpg",
+                "path": "72157643708094035/14195508274-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14195508274-500x375-Medium.jpg",
+                "path": "72157643708094035/14195508274-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14195508274-640x480-Medium 640.jpg",
+                "path": "72157643708094035/14195508274-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14195508274-800x600-Medium 800.jpg",
+                "path": "72157643708094035/14195508274-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14195508274-1024x768-Large.jpg",
+                "path": "72157643708094035/14195508274-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14195508274-1024x768-Original.jpg",
+                "path": "72157643708094035/14195508274-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Strange Mountain Face",
+            "taken": "2014-05-07 11:38:53",
+            "description": "This mountain face on the way to Death Road seemed odd to me.",
+            "versions": [
+              {
+                "name": "14008974407-75x75-Square.jpg",
+                "path": "72157643708094035/14008974407-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14008974407-150x150-Large Square.jpg",
+                "path": "72157643708094035/14008974407-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14008974407-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/14008974407-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14008974407-180x240-Small.jpg",
+                "path": "72157643708094035/14008974407-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "14008974407-240x320-Small 320.jpg",
+                "path": "72157643708094035/14008974407-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "14008974407-375x500-Medium.jpg",
+                "path": "72157643708094035/14008974407-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "14008974407-480x640-Medium 640.jpg",
+                "path": "72157643708094035/14008974407-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14008974407-600x800-Medium 800.jpg",
+                "path": "72157643708094035/14008974407-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "14008974407-768x1024-Large.jpg",
+                "path": "72157643708094035/14008974407-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "14008974407-768x1024-Original.jpg",
+                "path": "72157643708094035/14008974407-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Valle De La Luna Panorama",
+            "taken": "2014-04-29 11:52:56",
+            "description": "You can just see a little dude up atop a rock near the middle. He's playing a flute which echoes through the whole valley. Good idea, dude.",
+            "versions": [
+              {
+                "name": "14195512134-75x75-Square.jpg",
+                "path": "72157643708094035/14195512134-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14195512134-150x150-Large Square.jpg",
+                "path": "72157643708094035/14195512134-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14195512134-100x23-Thumbnail.jpg",
+                "path": "72157643708094035/14195512134-100x23-Thumbnail.jpg",
+                "width": "100",
+                "height": "23",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14195512134-240x55-Small.jpg",
+                "path": "72157643708094035/14195512134-240x55-Small.jpg",
+                "width": "240",
+                "height": "55",
+                "label": "Small"
+              },
+              {
+                "name": "14195512134-320x73-Small 320.jpg",
+                "path": "72157643708094035/14195512134-320x73-Small 320.jpg",
+                "width": "320",
+                "height": 73,
+                "label": "Small 320"
+              },
+              {
+                "name": "14195512134-500x114-Medium.jpg",
+                "path": "72157643708094035/14195512134-500x114-Medium.jpg",
+                "width": "500",
+                "height": "114",
+                "label": "Medium"
+              },
+              {
+                "name": "14195512134-640x146-Medium 640.jpg",
+                "path": "72157643708094035/14195512134-640x146-Medium 640.jpg",
+                "width": "640",
+                "height": "146",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14195512134-800x182-Medium 800.jpg",
+                "path": "72157643708094035/14195512134-800x182-Medium 800.jpg",
+                "width": "800",
+                "height": 182,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14195512134-1024x233-Large.jpg",
+                "path": "72157643708094035/14195512134-1024x233-Large.jpg",
+                "width": "1024",
+                "height": "233",
+                "label": "Large"
+              },
+              {
+                "name": "14195512134-1024x233-Original.jpg",
+                "path": "72157643708094035/14195512134-1024x233-Original.jpg",
+                "width": "1024",
+                "height": "233",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Valle De La Luna - Valley of the Moon",
+            "taken": "2014-04-29 12:10:50",
+            "description": "This is the valley of the moon, just south of La Paz. Erosion can do some pretty interesting things.",
+            "versions": [
+              {
+                "name": "14172437246-75x75-Square.jpg",
+                "path": "72157643708094035/14172437246-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14172437246-150x150-Large Square.jpg",
+                "path": "72157643708094035/14172437246-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14172437246-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/14172437246-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14172437246-240x180-Small.jpg",
+                "path": "72157643708094035/14172437246-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14172437246-320x240-Small 320.jpg",
+                "path": "72157643708094035/14172437246-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14172437246-500x375-Medium.jpg",
+                "path": "72157643708094035/14172437246-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14172437246-640x480-Medium 640.jpg",
+                "path": "72157643708094035/14172437246-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14172437246-800x600-Medium 800.jpg",
+                "path": "72157643708094035/14172437246-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14172437246-1024x768-Large.jpg",
+                "path": "72157643708094035/14172437246-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14172437246-1024x768-Original.jpg",
+                "path": "72157643708094035/14172437246-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Food Tour",
+            "taken": "2014-04-23 20:16:40",
+            "description": "So much meat and french fries. Welcome to Bolivia!",
+            "versions": [
+              {
+                "name": "14195582025-75x75-Square.jpg",
+                "path": "72157643708094035/14195582025-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14195582025-150x150-Large Square.jpg",
+                "path": "72157643708094035/14195582025-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14195582025-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/14195582025-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14195582025-240x180-Small.jpg",
+                "path": "72157643708094035/14195582025-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14195582025-320x240-Small 320.jpg",
+                "path": "72157643708094035/14195582025-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14195582025-500x375-Medium.jpg",
+                "path": "72157643708094035/14195582025-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14195582025-640x480-Medium 640.jpg",
+                "path": "72157643708094035/14195582025-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14195582025-800x600-Medium 800.jpg",
+                "path": "72157643708094035/14195582025-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14195582025-1024x768-Large.jpg",
+                "path": "72157643708094035/14195582025-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14195582025-1024x768-Original.jpg",
+                "path": "72157643708094035/14195582025-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Llama Fetuses",
+            "taken": "2014-04-15 15:12:49",
+            "description": "More dead llamas. Good luck apparently! ",
+            "versions": [
+              {
+                "name": "14008950160-75x75-Square.jpg",
+                "path": "72157643708094035/14008950160-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14008950160-150x150-Large Square.jpg",
+                "path": "72157643708094035/14008950160-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14008950160-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/14008950160-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14008950160-180x240-Small.jpg",
+                "path": "72157643708094035/14008950160-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "14008950160-240x320-Small 320.jpg",
+                "path": "72157643708094035/14008950160-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "14008950160-375x500-Medium.jpg",
+                "path": "72157643708094035/14008950160-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "14008950160-480x640-Medium 640.jpg",
+                "path": "72157643708094035/14008950160-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14008950160-600x800-Medium 800.jpg",
+                "path": "72157643708094035/14008950160-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "14008950160-768x1024-Large.jpg",
+                "path": "72157643708094035/14008950160-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "14008950160-768x1024-Original.jpg",
+                "path": "72157643708094035/14008950160-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cholitas Choking",
+            "taken": "2014-04-13 18:07:47",
+            "description": "Someone has to get choked by their own braids, or it isn't cholita wrestling.",
+            "versions": [
+              {
+                "name": "13856344385-75x75-Square.jpg",
+                "path": "72157643708094035/13856344385-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856344385-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856344385-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856344385-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856344385-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856344385-240x180-Small.jpg",
+                "path": "72157643708094035/13856344385-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856344385-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856344385-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856344385-500x375-Medium.jpg",
+                "path": "72157643708094035/13856344385-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856344385-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856344385-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856344385-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856344385-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856344385-1024x768-Large.jpg",
+                "path": "72157643708094035/13856344385-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856344385-1600x1200-Large 1600.jpg",
+                "path": "72157643708094035/13856344385-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13856344385-2048x1536-Large 2048.jpg",
+                "path": "72157643708094035/13856344385-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13856344385-3264x2448-Original.jpg",
+                "path": "72157643708094035/13856344385-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cholita",
+            "taken": "2014-04-13 17:14:47",
+            "description": "This was my favorite cholita wrestler. I couldn't get enough of this cutle little lady.",
+            "versions": [
+              {
+                "name": "13856733654-75x75-Square.jpg",
+                "path": "72157643708094035/13856733654-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856733654-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856733654-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856733654-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856733654-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856733654-240x180-Small.jpg",
+                "path": "72157643708094035/13856733654-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856733654-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856733654-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856733654-500x375-Medium.jpg",
+                "path": "72157643708094035/13856733654-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856733654-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856733654-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856733654-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856733654-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856733654-1024x768-Large.jpg",
+                "path": "72157643708094035/13856733654-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856733654-1024x768-Original.jpg",
+                "path": "72157643708094035/13856733654-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cholita",
+            "taken": "2014-04-13 17:14:45",
+            "description": "",
+            "versions": [
+              {
+                "name": "13856371255-75x75-Square.jpg",
+                "path": "72157643708094035/13856371255-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856371255-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856371255-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856371255-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856371255-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856371255-240x180-Small.jpg",
+                "path": "72157643708094035/13856371255-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856371255-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856371255-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856371255-500x375-Medium.jpg",
+                "path": "72157643708094035/13856371255-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856371255-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856371255-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856371255-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856371255-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856371255-1024x768-Large.jpg",
+                "path": "72157643708094035/13856371255-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856371255-1024x768-Original.jpg",
+                "path": "72157643708094035/13856371255-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cholita",
+            "taken": "2014-04-13 17:14:42",
+            "description": "",
+            "versions": [
+              {
+                "name": "13856378475-75x75-Square.jpg",
+                "path": "72157643708094035/13856378475-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856378475-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856378475-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856378475-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856378475-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856378475-240x180-Small.jpg",
+                "path": "72157643708094035/13856378475-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856378475-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856378475-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856378475-500x375-Medium.jpg",
+                "path": "72157643708094035/13856378475-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856378475-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856378475-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856378475-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856378475-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856378475-1024x768-Large.jpg",
+                "path": "72157643708094035/13856378475-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856378475-1024x768-Original.jpg",
+                "path": "72157643708094035/13856378475-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Luchador",
+            "taken": "2014-04-13 16:59:52",
+            "description": "Luchador wrester. This guys shape cracked me up.",
+            "versions": [
+              {
+                "name": "13856389675-75x75-Square.jpg",
+                "path": "72157643708094035/13856389675-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856389675-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856389675-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856389675-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856389675-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856389675-240x180-Small.jpg",
+                "path": "72157643708094035/13856389675-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856389675-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856389675-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856389675-500x375-Medium.jpg",
+                "path": "72157643708094035/13856389675-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856389675-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856389675-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856389675-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856389675-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856389675-1024x768-Large.jpg",
+                "path": "72157643708094035/13856389675-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856389675-1024x768-Original.jpg",
+                "path": "72157643708094035/13856389675-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Windy Road",
+            "taken": "2014-04-13 16:41:48",
+            "description": "This road winds quickly down into La Paz.",
+            "versions": [
+              {
+                "name": "13856778094-75x75-Square.jpg",
+                "path": "72157643708094035/13856778094-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856778094-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856778094-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856778094-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/13856778094-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856778094-180x240-Small.jpg",
+                "path": "72157643708094035/13856778094-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "13856778094-240x320-Small 320.jpg",
+                "path": "72157643708094035/13856778094-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "13856778094-375x500-Medium.jpg",
+                "path": "72157643708094035/13856778094-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "13856778094-480x640-Medium 640.jpg",
+                "path": "72157643708094035/13856778094-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856778094-600x800-Medium 800.jpg",
+                "path": "72157643708094035/13856778094-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856778094-768x1024-Large.jpg",
+                "path": "72157643708094035/13856778094-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "13856778094-768x1024-Original.jpg",
+                "path": "72157643708094035/13856778094-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cholita Wrestling Tickets",
+            "taken": "2014-04-13 16:17:05",
+            "description": "",
+            "versions": [
+              {
+                "name": "13856450743-75x75-Square.jpg",
+                "path": "72157643708094035/13856450743-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856450743-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856450743-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856450743-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856450743-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856450743-240x180-Small.jpg",
+                "path": "72157643708094035/13856450743-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856450743-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856450743-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856450743-500x375-Medium.jpg",
+                "path": "72157643708094035/13856450743-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856450743-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856450743-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856450743-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856450743-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856450743-1024x768-Large.jpg",
+                "path": "72157643708094035/13856450743-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856450743-1024x768-Original.jpg",
+                "path": "72157643708094035/13856450743-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "TV Taxi",
+            "taken": "2014-04-12 22:16:25",
+            "description": "This taxi plays music videos in the console. ",
+            "versions": [
+              {
+                "name": "13856460853-75x75-Square.jpg",
+                "path": "72157643708094035/13856460853-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856460853-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856460853-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856460853-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/13856460853-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856460853-180x240-Small.jpg",
+                "path": "72157643708094035/13856460853-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "13856460853-240x320-Small 320.jpg",
+                "path": "72157643708094035/13856460853-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "13856460853-375x500-Medium.jpg",
+                "path": "72157643708094035/13856460853-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "13856460853-480x640-Medium 640.jpg",
+                "path": "72157643708094035/13856460853-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856460853-600x800-Medium 800.jpg",
+                "path": "72157643708094035/13856460853-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856460853-768x1024-Large.jpg",
+                "path": "72157643708094035/13856460853-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "13856460853-768x1024-Original.jpg",
+                "path": "72157643708094035/13856460853-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Tunnel",
+            "taken": "2014-04-12 02:04:28",
+            "description": "Tunnel on the way home one night.",
+            "versions": [
+              {
+                "name": "13856471663-75x75-Square.jpg",
+                "path": "72157643708094035/13856471663-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856471663-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856471663-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856471663-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/13856471663-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856471663-180x240-Small.jpg",
+                "path": "72157643708094035/13856471663-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "13856471663-240x320-Small 320.jpg",
+                "path": "72157643708094035/13856471663-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "13856471663-375x500-Medium.jpg",
+                "path": "72157643708094035/13856471663-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "13856471663-480x640-Medium 640.jpg",
+                "path": "72157643708094035/13856471663-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856471663-600x800-Medium 800.jpg",
+                "path": "72157643708094035/13856471663-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856471663-768x1024-Large.jpg",
+                "path": "72157643708094035/13856471663-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "13856471663-768x1024-Original.jpg",
+                "path": "72157643708094035/13856471663-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Loud Music Warning",
+            "taken": "2014-04-12 00:38:14",
+            "description": "These signs are required by law, basically telling you how long you can be in a bar with loud music without damaging your hearing. I found it sort of funny considering everyone still smokes in bars here.",
+            "versions": [
+              {
+                "name": "13856440735-75x75-Square.jpg",
+                "path": "72157643708094035/13856440735-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856440735-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856440735-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856440735-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13856440735-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856440735-240x180-Small.jpg",
+                "path": "72157643708094035/13856440735-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13856440735-320x240-Small 320.jpg",
+                "path": "72157643708094035/13856440735-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13856440735-500x375-Medium.jpg",
+                "path": "72157643708094035/13856440735-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13856440735-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13856440735-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856440735-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13856440735-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856440735-1024x768-Large.jpg",
+                "path": "72157643708094035/13856440735-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13856440735-1024x768-Original.jpg",
+                "path": "72157643708094035/13856440735-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Shoeshine Painter",
+            "taken": "2014-04-11 19:56:06",
+            "description": "Almost all of the shoeshine boys here wear ski masks, apparently it has something to do with being ashamed of their job, but it looks sort of creepy. Rather than a picture of the person, here's a picture of a mural of a person.",
+            "versions": [
+              {
+                "name": "13856827964-75x75-Square.jpg",
+                "path": "72157643708094035/13856827964-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856827964-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856827964-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856827964-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/13856827964-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856827964-180x240-Small.jpg",
+                "path": "72157643708094035/13856827964-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "13856827964-240x320-Small 320.jpg",
+                "path": "72157643708094035/13856827964-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "13856827964-375x500-Medium.jpg",
+                "path": "72157643708094035/13856827964-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "13856827964-480x640-Medium 640.jpg",
+                "path": "72157643708094035/13856827964-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856827964-600x800-Medium 800.jpg",
+                "path": "72157643708094035/13856827964-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856827964-768x1024-Large.jpg",
+                "path": "72157643708094035/13856827964-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "13856827964-768x1024-Original.jpg",
+                "path": "72157643708094035/13856827964-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Llama Fetuses",
+            "taken": "2014-04-11 12:15:13",
+            "description": "These llama fetuses are supposedly for good luck.",
+            "versions": [
+              {
+                "name": "13856500913-75x75-Square.jpg",
+                "path": "72157643708094035/13856500913-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13856500913-150x150-Large Square.jpg",
+                "path": "72157643708094035/13856500913-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13856500913-75x100-Thumbnail.jpg",
+                "path": "72157643708094035/13856500913-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13856500913-180x240-Small.jpg",
+                "path": "72157643708094035/13856500913-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "13856500913-240x320-Small 320.jpg",
+                "path": "72157643708094035/13856500913-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "13856500913-375x500-Medium.jpg",
+                "path": "72157643708094035/13856500913-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "13856500913-480x640-Medium 640.jpg",
+                "path": "72157643708094035/13856500913-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13856500913-600x800-Medium 800.jpg",
+                "path": "72157643708094035/13856500913-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "13856500913-768x1024-Large.jpg",
+                "path": "72157643708094035/13856500913-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "13856500913-768x1024-Original.jpg",
+                "path": "72157643708094035/13856500913-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "La Paz from Above",
+            "taken": "2014-04-08 18:31:26",
+            "description": "My first glimpse of La Paz. The number of little boxes was boggling to the eye.",
+            "versions": [
+              {
+                "name": "13742147394-75x75-Square.jpg",
+                "path": "72157643708094035/13742147394-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13742147394-150x150-Large Square.jpg",
+                "path": "72157643708094035/13742147394-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13742147394-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13742147394-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13742147394-240x180-Small.jpg",
+                "path": "72157643708094035/13742147394-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13742147394-320x240-Small 320.jpg",
+                "path": "72157643708094035/13742147394-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13742147394-500x375-Medium.jpg",
+                "path": "72157643708094035/13742147394-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13742147394-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13742147394-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13742147394-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13742147394-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13742147394-1024x768-Large.jpg",
+                "path": "72157643708094035/13742147394-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13742147394-1600x1200-Large 1600.jpg",
+                "path": "72157643708094035/13742147394-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13742147394-2048x1536-Large 2048.jpg",
+                "path": "72157643708094035/13742147394-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13742147394-3264x2448-Original.jpg",
+                "path": "72157643708094035/13742147394-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "La Paz from Above Panorama",
+            "taken": "2014-04-08 18:31:19",
+            "description": "This gets a few more in there.",
+            "versions": [
+              {
+                "name": "13741789163-75x75-Square.jpg",
+                "path": "72157643708094035/13741789163-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13741789163-150x150-Large Square.jpg",
+                "path": "72157643708094035/13741789163-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13741789163-100x22-Thumbnail.jpg",
+                "path": "72157643708094035/13741789163-100x22-Thumbnail.jpg",
+                "width": "100",
+                "height": "22",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13741789163-240x53-Small.jpg",
+                "path": "72157643708094035/13741789163-240x53-Small.jpg",
+                "width": "240",
+                "height": "53",
+                "label": "Small"
+              },
+              {
+                "name": "13741789163-320x70-Small 320.jpg",
+                "path": "72157643708094035/13741789163-320x70-Small 320.jpg",
+                "width": "320",
+                "height": 70,
+                "label": "Small 320"
+              },
+              {
+                "name": "13741789163-500x110-Medium.jpg",
+                "path": "72157643708094035/13741789163-500x110-Medium.jpg",
+                "width": "500",
+                "height": "110",
+                "label": "Medium"
+              },
+              {
+                "name": "13741789163-640x141-Medium 640.jpg",
+                "path": "72157643708094035/13741789163-640x141-Medium 640.jpg",
+                "width": "640",
+                "height": "141",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13741789163-800x176-Medium 800.jpg",
+                "path": "72157643708094035/13741789163-800x176-Medium 800.jpg",
+                "width": "800",
+                "height": 176,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13741789163-1024x225-Large.jpg",
+                "path": "72157643708094035/13741789163-1024x225-Large.jpg",
+                "width": "1024",
+                "height": "225",
+                "label": "Large"
+              },
+              {
+                "name": "13741789163-1600x351-Large 1600.jpg",
+                "path": "72157643708094035/13741789163-1600x351-Large 1600.jpg",
+                "width": "1600",
+                "height": 351,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13741789163-2048x450-Large 2048.jpg",
+                "path": "72157643708094035/13741789163-2048x450-Large 2048.jpg",
+                "width": "2048",
+                "height": 450,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13741789163-10752x2362-Original.jpg",
+                "path": "72157643708094035/13741789163-10752x2362-Original.jpg",
+                "width": "10752",
+                "height": "2362",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "The Barge",
+            "taken": "2014-04-08 16:31:40",
+            "description": "Had to take a barge across Lake Titicaca. This was moments before the lighting and hail started. 20 Bolivianos for the ride across (a little under $3).",
+            "versions": [
+              {
+                "name": "13741753925-75x75-Square.jpg",
+                "path": "72157643708094035/13741753925-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13741753925-150x150-Large Square.jpg",
+                "path": "72157643708094035/13741753925-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13741753925-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13741753925-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13741753925-240x180-Small.jpg",
+                "path": "72157643708094035/13741753925-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13741753925-320x240-Small 320.jpg",
+                "path": "72157643708094035/13741753925-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13741753925-500x375-Medium.jpg",
+                "path": "72157643708094035/13741753925-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13741753925-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13741753925-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13741753925-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13741753925-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13741753925-1024x768-Large.jpg",
+                "path": "72157643708094035/13741753925-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13741753925-1600x1200-Large 1600.jpg",
+                "path": "72157643708094035/13741753925-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13741753925-2048x1536-Large 2048.jpg",
+                "path": "72157643708094035/13741753925-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13741753925-3264x2448-Original.jpg",
+                "path": "72157643708094035/13741753925-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Curve",
+            "taken": "2014-04-08 15:57:41",
+            "description": "The road curves along Titicaca.",
+            "versions": [
+              {
+                "name": "13742172134-75x75-Square.jpg",
+                "path": "72157643708094035/13742172134-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13742172134-150x150-Large Square.jpg",
+                "path": "72157643708094035/13742172134-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13742172134-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13742172134-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13742172134-240x180-Small.jpg",
+                "path": "72157643708094035/13742172134-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13742172134-320x240-Small 320.jpg",
+                "path": "72157643708094035/13742172134-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13742172134-500x375-Medium.jpg",
+                "path": "72157643708094035/13742172134-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13742172134-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13742172134-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13742172134-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13742172134-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13742172134-1024x768-Large.jpg",
+                "path": "72157643708094035/13742172134-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13742172134-1600x1200-Large 1600.jpg",
+                "path": "72157643708094035/13742172134-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13742172134-2048x1536-Large 2048.jpg",
+                "path": "72157643708094035/13742172134-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13742172134-3264x2448-Original.jpg",
+                "path": "72157643708094035/13742172134-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Copacabana",
+            "taken": "2014-04-08 15:57:35",
+            "description": "I rode around Copacabana and decided to stick to the road to La Paz.",
+            "versions": [
+              {
+                "name": "13741821193-75x75-Square.jpg",
+                "path": "72157643708094035/13741821193-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13741821193-150x150-Large Square.jpg",
+                "path": "72157643708094035/13741821193-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13741821193-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13741821193-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13741821193-240x180-Small.jpg",
+                "path": "72157643708094035/13741821193-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13741821193-320x240-Small 320.jpg",
+                "path": "72157643708094035/13741821193-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13741821193-500x375-Medium.jpg",
+                "path": "72157643708094035/13741821193-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13741821193-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13741821193-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13741821193-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13741821193-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13741821193-1024x768-Large.jpg",
+                "path": "72157643708094035/13741821193-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13741821193-1024x768-Original.jpg",
+                "path": "72157643708094035/13741821193-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Silviu Florea",
+            "taken": "2014-04-08 11:57:36",
+            "description": "Was riding in the opposite direction of Silviu, when he stopped me to give me a gas can (to save some cash in Bolivia, because locals can buy gas for about a third of the price.). Since he was heading to Peru, and I to Bolivia we swapped SIM cards, and some stories on the side of the road. He also gave me his map of Bolivia. It was really great running into someone on the road at such a perfect time.\n",
+            "versions": [
+              {
+                "name": "13741793055-75x75-Square.jpg",
+                "path": "72157643708094035/13741793055-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13741793055-150x150-Large Square.jpg",
+                "path": "72157643708094035/13741793055-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13741793055-100x75-Thumbnail.jpg",
+                "path": "72157643708094035/13741793055-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13741793055-240x180-Small.jpg",
+                "path": "72157643708094035/13741793055-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13741793055-320x240-Small 320.jpg",
+                "path": "72157643708094035/13741793055-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13741793055-500x375-Medium.jpg",
+                "path": "72157643708094035/13741793055-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13741793055-640x480-Medium 640.jpg",
+                "path": "72157643708094035/13741793055-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13741793055-800x600-Medium 800.jpg",
+                "path": "72157643708094035/13741793055-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13741793055-1024x768-Large.jpg",
+                "path": "72157643708094035/13741793055-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13741793055-1024x768-Original.jpg",
+                "path": "72157643708094035/13741793055-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Bolivia, La Paz"
+      }
+    }
+  }
+}

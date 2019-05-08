@@ -1,0 +1,83 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20140607_chile_la_serena",
+    "attributes": {
+      "latitude": -29.906301,
+      "longitude": -71.250204,
+      "date": "20140607",
+      "city": "La Serena",
+      "country": "Chile",
+      "flickr-link": "72157644684191029",
+      "body": "<p>This was a one-nighter, just because I really wanted to keep moving quickly after the valve debacle. I found <a href=\"http://www.hostalelarbol.com/\">a nice hostel</a> to hang out at. Ate dinner, had a nap. Just when I thought nothing excitng was going to happen, which was perfect for a tired man, Jorge came and picked me up.</p>\n<p>Jorge is a guy I met on the internet, because he had been considering buying my motorcycle. Anyway, Jorge showed me a great time. I went to meet his family, and then went out to a birthday thing of one of his friends. I ended up out later than I wanted to be, but I didn&#39;t regret it.  </p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Helmet Head",
+            "taken": "2014-06-08 12:58:09",
+            "description": "At a stop light on the way out of town.",
+            "versions": [
+              {
+                "name": "14384647212-75x75-Square.jpg",
+                "path": "72157644684191029/14384647212-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14384647212-150x150-Large Square.jpg",
+                "path": "72157644684191029/14384647212-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14384647212-75x100-Thumbnail.jpg",
+                "path": "72157644684191029/14384647212-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14384647212-180x240-Small.jpg",
+                "path": "72157644684191029/14384647212-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "14384647212-240x320-Small 320.jpg",
+                "path": "72157644684191029/14384647212-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "14384647212-375x500-Medium.jpg",
+                "path": "72157644684191029/14384647212-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "14384647212-480x640-Medium 640.jpg",
+                "path": "72157644684191029/14384647212-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14384647212-480x640-Original.jpg",
+                "path": "72157644684191029/14384647212-480x640-Original.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Chile, La Serena"
+      }
+    }
+  }
+}

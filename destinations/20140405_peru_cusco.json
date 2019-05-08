@@ -1,0 +1,293 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20140405_peru_cusco",
+    "attributes": {
+      "latitude": -13.53195,
+      "longitude": -71.96746259999999,
+      "date": "20140405",
+      "city": "Cusco",
+      "country": "Peru",
+      "flickr-link": "72157643545962163",
+      "body": "<p>I decided not to go to Machu Picchu. I know that sounds like a strange decision, but, I&#39;m sick of ruins, and that made paying a couple hundred dollars to see some out of the question. If you&#39;re going to Cusco, and you&#39;re not going to Machu Picchu, and you&#39;re not going on long treks, I don&#39;t know that there&#39;s much left for you.</p>\n<p>I was somewhat turned off by the megahostel scene, just trying to churn as many tourists through as possible. I was exhausted still from riding for two days when I woke up, but after a cup of coffee decided it was already time to get a move on, and so I did. </p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Church",
+            "taken": "2014-04-06 06:50:53",
+            "description": "On a morning walk.",
+            "versions": [
+              {
+                "name": "13678032474-75x75-Square.jpg",
+                "path": "72157643545962163/13678032474-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13678032474-150x150-Large Square.jpg",
+                "path": "72157643545962163/13678032474-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13678032474-100x75-Thumbnail.jpg",
+                "path": "72157643545962163/13678032474-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13678032474-240x180-Small.jpg",
+                "path": "72157643545962163/13678032474-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13678032474-320x240-Small 320.jpg",
+                "path": "72157643545962163/13678032474-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13678032474-500x375-Medium.jpg",
+                "path": "72157643545962163/13678032474-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13678032474-640x480-Medium 640.jpg",
+                "path": "72157643545962163/13678032474-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13678032474-800x600-Medium 800.jpg",
+                "path": "72157643545962163/13678032474-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13678032474-1024x768-Large.jpg",
+                "path": "72157643545962163/13678032474-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13678032474-1600x1200-Large 1600.jpg",
+                "path": "72157643545962163/13678032474-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13678032474-2048x1536-Large 2048.jpg",
+                "path": "72157643545962163/13678032474-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13678032474-3264x2448-Original.jpg",
+                "path": "72157643545962163/13678032474-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Guinea Pig",
+            "taken": "2014-04-05 13:57:59",
+            "description": "Gunea Pig: Not the worst thing I've ever eaten. Also, no the easiest thing to eat.",
+            "versions": [
+              {
+                "name": "13678059504-75x75-Square.jpg",
+                "path": "72157643545962163/13678059504-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13678059504-150x150-Large Square.jpg",
+                "path": "72157643545962163/13678059504-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13678059504-100x75-Thumbnail.jpg",
+                "path": "72157643545962163/13678059504-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13678059504-240x180-Small.jpg",
+                "path": "72157643545962163/13678059504-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13678059504-320x240-Small 320.jpg",
+                "path": "72157643545962163/13678059504-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13678059504-500x375-Medium.jpg",
+                "path": "72157643545962163/13678059504-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13678059504-640x480-Medium 640.jpg",
+                "path": "72157643545962163/13678059504-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13678059504-800x600-Medium 800.jpg",
+                "path": "72157643545962163/13678059504-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13678059504-1024x768-Large.jpg",
+                "path": "72157643545962163/13678059504-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13678059504-1600x1200-Large 1600.jpg",
+                "path": "72157643545962163/13678059504-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13678059504-2048x1536-Large 2048.jpg",
+                "path": "72157643545962163/13678059504-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13678059504-3264x2448-Original.jpg",
+                "path": "72157643545962163/13678059504-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cuy",
+            "taken": "2014-04-05 13:57:55",
+            "description": "Also known as 'Cuy', which people mistake with my name. It was stuffed with herbs, and some of its own entrails... Lots of garlic an butter.",
+            "versions": [
+              {
+                "name": "13677786423-75x75-Square.jpg",
+                "path": "72157643545962163/13677786423-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13677786423-150x150-Large Square.jpg",
+                "path": "72157643545962163/13677786423-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13677786423-100x75-Thumbnail.jpg",
+                "path": "72157643545962163/13677786423-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13677786423-240x180-Small.jpg",
+                "path": "72157643545962163/13677786423-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13677786423-320x240-Small 320.jpg",
+                "path": "72157643545962163/13677786423-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13677786423-500x375-Medium.jpg",
+                "path": "72157643545962163/13677786423-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13677786423-640x480-Medium 640.jpg",
+                "path": "72157643545962163/13677786423-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13677786423-800x600-Medium 800.jpg",
+                "path": "72157643545962163/13677786423-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13677786423-1024x768-Large.jpg",
+                "path": "72157643545962163/13677786423-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13677786423-1600x1200-Large 1600.jpg",
+                "path": "72157643545962163/13677786423-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "13677786423-2048x1536-Large 2048.jpg",
+                "path": "72157643545962163/13677786423-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "13677786423-3264x2448-Original.jpg",
+                "path": "72157643545962163/13677786423-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Peru, Cusco"
+      }
+    }
+  }
+}

@@ -1,0 +1,2085 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20131129_colombia_bucaramanga",
+    "attributes": {
+      "latitude": 7.113309999999999,
+      "longitude": -73.120468,
+      "date": "20131129",
+      "city": "Bucaramanga",
+      "country": "Colombia",
+      "flickr-link": "72157638394358634",
+      "body": "<h2 id=\"a-city-and-a-place-away\">A City, and a Place Away</h2>\n<h3 id=\"a-familiar-face-\">A familiar face...</h3>\n<p>I met a great guy by the name of Edgar while in Costa Rica. He told me to stop in when I arrived in Colombia, and he really meant it. Immediately he suggested I should stay for New Years (over a month away).</p>\n<h3 id=\"flying\">Flying</h3>\n<p>Edgar has a few buddies that are into Paragliding. I managed to get up in a paraglider for a few minutes with a buddy of his... And am now contemplating taking some lessons.</p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Tamales",
+            "taken": "2013-12-15 09:36:09",
+            "description": "These are some of the best tamales of my life. They're wrapped up so thickly with plantain leaves that they're solid cups when cut in half. Inside is chicken, there are even some bones, which I suspect, during the long cooking process, adds a lot to the gelatinous texture. ",
+            "versions": [
+              {
+                "name": "11396033083-75x75-Square.jpg",
+                "path": "72157638394358634/11396033083-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11396033083-150x150-Large Square.jpg",
+                "path": "72157638394358634/11396033083-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11396033083-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11396033083-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11396033083-240x180-Small.jpg",
+                "path": "72157638394358634/11396033083-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11396033083-320x240-Small 320.jpg",
+                "path": "72157638394358634/11396033083-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11396033083-500x375-Medium.jpg",
+                "path": "72157638394358634/11396033083-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11396033083-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11396033083-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11396033083-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11396033083-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11396033083-1024x768-Large.jpg",
+                "path": "72157638394358634/11396033083-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11396033083-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11396033083-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11396033083-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11396033083-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11396033083-3264x2448-Original.jpg",
+                "path": "72157638394358634/11396033083-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Colombian Police Motorcycle",
+            "taken": "2013-12-09 20:17:01",
+            "description": "For some reason you often see police riding two up. It's sensible for transit, but not for pursuit.",
+            "versions": [
+              {
+                "name": "11395915006-75x75-Square.jpg",
+                "path": "72157638394358634/11395915006-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11395915006-150x150-Large Square.jpg",
+                "path": "72157638394358634/11395915006-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11395915006-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11395915006-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11395915006-240x180-Small.jpg",
+                "path": "72157638394358634/11395915006-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11395915006-320x240-Small 320.jpg",
+                "path": "72157638394358634/11395915006-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11395915006-500x375-Medium.jpg",
+                "path": "72157638394358634/11395915006-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11395915006-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11395915006-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11395915006-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11395915006-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11395915006-1024x768-Large.jpg",
+                "path": "72157638394358634/11395915006-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11395915006-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11395915006-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11395915006-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11395915006-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11395915006-3264x2448-Original.jpg",
+                "path": "72157638394358634/11395915006-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Perros Calientes",
+            "taken": "2013-12-04 19:31:36",
+            "description": "Death machine of a hot dog.",
+            "versions": [
+              {
+                "name": "11243269784-75x75-Square.jpg",
+                "path": "72157638394358634/11243269784-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243269784-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243269784-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243269784-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11243269784-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243269784-180x240-Small.jpg",
+                "path": "72157638394358634/11243269784-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11243269784-240x320-Small 320.jpg",
+                "path": "72157638394358634/11243269784-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11243269784-375x500-Medium.jpg",
+                "path": "72157638394358634/11243269784-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11243269784-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11243269784-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243269784-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11243269784-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243269784-768x1024-Large.jpg",
+                "path": "72157638394358634/11243269784-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11243269784-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11243269784-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243269784-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11243269784-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243269784-2448x3264-Original.jpg",
+                "path": "72157638394358634/11243269784-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Perros Calientes",
+            "taken": "2013-12-04 19:28:23",
+            "description": "It comes with a hot dog, shredded chicken, carnitas, a thick layer of fried cheese, tiny ham squares, and it's topped off with a boiled cornish hen egg on a toothpick. Incredible.",
+            "versions": [
+              {
+                "name": "11243343673-75x75-Square.jpg",
+                "path": "72157638394358634/11243343673-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243343673-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243343673-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243343673-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11243343673-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243343673-180x240-Small.jpg",
+                "path": "72157638394358634/11243343673-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11243343673-240x320-Small 320.jpg",
+                "path": "72157638394358634/11243343673-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11243343673-375x500-Medium.jpg",
+                "path": "72157638394358634/11243343673-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11243343673-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11243343673-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243343673-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11243343673-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243343673-768x1024-Large.jpg",
+                "path": "72157638394358634/11243343673-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11243343673-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11243343673-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243343673-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11243343673-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243343673-2448x3264-Original.jpg",
+                "path": "72157638394358634/11243343673-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Perros Calientes",
+            "taken": "2013-12-04 19:27:47",
+            "description": "I think he's actually beginning to have a heart attack in this photo. ",
+            "versions": [
+              {
+                "name": "11243274594-75x75-Square.jpg",
+                "path": "72157638394358634/11243274594-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243274594-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243274594-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243274594-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11243274594-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243274594-240x180-Small.jpg",
+                "path": "72157638394358634/11243274594-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11243274594-320x240-Small 320.jpg",
+                "path": "72157638394358634/11243274594-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11243274594-500x375-Medium.jpg",
+                "path": "72157638394358634/11243274594-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11243274594-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11243274594-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243274594-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11243274594-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243274594-1024x768-Large.jpg",
+                "path": "72157638394358634/11243274594-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11243274594-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11243274594-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243274594-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11243274594-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243274594-3264x2448-Original.jpg",
+                "path": "72157638394358634/11243274594-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Candelita",
+            "taken": "2013-12-04 08:24:13",
+            "description": "What a cutie pie.",
+            "versions": [
+              {
+                "name": "11243277654-75x75-Square.jpg",
+                "path": "72157638394358634/11243277654-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243277654-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243277654-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243277654-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11243277654-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243277654-240x180-Small.jpg",
+                "path": "72157638394358634/11243277654-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11243277654-320x240-Small 320.jpg",
+                "path": "72157638394358634/11243277654-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11243277654-500x375-Medium.jpg",
+                "path": "72157638394358634/11243277654-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11243277654-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11243277654-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243277654-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11243277654-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243277654-1024x768-Large.jpg",
+                "path": "72157638394358634/11243277654-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11243277654-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11243277654-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243277654-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11243277654-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243277654-3264x2448-Original.jpg",
+                "path": "72157638394358634/11243277654-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Coca Tea",
+            "taken": "2013-12-02 21:28:28",
+            "description": "Tried it, can't say it beats a cup of coffee though. ",
+            "versions": [
+              {
+                "name": "11243279814-75x75-Square.jpg",
+                "path": "72157638394358634/11243279814-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243279814-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243279814-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243279814-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11243279814-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243279814-180x240-Small.jpg",
+                "path": "72157638394358634/11243279814-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11243279814-240x320-Small 320.jpg",
+                "path": "72157638394358634/11243279814-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11243279814-375x500-Medium.jpg",
+                "path": "72157638394358634/11243279814-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11243279814-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11243279814-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243279814-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11243279814-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243279814-768x1024-Large.jpg",
+                "path": "72157638394358634/11243279814-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11243279814-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11243279814-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243279814-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11243279814-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243279814-2448x3264-Original.jpg",
+                "path": "72157638394358634/11243279814-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Arepas Chocos",
+            "taken": "2013-12-01 17:01:09",
+            "description": "Sweet corn, with a cheesy center. Simply incredible. ",
+            "versions": [
+              {
+                "name": "11230383153-75x75-Square.jpg",
+                "path": "72157638394358634/11230383153-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11230383153-150x150-Large Square.jpg",
+                "path": "72157638394358634/11230383153-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11230383153-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11230383153-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11230383153-240x180-Small.jpg",
+                "path": "72157638394358634/11230383153-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11230383153-320x240-Small 320.jpg",
+                "path": "72157638394358634/11230383153-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11230383153-500x375-Medium.jpg",
+                "path": "72157638394358634/11230383153-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11230383153-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11230383153-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11230383153-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11230383153-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11230383153-1024x768-Large.jpg",
+                "path": "72157638394358634/11230383153-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11230383153-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11230383153-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11230383153-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11230383153-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11230383153-3264x2448-Original.jpg",
+                "path": "72157638394358634/11230383153-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Martini",
+            "taken": "2013-12-01 13:14:53",
+            "description": "This is Martini, an you can see Chispita in the background.",
+            "versions": [
+              {
+                "name": "11243284736-75x75-Square.jpg",
+                "path": "72157638394358634/11243284736-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243284736-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243284736-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243284736-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11243284736-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243284736-240x180-Small.jpg",
+                "path": "72157638394358634/11243284736-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11243284736-320x240-Small 320.jpg",
+                "path": "72157638394358634/11243284736-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11243284736-500x375-Medium.jpg",
+                "path": "72157638394358634/11243284736-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11243284736-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11243284736-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243284736-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11243284736-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243284736-1024x768-Large.jpg",
+                "path": "72157638394358634/11243284736-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11243284736-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11243284736-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243284736-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11243284736-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243284736-3264x2448-Original.jpg",
+                "path": "72157638394358634/11243284736-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Edgar",
+            "taken": "2013-12-01 13:14:04",
+            "description": "Making Pizza",
+            "versions": [
+              {
+                "name": "11243243055-75x75-Square.jpg",
+                "path": "72157638394358634/11243243055-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243243055-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243243055-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243243055-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11243243055-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243243055-180x240-Small.jpg",
+                "path": "72157638394358634/11243243055-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11243243055-240x320-Small 320.jpg",
+                "path": "72157638394358634/11243243055-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11243243055-375x500-Medium.jpg",
+                "path": "72157638394358634/11243243055-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11243243055-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11243243055-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243243055-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11243243055-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243243055-768x1024-Large.jpg",
+                "path": "72157638394358634/11243243055-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11243243055-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11243243055-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243243055-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11243243055-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243243055-2448x3264-Original.jpg",
+                "path": "72157638394358634/11243243055-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Edgar",
+            "taken": "2013-12-01 13:13:44",
+            "description": "It was a good lunch.",
+            "versions": [
+              {
+                "name": "11243288104-75x75-Square.jpg",
+                "path": "72157638394358634/11243288104-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243288104-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243288104-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243288104-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11243288104-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243288104-180x240-Small.jpg",
+                "path": "72157638394358634/11243288104-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11243288104-240x320-Small 320.jpg",
+                "path": "72157638394358634/11243288104-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11243288104-375x500-Medium.jpg",
+                "path": "72157638394358634/11243288104-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11243288104-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11243288104-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243288104-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11243288104-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243288104-768x1024-Large.jpg",
+                "path": "72157638394358634/11243288104-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11243288104-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11243288104-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243288104-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11243288104-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243288104-2448x3264-Original.jpg",
+                "path": "72157638394358634/11243288104-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "The Slope",
+            "taken": "2013-11-30 17:04:18",
+            "description": "Where you take off from.",
+            "versions": [
+              {
+                "name": "11243290634-75x75-Square.jpg",
+                "path": "72157638394358634/11243290634-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243290634-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243290634-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243290634-100x27-Thumbnail.jpg",
+                "path": "72157638394358634/11243290634-100x27-Thumbnail.jpg",
+                "width": "100",
+                "height": "27",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243290634-240x65-Small.jpg",
+                "path": "72157638394358634/11243290634-240x65-Small.jpg",
+                "width": "240",
+                "height": "65",
+                "label": "Small"
+              },
+              {
+                "name": "11243290634-320x87-Small 320.jpg",
+                "path": "72157638394358634/11243290634-320x87-Small 320.jpg",
+                "width": "320",
+                "height": 87,
+                "label": "Small 320"
+              },
+              {
+                "name": "11243290634-500x136-Medium.jpg",
+                "path": "72157638394358634/11243290634-500x136-Medium.jpg",
+                "width": "500",
+                "height": "136",
+                "label": "Medium"
+              },
+              {
+                "name": "11243290634-640x174-Medium 640.jpg",
+                "path": "72157638394358634/11243290634-640x174-Medium 640.jpg",
+                "width": "640",
+                "height": "174",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243290634-800x218-Medium 800.jpg",
+                "path": "72157638394358634/11243290634-800x218-Medium 800.jpg",
+                "width": "800",
+                "height": 218,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11243290634-1024x279-Large.jpg",
+                "path": "72157638394358634/11243290634-1024x279-Large.jpg",
+                "width": "1024",
+                "height": "279",
+                "label": "Large"
+              },
+              {
+                "name": "11243290634-1600x436-Large 1600.jpg",
+                "path": "72157638394358634/11243290634-1600x436-Large 1600.jpg",
+                "width": "1600",
+                "height": 436,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11243290634-2048x559-Large 2048.jpg",
+                "path": "72157638394358634/11243290634-2048x559-Large 2048.jpg",
+                "width": "2048",
+                "height": 559,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11243290634-8608x2348-Original.jpg",
+                "path": "72157638394358634/11243290634-8608x2348-Original.jpg",
+                "width": "8608",
+                "height": "2348",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Flying Selfie",
+            "taken": "2013-11-30 16:45:39",
+            "description": "",
+            "versions": [
+              {
+                "name": "11243292914-75x75-Square.jpg",
+                "path": "72157638394358634/11243292914-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11243292914-150x150-Large Square.jpg",
+                "path": "72157638394358634/11243292914-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11243292914-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11243292914-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11243292914-180x240-Small.jpg",
+                "path": "72157638394358634/11243292914-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11243292914-240x320-Small 320.jpg",
+                "path": "72157638394358634/11243292914-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11243292914-375x500-Medium.jpg",
+                "path": "72157638394358634/11243292914-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11243292914-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11243292914-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11243292914-480x640-Original.jpg",
+                "path": "72157638394358634/11243292914-480x640-Original.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Flying Feet",
+            "taken": "2013-11-30 16:44:21",
+            "description": "Got to go paragliding for the first time. It was amazingly casual, and really felt like flying.",
+            "versions": [
+              {
+                "name": "11229016434-75x75-Square.jpg",
+                "path": "72157638394358634/11229016434-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11229016434-150x150-Large Square.jpg",
+                "path": "72157638394358634/11229016434-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11229016434-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11229016434-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11229016434-240x180-Small.jpg",
+                "path": "72157638394358634/11229016434-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11229016434-320x240-Small 320.jpg",
+                "path": "72157638394358634/11229016434-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11229016434-500x375-Medium.jpg",
+                "path": "72157638394358634/11229016434-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11229016434-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11229016434-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11229016434-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11229016434-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11229016434-1024x768-Large.jpg",
+                "path": "72157638394358634/11229016434-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11229016434-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11229016434-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11229016434-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11229016434-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11229016434-3264x2448-Original.jpg",
+                "path": "72157638394358634/11229016434-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Circus",
+            "taken": "2013-11-30 15:41:15",
+            "description": "The circus is in town.",
+            "versions": [
+              {
+                "name": "11229119353-75x75-Square.jpg",
+                "path": "72157638394358634/11229119353-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11229119353-150x150-Large Square.jpg",
+                "path": "72157638394358634/11229119353-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11229119353-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11229119353-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11229119353-240x180-Small.jpg",
+                "path": "72157638394358634/11229119353-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11229119353-320x240-Small 320.jpg",
+                "path": "72157638394358634/11229119353-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11229119353-500x375-Medium.jpg",
+                "path": "72157638394358634/11229119353-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11229119353-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11229119353-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11229119353-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11229119353-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11229119353-1024x768-Large.jpg",
+                "path": "72157638394358634/11229119353-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11229119353-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11229119353-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11229119353-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11229119353-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11229119353-3264x2448-Original.jpg",
+                "path": "72157638394358634/11229119353-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Christmas Deorations",
+            "taken": "2013-11-30 13:35:00",
+            "description": "This is at Edgar's mother's house, and reminds me a lot of the sort of decorations my grandmother used to set up.",
+            "versions": [
+              {
+                "name": "11229035896-75x75-Square.jpg",
+                "path": "72157638394358634/11229035896-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11229035896-150x150-Large Square.jpg",
+                "path": "72157638394358634/11229035896-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11229035896-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11229035896-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11229035896-180x240-Small.jpg",
+                "path": "72157638394358634/11229035896-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11229035896-240x320-Small 320.jpg",
+                "path": "72157638394358634/11229035896-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11229035896-375x500-Medium.jpg",
+                "path": "72157638394358634/11229035896-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11229035896-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11229035896-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11229035896-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11229035896-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11229035896-768x1024-Large.jpg",
+                "path": "72157638394358634/11229035896-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11229035896-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11229035896-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11229035896-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11229035896-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11229035896-2448x3264-Original.jpg",
+                "path": "72157638394358634/11229035896-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Edgar's House",
+            "taken": "2013-11-30 09:11:08",
+            "description": "Edgar has 8 dogs! Here he is showing me some of his fruit trees, only some of the dogs following us.",
+            "versions": [
+              {
+                "name": "11229037346-75x75-Square.jpg",
+                "path": "72157638394358634/11229037346-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11229037346-150x150-Large Square.jpg",
+                "path": "72157638394358634/11229037346-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11229037346-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11229037346-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11229037346-180x240-Small.jpg",
+                "path": "72157638394358634/11229037346-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11229037346-240x320-Small 320.jpg",
+                "path": "72157638394358634/11229037346-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11229037346-375x500-Medium.jpg",
+                "path": "72157638394358634/11229037346-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11229037346-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11229037346-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11229037346-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11229037346-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11229037346-768x1024-Large.jpg",
+                "path": "72157638394358634/11229037346-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11229037346-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11229037346-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11229037346-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11229037346-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11229037346-2448x3264-Original.jpg",
+                "path": "72157638394358634/11229037346-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Downtown Bucaramanga",
+            "taken": "2013-11-29 12:01:09",
+            "description": "Here's the city from Edgar's office on the 7th floor.",
+            "versions": [
+              {
+                "name": "11229038386-75x75-Square.jpg",
+                "path": "72157638394358634/11229038386-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11229038386-150x150-Large Square.jpg",
+                "path": "72157638394358634/11229038386-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11229038386-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11229038386-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11229038386-240x180-Small.jpg",
+                "path": "72157638394358634/11229038386-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11229038386-320x240-Small 320.jpg",
+                "path": "72157638394358634/11229038386-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11229038386-500x375-Medium.jpg",
+                "path": "72157638394358634/11229038386-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11229038386-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11229038386-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11229038386-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11229038386-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11229038386-1024x768-Large.jpg",
+                "path": "72157638394358634/11229038386-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11229038386-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11229038386-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11229038386-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11229038386-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11229038386-3264x2448-Original.jpg",
+                "path": "72157638394358634/11229038386-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Downtown Bucaramanga",
+            "taken": "2013-11-29 12:00:42",
+            "description": "A panoramic shot from Edgar's office.",
+            "versions": [
+              {
+                "name": "11229012565-75x75-Square.jpg",
+                "path": "72157638394358634/11229012565-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11229012565-150x150-Large Square.jpg",
+                "path": "72157638394358634/11229012565-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11229012565-100x33-Thumbnail.jpg",
+                "path": "72157638394358634/11229012565-100x33-Thumbnail.jpg",
+                "width": "100",
+                "height": "33",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11229012565-240x80-Small.jpg",
+                "path": "72157638394358634/11229012565-240x80-Small.jpg",
+                "width": "240",
+                "height": "80",
+                "label": "Small"
+              },
+              {
+                "name": "11229012565-320x107-Small 320.jpg",
+                "path": "72157638394358634/11229012565-320x107-Small 320.jpg",
+                "width": "320",
+                "height": 107,
+                "label": "Small 320"
+              },
+              {
+                "name": "11229012565-500x167-Medium.jpg",
+                "path": "72157638394358634/11229012565-500x167-Medium.jpg",
+                "width": "500",
+                "height": "167",
+                "label": "Medium"
+              },
+              {
+                "name": "11229012565-640x214-Medium 640.jpg",
+                "path": "72157638394358634/11229012565-640x214-Medium 640.jpg",
+                "width": "640",
+                "height": "214",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11229012565-800x267-Medium 800.jpg",
+                "path": "72157638394358634/11229012565-800x267-Medium 800.jpg",
+                "width": "800",
+                "height": 267,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11229012565-1024x342-Large.jpg",
+                "path": "72157638394358634/11229012565-1024x342-Large.jpg",
+                "width": "1024",
+                "height": "342",
+                "label": "Large"
+              },
+              {
+                "name": "11229012565-1600x534-Large 1600.jpg",
+                "path": "72157638394358634/11229012565-1600x534-Large 1600.jpg",
+                "width": "1600",
+                "height": 534,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11229012565-2048x683-Large 2048.jpg",
+                "path": "72157638394358634/11229012565-2048x683-Large 2048.jpg",
+                "width": "2048",
+                "height": 683,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11229012565-7408x2472-Original.jpg",
+                "path": "72157638394358634/11229012565-7408x2472-Original.jpg",
+                "width": "7408",
+                "height": "2472",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "6 Dogs Eating Dinner",
+            "taken": "2013-12-21 20:59:43",
+            "description": "Feeding 8 dogs can be a little tricky, but if you get the timing just right, things work out.",
+            "versions": [
+              {
+                "name": "11499162203-75x75-Square.jpg",
+                "path": "72157638394358634/11499162203-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11499162203-150x150-Large Square.jpg",
+                "path": "72157638394358634/11499162203-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11499162203-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11499162203-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11499162203-240x180-Small.jpg",
+                "path": "72157638394358634/11499162203-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11499162203-320x240-Small 320.jpg",
+                "path": "72157638394358634/11499162203-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11499162203-500x375-Medium.jpg",
+                "path": "72157638394358634/11499162203-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11499162203-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11499162203-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11499162203-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11499162203-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11499162203-1024x768-Large.jpg",
+                "path": "72157638394358634/11499162203-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11499162203-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11499162203-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11499162203-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11499162203-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11499162203-3264x2448-Original.jpg",
+                "path": "72157638394358634/11499162203-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Dog Named Martini",
+            "taken": "2013-12-21 13:51:34",
+            "description": "Martini is a never-ending well of happiness, as is the person holding him.",
+            "versions": [
+              {
+                "name": "11499150416-75x75-Square.jpg",
+                "path": "72157638394358634/11499150416-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11499150416-150x150-Large Square.jpg",
+                "path": "72157638394358634/11499150416-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11499150416-75x100-Thumbnail.jpg",
+                "path": "72157638394358634/11499150416-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11499150416-180x240-Small.jpg",
+                "path": "72157638394358634/11499150416-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "11499150416-240x320-Small 320.jpg",
+                "path": "72157638394358634/11499150416-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "11499150416-375x500-Medium.jpg",
+                "path": "72157638394358634/11499150416-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "11499150416-480x640-Medium 640.jpg",
+                "path": "72157638394358634/11499150416-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11499150416-600x800-Medium 800.jpg",
+                "path": "72157638394358634/11499150416-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "11499150416-768x1024-Large.jpg",
+                "path": "72157638394358634/11499150416-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "11499150416-1200x1600-Large 1600.jpg",
+                "path": "72157638394358634/11499150416-1200x1600-Large 1600.jpg",
+                "width": 1200,
+                "height": "1600",
+                "label": "Large 1600"
+              },
+              {
+                "name": "11499150416-1536x2048-Large 2048.jpg",
+                "path": "72157638394358634/11499150416-1536x2048-Large 2048.jpg",
+                "width": 1536,
+                "height": "2048",
+                "label": "Large 2048"
+              },
+              {
+                "name": "11499150416-2448x3264-Original.jpg",
+                "path": "72157638394358634/11499150416-2448x3264-Original.jpg",
+                "width": "2448",
+                "height": "3264",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Foods of Bucaramanga",
+            "taken": "2014-01-01 19:43:05",
+            "description": "This photo does a good job of summarizing a lot of the food around here. Hot chocolate served with cheese is a staple (they put the cheese in the hot chocolate), as are sweet breads, cheesy breads, and tamales.",
+            "versions": [
+              {
+                "name": "11765504575-75x75-Square.jpg",
+                "path": "72157638394358634/11765504575-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11765504575-150x150-Large Square.jpg",
+                "path": "72157638394358634/11765504575-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11765504575-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11765504575-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11765504575-240x180-Small.jpg",
+                "path": "72157638394358634/11765504575-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11765504575-320x240-Small 320.jpg",
+                "path": "72157638394358634/11765504575-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11765504575-500x375-Medium.jpg",
+                "path": "72157638394358634/11765504575-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11765504575-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11765504575-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11765504575-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11765504575-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11765504575-1024x768-Large.jpg",
+                "path": "72157638394358634/11765504575-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11765504575-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11765504575-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11765504575-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11765504575-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11765504575-3264x2448-Original.jpg",
+                "path": "72157638394358634/11765504575-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Water Fountains",
+            "taken": "2014-01-02 19:41:11",
+            "description": "These public water fountains attracted a crowd of children to jump around in them. ",
+            "versions": [
+              {
+                "name": "11765506435-75x75-Square.jpg",
+                "path": "72157638394358634/11765506435-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "11765506435-150x150-Large Square.jpg",
+                "path": "72157638394358634/11765506435-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "11765506435-100x75-Thumbnail.jpg",
+                "path": "72157638394358634/11765506435-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "11765506435-240x180-Small.jpg",
+                "path": "72157638394358634/11765506435-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "11765506435-320x240-Small 320.jpg",
+                "path": "72157638394358634/11765506435-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "11765506435-500x375-Medium.jpg",
+                "path": "72157638394358634/11765506435-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "11765506435-640x480-Medium 640.jpg",
+                "path": "72157638394358634/11765506435-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "11765506435-800x600-Medium 800.jpg",
+                "path": "72157638394358634/11765506435-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "11765506435-1024x768-Large.jpg",
+                "path": "72157638394358634/11765506435-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "11765506435-1600x1200-Large 1600.jpg",
+                "path": "72157638394358634/11765506435-1600x1200-Large 1600.jpg",
+                "width": "1600",
+                "height": 1200,
+                "label": "Large 1600"
+              },
+              {
+                "name": "11765506435-2048x1536-Large 2048.jpg",
+                "path": "72157638394358634/11765506435-2048x1536-Large 2048.jpg",
+                "width": "2048",
+                "height": 1536,
+                "label": "Large 2048"
+              },
+              {
+                "name": "11765506435-3264x2448-Original.jpg",
+                "path": "72157638394358634/11765506435-3264x2448-Original.jpg",
+                "width": "3264",
+                "height": "2448",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Bucaramanga"
+      }
+    }
+  }
+}

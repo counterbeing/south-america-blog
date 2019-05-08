@@ -1,0 +1,1945 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20140216_ecuador_banos",
+    "attributes": {
+      "latitude": -1.3963889,
+      "longitude": -78.42472219999999,
+      "date": "20140216",
+      "city": "Baños",
+      "country": "Ecuador",
+      "flickr-link": "72157641171274184",
+      "body": "<p>I was surprised when I first arrived, mostly because I had no idea what a tourist town it was going to be. There are many hostels and hotels sprinkled everywhere. Despite this, it&#39;s still quite nice. There&#39;s lots of good food, it&#39;s affordable, and it&#39;s surrounded by loads of greenery.</p>\n<p>Most of my time here was just spent doing some day hikes, finding curious things to eat, and generally wandering around to meet other travelers.</p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Bridge Handstand",
+            "taken": "2014-03-24 23:13:53",
+            "description": "",
+            "versions": [
+              {
+                "name": "13450134884-75x75-Square.jpg",
+                "path": "72157641171274184/13450134884-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13450134884-150x150-Large Square.jpg",
+                "path": "72157641171274184/13450134884-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13450134884-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/13450134884-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13450134884-240x160-Small.jpg",
+                "path": "72157641171274184/13450134884-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "13450134884-320x213-Small 320.jpg",
+                "path": "72157641171274184/13450134884-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "13450134884-500x333-Medium.jpg",
+                "path": "72157641171274184/13450134884-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "13450134884-640x427-Medium 640.jpg",
+                "path": "72157641171274184/13450134884-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13450134884-800x534-Medium 800.jpg",
+                "path": "72157641171274184/13450134884-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13450134884-1024x683-Large.jpg",
+                "path": "72157641171274184/13450134884-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "13450134884-1024x683-Original.jpg",
+                "path": "72157641171274184/13450134884-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Suspension Bridge",
+            "taken": "2014-03-24 23:13:45",
+            "description": "",
+            "versions": [
+              {
+                "name": "13449886673-75x75-Square.jpg",
+                "path": "72157641171274184/13449886673-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13449886673-150x150-Large Square.jpg",
+                "path": "72157641171274184/13449886673-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13449886673-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/13449886673-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13449886673-240x160-Small.jpg",
+                "path": "72157641171274184/13449886673-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "13449886673-320x213-Small 320.jpg",
+                "path": "72157641171274184/13449886673-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "13449886673-500x333-Medium.jpg",
+                "path": "72157641171274184/13449886673-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "13449886673-640x427-Medium 640.jpg",
+                "path": "72157641171274184/13449886673-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13449886673-800x534-Medium 800.jpg",
+                "path": "72157641171274184/13449886673-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13449886673-1024x683-Large.jpg",
+                "path": "72157641171274184/13449886673-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "13449886673-1024x683-Original.jpg",
+                "path": "72157641171274184/13449886673-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Sean's Ass",
+            "taken": "2014-03-24 23:13:36",
+            "description": "This ass just ran up to us. I was actually a little concerned at first. But she just wanted some attention.",
+            "versions": [
+              {
+                "name": "13450146884-75x75-Square.jpg",
+                "path": "72157641171274184/13450146884-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13450146884-150x150-Large Square.jpg",
+                "path": "72157641171274184/13450146884-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13450146884-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/13450146884-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13450146884-240x160-Small.jpg",
+                "path": "72157641171274184/13450146884-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "13450146884-320x213-Small 320.jpg",
+                "path": "72157641171274184/13450146884-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "13450146884-500x333-Medium.jpg",
+                "path": "72157641171274184/13450146884-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "13450146884-640x427-Medium 640.jpg",
+                "path": "72157641171274184/13450146884-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13450146884-800x534-Medium 800.jpg",
+                "path": "72157641171274184/13450146884-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13450146884-1024x683-Large.jpg",
+                "path": "72157641171274184/13450146884-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "13450146884-1024x683-Original.jpg",
+                "path": "72157641171274184/13450146884-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cory and Ass",
+            "taken": "2014-03-24 23:13:20",
+            "description": "What a cutie.",
+            "versions": [
+              {
+                "name": "13449899893-75x75-Square.jpg",
+                "path": "72157641171274184/13449899893-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13449899893-150x150-Large Square.jpg",
+                "path": "72157641171274184/13449899893-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13449899893-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/13449899893-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13449899893-240x160-Small.jpg",
+                "path": "72157641171274184/13449899893-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "13449899893-320x213-Small 320.jpg",
+                "path": "72157641171274184/13449899893-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "13449899893-500x333-Medium.jpg",
+                "path": "72157641171274184/13449899893-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "13449899893-640x427-Medium 640.jpg",
+                "path": "72157641171274184/13449899893-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13449899893-800x534-Medium 800.jpg",
+                "path": "72157641171274184/13449899893-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13449899893-1024x683-Large.jpg",
+                "path": "72157641171274184/13449899893-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "13449899893-1024x683-Original.jpg",
+                "path": "72157641171274184/13449899893-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Donkey",
+            "taken": "2014-03-24 23:11:47",
+            "description": "She seemed really concerned when we walked away.",
+            "versions": [
+              {
+                "name": "13450160854-75x75-Square.jpg",
+                "path": "72157641171274184/13450160854-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13450160854-150x150-Large Square.jpg",
+                "path": "72157641171274184/13450160854-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13450160854-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/13450160854-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13450160854-240x160-Small.jpg",
+                "path": "72157641171274184/13450160854-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "13450160854-320x213-Small 320.jpg",
+                "path": "72157641171274184/13450160854-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "13450160854-500x333-Medium.jpg",
+                "path": "72157641171274184/13450160854-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "13450160854-640x427-Medium 640.jpg",
+                "path": "72157641171274184/13450160854-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13450160854-800x534-Medium 800.jpg",
+                "path": "72157641171274184/13450160854-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13450160854-1024x683-Large.jpg",
+                "path": "72157641171274184/13450160854-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "13450160854-1024x683-Original.jpg",
+                "path": "72157641171274184/13450160854-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Baños Town",
+            "taken": "2014-02-17 14:32:12",
+            "description": "",
+            "versions": [
+              {
+                "name": "13450165394-75x75-Square.jpg",
+                "path": "72157641171274184/13450165394-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13450165394-150x150-Large Square.jpg",
+                "path": "72157641171274184/13450165394-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13450165394-75x100-Thumbnail.jpg",
+                "path": "72157641171274184/13450165394-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13450165394-180x240-Small.jpg",
+                "path": "72157641171274184/13450165394-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "13450165394-240x320-Small 320.jpg",
+                "path": "72157641171274184/13450165394-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "13450165394-375x500-Medium.jpg",
+                "path": "72157641171274184/13450165394-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "13450165394-480x640-Medium 640.jpg",
+                "path": "72157641171274184/13450165394-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13450165394-600x800-Medium 800.jpg",
+                "path": "72157641171274184/13450165394-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "13450165394-768x1024-Large.jpg",
+                "path": "72157641171274184/13450165394-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "13450165394-768x1024-Original.jpg",
+                "path": "72157641171274184/13450165394-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Baños Town",
+            "taken": "2014-02-17 14:32:05",
+            "description": "This was on the hike with Sean.",
+            "versions": [
+              {
+                "name": "13450170064-75x75-Square.jpg",
+                "path": "72157641171274184/13450170064-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "13450170064-150x150-Large Square.jpg",
+                "path": "72157641171274184/13450170064-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "13450170064-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/13450170064-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "13450170064-240x180-Small.jpg",
+                "path": "72157641171274184/13450170064-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "13450170064-320x240-Small 320.jpg",
+                "path": "72157641171274184/13450170064-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "13450170064-500x375-Medium.jpg",
+                "path": "72157641171274184/13450170064-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "13450170064-640x480-Medium 640.jpg",
+                "path": "72157641171274184/13450170064-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "13450170064-800x600-Medium 800.jpg",
+                "path": "72157641171274184/13450170064-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "13450170064-1024x768-Large.jpg",
+                "path": "72157641171274184/13450170064-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "13450170064-1024x768-Original.jpg",
+                "path": "72157641171274184/13450170064-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Erupcion",
+            "taken": "2014-02-16 18:01:14",
+            "description": "There was a minor eruption when we were up on the hill with the casa del arbol. We heard a rumble and all ran over to the edge to see a giant plume of smoke slowly rising. I feel very lucky to have seen it.",
+            "versions": [
+              {
+                "name": "12615712824-75x75-Square.jpg",
+                "path": "72157641171274184/12615712824-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615712824-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615712824-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615712824-67x100-Thumbnail.jpg",
+                "path": "72157641171274184/12615712824-67x100-Thumbnail.jpg",
+                "width": "67",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615712824-160x240-Small.jpg",
+                "path": "72157641171274184/12615712824-160x240-Small.jpg",
+                "width": "160",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "12615712824-213x320-Small 320.jpg",
+                "path": "72157641171274184/12615712824-213x320-Small 320.jpg",
+                "width": 213,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "12615712824-333x500-Medium.jpg",
+                "path": "72157641171274184/12615712824-333x500-Medium.jpg",
+                "width": "333",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "12615712824-427x640-Medium 640.jpg",
+                "path": "72157641171274184/12615712824-427x640-Medium 640.jpg",
+                "width": "427",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615712824-534x800-Medium 800.jpg",
+                "path": "72157641171274184/12615712824-534x800-Medium 800.jpg",
+                "width": 534,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615712824-683x1024-Large.jpg",
+                "path": "72157641171274184/12615712824-683x1024-Large.jpg",
+                "width": "683",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "12615712824-683x1024-Original.jpg",
+                "path": "72157641171274184/12615712824-683x1024-Original.jpg",
+                "width": "683",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Tree Swing",
+            "taken": "2014-02-16 18:01:08",
+            "description": "Proper tree swing, somehow it held together.",
+            "versions": [
+              {
+                "name": "12615316385-75x75-Square.jpg",
+                "path": "72157641171274184/12615316385-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615316385-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615316385-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615316385-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/12615316385-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615316385-240x160-Small.jpg",
+                "path": "72157641171274184/12615316385-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "12615316385-320x213-Small 320.jpg",
+                "path": "72157641171274184/12615316385-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615316385-500x333-Medium.jpg",
+                "path": "72157641171274184/12615316385-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "12615316385-640x427-Medium 640.jpg",
+                "path": "72157641171274184/12615316385-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615316385-800x534-Medium 800.jpg",
+                "path": "72157641171274184/12615316385-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615316385-1024x683-Large.jpg",
+                "path": "72157641171274184/12615316385-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "12615316385-1024x683-Original.jpg",
+                "path": "72157641171274184/12615316385-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Handstand Battle",
+            "taken": "2014-02-16 18:01:06",
+            "description": "We battled, I lost.",
+            "versions": [
+              {
+                "name": "12615327845-75x75-Square.jpg",
+                "path": "72157641171274184/12615327845-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615327845-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615327845-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615327845-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/12615327845-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615327845-240x160-Small.jpg",
+                "path": "72157641171274184/12615327845-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "12615327845-320x213-Small 320.jpg",
+                "path": "72157641171274184/12615327845-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615327845-500x333-Medium.jpg",
+                "path": "72157641171274184/12615327845-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "12615327845-640x427-Medium 640.jpg",
+                "path": "72157641171274184/12615327845-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615327845-800x534-Medium 800.jpg",
+                "path": "72157641171274184/12615327845-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615327845-1024x683-Large.jpg",
+                "path": "72157641171274184/12615327845-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "12615327845-1024x683-Original.jpg",
+                "path": "72157641171274184/12615327845-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Chill Spot",
+            "taken": "2014-02-16 18:01:02",
+            "description": "Some music, some beers, some soft grass, and a bit too much sun. All in all, a great day.",
+            "versions": [
+              {
+                "name": "12615447133-75x75-Square.jpg",
+                "path": "72157641171274184/12615447133-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615447133-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615447133-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615447133-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/12615447133-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615447133-240x160-Small.jpg",
+                "path": "72157641171274184/12615447133-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "12615447133-320x213-Small 320.jpg",
+                "path": "72157641171274184/12615447133-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615447133-500x333-Medium.jpg",
+                "path": "72157641171274184/12615447133-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "12615447133-640x427-Medium 640.jpg",
+                "path": "72157641171274184/12615447133-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615447133-800x534-Medium 800.jpg",
+                "path": "72157641171274184/12615447133-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615447133-1024x683-Large.jpg",
+                "path": "72157641171274184/12615447133-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "12615447133-1024x683-Original.jpg",
+                "path": "72157641171274184/12615447133-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "New Friends",
+            "taken": "2014-02-16 18:01:00",
+            "description": "We picked up Florian on the road (The German dude on the right). ",
+            "versions": [
+              {
+                "name": "12615755914-75x75-Square.jpg",
+                "path": "72157641171274184/12615755914-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615755914-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615755914-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615755914-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/12615755914-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615755914-240x160-Small.jpg",
+                "path": "72157641171274184/12615755914-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "12615755914-320x213-Small 320.jpg",
+                "path": "72157641171274184/12615755914-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615755914-500x333-Medium.jpg",
+                "path": "72157641171274184/12615755914-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "12615755914-640x427-Medium 640.jpg",
+                "path": "72157641171274184/12615755914-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615755914-800x534-Medium 800.jpg",
+                "path": "72157641171274184/12615755914-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615755914-1024x683-Large.jpg",
+                "path": "72157641171274184/12615755914-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "12615755914-1024x683-Original.jpg",
+                "path": "72157641171274184/12615755914-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Tomates de Arbol",
+            "taken": "2014-02-16 13:08:31",
+            "description": "These are the tree tomatoes growing on the side of the hill. In general they're pureed and put in juice with a bit of sugar. They taste a bit like tomatoes but much more sour, and a touch earthy. It really does make for some fantastic juice.",
+            "versions": [
+              {
+                "name": "12615773694-75x75-Square.jpg",
+                "path": "72157641171274184/12615773694-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615773694-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615773694-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615773694-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615773694-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615773694-240x180-Small.jpg",
+                "path": "72157641171274184/12615773694-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615773694-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615773694-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615773694-500x375-Medium.jpg",
+                "path": "72157641171274184/12615773694-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615773694-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615773694-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615773694-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615773694-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615773694-1024x768-Large.jpg",
+                "path": "72157641171274184/12615773694-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615773694-1024x768-Original.jpg",
+                "path": "72157641171274184/12615773694-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Baños Valley",
+            "taken": "2014-02-16 18:01:00",
+            "description": "This is the town from up on the hill.",
+            "versions": [
+              {
+                "name": "12615781834-75x75-Square.jpg",
+                "path": "72157641171274184/12615781834-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615781834-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615781834-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615781834-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/12615781834-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615781834-240x160-Small.jpg",
+                "path": "72157641171274184/12615781834-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "12615781834-320x213-Small 320.jpg",
+                "path": "72157641171274184/12615781834-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615781834-500x333-Medium.jpg",
+                "path": "72157641171274184/12615781834-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "12615781834-640x427-Medium 640.jpg",
+                "path": "72157641171274184/12615781834-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615781834-800x534-Medium 800.jpg",
+                "path": "72157641171274184/12615781834-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615781834-1024x683-Large.jpg",
+                "path": "72157641171274184/12615781834-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "12615781834-1024x683-Original.jpg",
+                "path": "72157641171274184/12615781834-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Salt Water Toffee",
+            "taken": "2014-02-16 12:00:34",
+            "description": "A bunch of guys pull toffee all day. It tastes exactly how you would expect it to.",
+            "versions": [
+              {
+                "name": "12615391395-75x75-Square.jpg",
+                "path": "72157641171274184/12615391395-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615391395-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615391395-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615391395-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615391395-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615391395-240x180-Small.jpg",
+                "path": "72157641171274184/12615391395-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615391395-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615391395-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615391395-500x375-Medium.jpg",
+                "path": "72157641171274184/12615391395-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615391395-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615391395-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615391395-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615391395-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615391395-1024x768-Large.jpg",
+                "path": "72157641171274184/12615391395-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615391395-1024x768-Original.jpg",
+                "path": "72157641171274184/12615391395-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cuy Guinea Pig",
+            "taken": "2014-02-16 18:00:58",
+            "description": "Here's some cuy, which is just grilled guinea pig. I wanted some, but wasn't hungry when we passed by. We came back later to get a plate, but they were closed. The woman in the background is somewhat unamused, though I did ask about taking photos before going to town.",
+            "versions": [
+              {
+                "name": "12615399515-75x75-Square.jpg",
+                "path": "72157641171274184/12615399515-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615399515-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615399515-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615399515-100x67-Thumbnail.jpg",
+                "path": "72157641171274184/12615399515-100x67-Thumbnail.jpg",
+                "width": "100",
+                "height": "67",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615399515-240x160-Small.jpg",
+                "path": "72157641171274184/12615399515-240x160-Small.jpg",
+                "width": "240",
+                "height": "160",
+                "label": "Small"
+              },
+              {
+                "name": "12615399515-320x213-Small 320.jpg",
+                "path": "72157641171274184/12615399515-320x213-Small 320.jpg",
+                "width": "320",
+                "height": 213,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615399515-500x333-Medium.jpg",
+                "path": "72157641171274184/12615399515-500x333-Medium.jpg",
+                "width": "500",
+                "height": "333",
+                "label": "Medium"
+              },
+              {
+                "name": "12615399515-640x427-Medium 640.jpg",
+                "path": "72157641171274184/12615399515-640x427-Medium 640.jpg",
+                "width": "640",
+                "height": "427",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615399515-800x534-Medium 800.jpg",
+                "path": "72157641171274184/12615399515-800x534-Medium 800.jpg",
+                "width": "800",
+                "height": 534,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615399515-1024x683-Large.jpg",
+                "path": "72157641171274184/12615399515-1024x683-Large.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Large"
+              },
+              {
+                "name": "12615399515-1024x683-Original.jpg",
+                "path": "72157641171274184/12615399515-1024x683-Original.jpg",
+                "width": "1024",
+                "height": "683",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Cuy",
+            "taken": "2014-02-16 11:56:54",
+            "description": "You can see his little teeth in this one. ",
+            "versions": [
+              {
+                "name": "12615411555-75x75-Square.jpg",
+                "path": "72157641171274184/12615411555-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615411555-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615411555-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615411555-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615411555-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615411555-240x180-Small.jpg",
+                "path": "72157641171274184/12615411555-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615411555-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615411555-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615411555-500x375-Medium.jpg",
+                "path": "72157641171274184/12615411555-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615411555-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615411555-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615411555-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615411555-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615411555-1024x768-Large.jpg",
+                "path": "72157641171274184/12615411555-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615411555-1024x768-Original.jpg",
+                "path": "72157641171274184/12615411555-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Evelyn",
+            "taken": "2014-02-15 23:19:53",
+            "description": "I went out for beers with a couple of buddies, and suddenly evelyn disappeared into a piercing shop...",
+            "versions": [
+              {
+                "name": "12615822674-75x75-Square.jpg",
+                "path": "72157641171274184/12615822674-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615822674-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615822674-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615822674-75x100-Thumbnail.jpg",
+                "path": "72157641171274184/12615822674-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615822674-180x240-Small.jpg",
+                "path": "72157641171274184/12615822674-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "12615822674-240x320-Small 320.jpg",
+                "path": "72157641171274184/12615822674-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "12615822674-375x500-Medium.jpg",
+                "path": "72157641171274184/12615822674-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "12615822674-480x640-Medium 640.jpg",
+                "path": "72157641171274184/12615822674-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615822674-600x800-Medium 800.jpg",
+                "path": "72157641171274184/12615822674-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615822674-768x1024-Large.jpg",
+                "path": "72157641171274184/12615822674-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "12615822674-768x1024-Original.jpg",
+                "path": "72157641171274184/12615822674-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Church",
+            "taken": "2014-02-15 17:14:27",
+            "description": "Yet another church, this one had great carvings on the door.",
+            "versions": [
+              {
+                "name": "12615538813-75x75-Square.jpg",
+                "path": "72157641171274184/12615538813-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615538813-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615538813-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615538813-75x100-Thumbnail.jpg",
+                "path": "72157641171274184/12615538813-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615538813-180x240-Small.jpg",
+                "path": "72157641171274184/12615538813-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "12615538813-240x320-Small 320.jpg",
+                "path": "72157641171274184/12615538813-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "12615538813-375x500-Medium.jpg",
+                "path": "72157641171274184/12615538813-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "12615538813-480x640-Medium 640.jpg",
+                "path": "72157641171274184/12615538813-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615538813-600x800-Medium 800.jpg",
+                "path": "72157641171274184/12615538813-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615538813-768x1024-Large.jpg",
+                "path": "72157641171274184/12615538813-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "12615538813-768x1024-Original.jpg",
+                "path": "72157641171274184/12615538813-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Church Carvings",
+            "taken": "2014-02-15 17:13:22",
+            "description": "You can't see all of the carvings, but they're quite impressive.",
+            "versions": [
+              {
+                "name": "12615846354-75x75-Square.jpg",
+                "path": "72157641171274184/12615846354-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615846354-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615846354-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615846354-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615846354-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615846354-240x180-Small.jpg",
+                "path": "72157641171274184/12615846354-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615846354-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615846354-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615846354-500x375-Medium.jpg",
+                "path": "72157641171274184/12615846354-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615846354-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615846354-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615846354-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615846354-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615846354-1024x768-Large.jpg",
+                "path": "72157641171274184/12615846354-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615846354-1024x768-Original.jpg",
+                "path": "72157641171274184/12615846354-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Sugar Cane",
+            "taken": "2014-02-15 17:10:53",
+            "description": "This is something I've seen over and over in latin america, and confuses me to no end. Each of those blue booths is selling the same sugar cane, for the same price, in the same booth... ",
+            "versions": [
+              {
+                "name": "12615852884-75x75-Square.jpg",
+                "path": "72157641171274184/12615852884-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615852884-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615852884-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615852884-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615852884-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615852884-240x180-Small.jpg",
+                "path": "72157641171274184/12615852884-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615852884-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615852884-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615852884-500x375-Medium.jpg",
+                "path": "72157641171274184/12615852884-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615852884-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615852884-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615852884-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615852884-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615852884-1024x768-Large.jpg",
+                "path": "72157641171274184/12615852884-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615852884-1024x768-Original.jpg",
+                "path": "72157641171274184/12615852884-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Chifles",
+            "taken": "2014-02-15 17:08:06",
+            "description": "You've got your roasted corn, something like a soybean, fried plantain chips, salsa, and a cocktail sauce. Quite good, and probably the healthiest street food I've ever had.",
+            "versions": [
+              {
+                "name": "12615868524-75x75-Square.jpg",
+                "path": "72157641171274184/12615868524-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615868524-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615868524-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615868524-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615868524-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615868524-240x180-Small.jpg",
+                "path": "72157641171274184/12615868524-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615868524-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615868524-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615868524-500x375-Medium.jpg",
+                "path": "72157641171274184/12615868524-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615868524-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615868524-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615868524-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615868524-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615868524-1024x768-Large.jpg",
+                "path": "72157641171274184/12615868524-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615868524-1024x768-Original.jpg",
+                "path": "72157641171274184/12615868524-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Chifles Vendor",
+            "taken": "2014-02-15 17:07:55",
+            "description": "I had seen this around and wanted to try it, so I walked over to where a police officer was getting her chifles, and asked her what they were. She told me, and then she offered me a bite with her own spoon. I thought it a bit odd because in the states I feel like police try to separate themselves to keep a sense of authority. But no, she gave me a spoonful of chifles, I promply bought my own, it was quite good.",
+            "versions": [
+              {
+                "name": "12615586573-75x75-Square.jpg",
+                "path": "72157641171274184/12615586573-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615586573-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615586573-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615586573-100x75-Thumbnail.jpg",
+                "path": "72157641171274184/12615586573-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615586573-240x180-Small.jpg",
+                "path": "72157641171274184/12615586573-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "12615586573-320x240-Small 320.jpg",
+                "path": "72157641171274184/12615586573-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "12615586573-500x375-Medium.jpg",
+                "path": "72157641171274184/12615586573-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "12615586573-640x480-Medium 640.jpg",
+                "path": "72157641171274184/12615586573-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615586573-800x600-Medium 800.jpg",
+                "path": "72157641171274184/12615586573-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615586573-1024x768-Large.jpg",
+                "path": "72157641171274184/12615586573-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "12615586573-1024x768-Original.jpg",
+                "path": "72157641171274184/12615586573-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Waterfall",
+            "taken": "2014-02-15 17:01:13",
+            "description": "This waterfall feeds the hot springs cold water. There are pools of cold water in which to cool off after a long soak.",
+            "versions": [
+              {
+                "name": "12615493575-75x75-Square.jpg",
+                "path": "72157641171274184/12615493575-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615493575-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615493575-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615493575-75x100-Thumbnail.jpg",
+                "path": "72157641171274184/12615493575-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615493575-180x240-Small.jpg",
+                "path": "72157641171274184/12615493575-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "12615493575-240x320-Small 320.jpg",
+                "path": "72157641171274184/12615493575-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "12615493575-375x500-Medium.jpg",
+                "path": "72157641171274184/12615493575-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "12615493575-480x640-Medium 640.jpg",
+                "path": "72157641171274184/12615493575-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615493575-600x800-Medium 800.jpg",
+                "path": "72157641171274184/12615493575-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615493575-768x1024-Large.jpg",
+                "path": "72157641171274184/12615493575-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "12615493575-768x1024-Original.jpg",
+                "path": "72157641171274184/12615493575-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Hot Springs",
+            "taken": "2014-02-15 17:00:13",
+            "description": "It doesn't look good from here, but at night, when it's full of people it's quite nice.",
+            "versions": [
+              {
+                "name": "12615512305-75x75-Square.jpg",
+                "path": "72157641171274184/12615512305-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "12615512305-150x150-Large Square.jpg",
+                "path": "72157641171274184/12615512305-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "12615512305-75x100-Thumbnail.jpg",
+                "path": "72157641171274184/12615512305-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "12615512305-180x240-Small.jpg",
+                "path": "72157641171274184/12615512305-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "12615512305-240x320-Small 320.jpg",
+                "path": "72157641171274184/12615512305-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "12615512305-375x500-Medium.jpg",
+                "path": "72157641171274184/12615512305-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "12615512305-480x640-Medium 640.jpg",
+                "path": "72157641171274184/12615512305-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "12615512305-600x800-Medium 800.jpg",
+                "path": "72157641171274184/12615512305-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "12615512305-768x1024-Large.jpg",
+                "path": "72157641171274184/12615512305-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "12615512305-768x1024-Original.jpg",
+                "path": "72157641171274184/12615512305-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Ecuador, Baños"
+      }
+    }
+  }
+}

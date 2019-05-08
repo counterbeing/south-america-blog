@@ -1,0 +1,559 @@
+{
+  "data": {
+    "type": "destination",
+    "id": "20140517_bolivia_uyuni",
+    "attributes": {
+      "latitude": -20.4666667,
+      "longitude": -66.83333329999999,
+      "date": "20140517",
+      "city": "Uyuni",
+      "country": "Bolivia",
+      "flickr-link": "72157644308015227",
+      "body": "<h3 id=\"i-don-t-know-what-to-say-about-the-town\">I don&#39;t know what to say about the town</h3>\n<p>I arrived, dropped off my bags, and tensioned my chain. I grabbed lunch and then I took off for the Salar (the salt flats).</p>\n<p>There&#39;s not a whole lot going on in the town. It was bigger than I expected based on descriptions, but it still doesn&#39;t have much. I had the worst burger of my life. It&#39;s quite cold up here at altitude as well.</p>\n<p>But, the salt flat, is <strong>incredible</strong> and made it all worth while.</p>\n",
+      "flickr-cache": {
+        "photos": [
+          {
+            "title": "Salar",
+            "taken": "2014-05-17 17:58:32",
+            "description": "Sorry for all of the moto photos... I was alone.",
+            "versions": [
+              {
+                "name": "14022747478-75x75-Square.jpg",
+                "path": "72157644308015227/14022747478-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14022747478-150x150-Large Square.jpg",
+                "path": "72157644308015227/14022747478-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14022747478-100x75-Thumbnail.jpg",
+                "path": "72157644308015227/14022747478-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14022747478-240x180-Small.jpg",
+                "path": "72157644308015227/14022747478-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14022747478-320x240-Small 320.jpg",
+                "path": "72157644308015227/14022747478-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14022747478-500x375-Medium.jpg",
+                "path": "72157644308015227/14022747478-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14022747478-640x480-Medium 640.jpg",
+                "path": "72157644308015227/14022747478-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14022747478-800x600-Medium 800.jpg",
+                "path": "72157644308015227/14022747478-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14022747478-1024x768-Large.jpg",
+                "path": "72157644308015227/14022747478-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14022747478-1024x768-Original.jpg",
+                "path": "72157644308015227/14022747478-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Sunset",
+            "taken": "2014-05-17 17:57:37",
+            "description": "Sunset on the salad.",
+            "versions": [
+              {
+                "name": "14206955532-75x75-Square.jpg",
+                "path": "72157644308015227/14206955532-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14206955532-150x150-Large Square.jpg",
+                "path": "72157644308015227/14206955532-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14206955532-100x75-Thumbnail.jpg",
+                "path": "72157644308015227/14206955532-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14206955532-240x180-Small.jpg",
+                "path": "72157644308015227/14206955532-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14206955532-320x240-Small 320.jpg",
+                "path": "72157644308015227/14206955532-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14206955532-500x375-Medium.jpg",
+                "path": "72157644308015227/14206955532-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14206955532-640x480-Medium 640.jpg",
+                "path": "72157644308015227/14206955532-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14206955532-800x600-Medium 800.jpg",
+                "path": "72157644308015227/14206955532-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14206955532-1024x768-Large.jpg",
+                "path": "72157644308015227/14206955532-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14206955532-1024x768-Original.jpg",
+                "path": "72157644308015227/14206955532-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Salar",
+            "taken": "2014-05-17 17:53:30",
+            "description": "",
+            "versions": [
+              {
+                "name": "14022749418-75x75-Square.jpg",
+                "path": "72157644308015227/14022749418-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14022749418-150x150-Large Square.jpg",
+                "path": "72157644308015227/14022749418-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14022749418-100x75-Thumbnail.jpg",
+                "path": "72157644308015227/14022749418-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14022749418-240x180-Small.jpg",
+                "path": "72157644308015227/14022749418-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14022749418-320x240-Small 320.jpg",
+                "path": "72157644308015227/14022749418-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14022749418-500x375-Medium.jpg",
+                "path": "72157644308015227/14022749418-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14022749418-640x480-Medium 640.jpg",
+                "path": "72157644308015227/14022749418-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14022749418-800x600-Medium 800.jpg",
+                "path": "72157644308015227/14022749418-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14022749418-1024x768-Large.jpg",
+                "path": "72157644308015227/14022749418-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14022749418-1024x768-Original.jpg",
+                "path": "72157644308015227/14022749418-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Salar",
+            "taken": "2014-05-17 17:52:59",
+            "description": "",
+            "versions": [
+              {
+                "name": "14022783250-75x75-Square.jpg",
+                "path": "72157644308015227/14022783250-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14022783250-150x150-Large Square.jpg",
+                "path": "72157644308015227/14022783250-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14022783250-75x100-Thumbnail.jpg",
+                "path": "72157644308015227/14022783250-75x100-Thumbnail.jpg",
+                "width": "75",
+                "height": "100",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14022783250-180x240-Small.jpg",
+                "path": "72157644308015227/14022783250-180x240-Small.jpg",
+                "width": "180",
+                "height": "240",
+                "label": "Small"
+              },
+              {
+                "name": "14022783250-240x320-Small 320.jpg",
+                "path": "72157644308015227/14022783250-240x320-Small 320.jpg",
+                "width": 240,
+                "height": "320",
+                "label": "Small 320"
+              },
+              {
+                "name": "14022783250-375x500-Medium.jpg",
+                "path": "72157644308015227/14022783250-375x500-Medium.jpg",
+                "width": "375",
+                "height": "500",
+                "label": "Medium"
+              },
+              {
+                "name": "14022783250-480x640-Medium 640.jpg",
+                "path": "72157644308015227/14022783250-480x640-Medium 640.jpg",
+                "width": "480",
+                "height": "640",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14022783250-600x800-Medium 800.jpg",
+                "path": "72157644308015227/14022783250-600x800-Medium 800.jpg",
+                "width": 600,
+                "height": "800",
+                "label": "Medium 800"
+              },
+              {
+                "name": "14022783250-768x1024-Large.jpg",
+                "path": "72157644308015227/14022783250-768x1024-Large.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Large"
+              },
+              {
+                "name": "14022783250-768x1024-Original.jpg",
+                "path": "72157644308015227/14022783250-768x1024-Original.jpg",
+                "width": "768",
+                "height": "1024",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Feet",
+            "taken": "2014-05-17 17:51:51",
+            "description": "I tasted the salt... it tasted like... salt. Wished I'd brought something to eat with it.",
+            "versions": [
+              {
+                "name": "14229577693-75x75-Square.jpg",
+                "path": "72157644308015227/14229577693-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14229577693-150x150-Large Square.jpg",
+                "path": "72157644308015227/14229577693-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14229577693-100x75-Thumbnail.jpg",
+                "path": "72157644308015227/14229577693-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14229577693-240x180-Small.jpg",
+                "path": "72157644308015227/14229577693-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14229577693-320x240-Small 320.jpg",
+                "path": "72157644308015227/14229577693-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14229577693-500x375-Medium.jpg",
+                "path": "72157644308015227/14229577693-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14229577693-640x480-Medium 640.jpg",
+                "path": "72157644308015227/14229577693-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14229577693-800x600-Medium 800.jpg",
+                "path": "72157644308015227/14229577693-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14229577693-1024x768-Large.jpg",
+                "path": "72157644308015227/14229577693-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14229577693-1024x768-Original.jpg",
+                "path": "72157644308015227/14229577693-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "Uyuni Panorama",
+            "taken": "2014-05-17 17:26:46",
+            "description": "",
+            "versions": [
+              {
+                "name": "14022751968-75x75-Square.jpg",
+                "path": "72157644308015227/14022751968-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14022751968-150x150-Large Square.jpg",
+                "path": "72157644308015227/14022751968-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14022751968-100x23-Thumbnail.jpg",
+                "path": "72157644308015227/14022751968-100x23-Thumbnail.jpg",
+                "width": "100",
+                "height": "23",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14022751968-240x56-Small.jpg",
+                "path": "72157644308015227/14022751968-240x56-Small.jpg",
+                "width": "240",
+                "height": "56",
+                "label": "Small"
+              },
+              {
+                "name": "14022751968-320x74-Small 320.jpg",
+                "path": "72157644308015227/14022751968-320x74-Small 320.jpg",
+                "width": "320",
+                "height": 74,
+                "label": "Small 320"
+              },
+              {
+                "name": "14022751968-500x116-Medium.jpg",
+                "path": "72157644308015227/14022751968-500x116-Medium.jpg",
+                "width": "500",
+                "height": "116",
+                "label": "Medium"
+              },
+              {
+                "name": "14022751968-640x148-Medium 640.jpg",
+                "path": "72157644308015227/14022751968-640x148-Medium 640.jpg",
+                "width": "640",
+                "height": "148",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14022751968-800x185-Medium 800.jpg",
+                "path": "72157644308015227/14022751968-800x185-Medium 800.jpg",
+                "width": "800",
+                "height": 185,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14022751968-1024x237-Large.jpg",
+                "path": "72157644308015227/14022751968-1024x237-Large.jpg",
+                "width": "1024",
+                "height": "237",
+                "label": "Large"
+              },
+              {
+                "name": "14022751968-1024x237-Original.jpg",
+                "path": "72157644308015227/14022751968-1024x237-Original.jpg",
+                "width": "1024",
+                "height": "237",
+                "label": "Original"
+              }
+            ]
+          },
+          {
+            "title": "On the Road",
+            "taken": "2014-05-17 13:42:46",
+            "description": "On the way to Uyuni.",
+            "versions": [
+              {
+                "name": "14022786390-75x75-Square.jpg",
+                "path": "72157644308015227/14022786390-75x75-Square.jpg",
+                "width": 75,
+                "height": 75,
+                "label": "Square"
+              },
+              {
+                "name": "14022786390-150x150-Large Square.jpg",
+                "path": "72157644308015227/14022786390-150x150-Large Square.jpg",
+                "width": "150",
+                "height": "150",
+                "label": "Large Square"
+              },
+              {
+                "name": "14022786390-100x75-Thumbnail.jpg",
+                "path": "72157644308015227/14022786390-100x75-Thumbnail.jpg",
+                "width": "100",
+                "height": "75",
+                "label": "Thumbnail"
+              },
+              {
+                "name": "14022786390-240x180-Small.jpg",
+                "path": "72157644308015227/14022786390-240x180-Small.jpg",
+                "width": "240",
+                "height": "180",
+                "label": "Small"
+              },
+              {
+                "name": "14022786390-320x240-Small 320.jpg",
+                "path": "72157644308015227/14022786390-320x240-Small 320.jpg",
+                "width": "320",
+                "height": 240,
+                "label": "Small 320"
+              },
+              {
+                "name": "14022786390-500x375-Medium.jpg",
+                "path": "72157644308015227/14022786390-500x375-Medium.jpg",
+                "width": "500",
+                "height": "375",
+                "label": "Medium"
+              },
+              {
+                "name": "14022786390-640x480-Medium 640.jpg",
+                "path": "72157644308015227/14022786390-640x480-Medium 640.jpg",
+                "width": "640",
+                "height": "480",
+                "label": "Medium 640"
+              },
+              {
+                "name": "14022786390-800x600-Medium 800.jpg",
+                "path": "72157644308015227/14022786390-800x600-Medium 800.jpg",
+                "width": "800",
+                "height": 600,
+                "label": "Medium 800"
+              },
+              {
+                "name": "14022786390-1024x768-Large.jpg",
+                "path": "72157644308015227/14022786390-1024x768-Large.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Large"
+              },
+              {
+                "name": "14022786390-1024x768-Original.jpg",
+                "path": "72157644308015227/14022786390-1024x768-Original.jpg",
+                "width": "1024",
+                "height": "768",
+                "label": "Original"
+              }
+            ]
+          }
+        ],
+        "title": "Bolivia, Uyuni"
+      }
+    }
+  }
+}
