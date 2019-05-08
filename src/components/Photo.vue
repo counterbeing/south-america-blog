@@ -15,7 +15,7 @@ export default {
     },
     source() {
       const version = this.versions[0]
-      return [bucket, version.path.replace(/^tmp\//, '')].join('')
+      return [bucket, version.path].join('')
     },
   },
 }

@@ -19,84 +19,84 @@
             "versions": [
               {
                 "name": "12764046743-75x75-Square.jpg",
-                "path": "tmp/72157641494613753/12764046743-75x75-Square.jpg",
+                "path": "72157641494613753/12764046743-75x75-Square.jpg",
                 "width": 75,
                 "height": 75,
                 "label": "Square"
               },
               {
                 "name": "12764046743-150x150-Large Square.jpg",
-                "path": "tmp/72157641494613753/12764046743-150x150-Large Square.jpg",
+                "path": "72157641494613753/12764046743-150x150-Large Square.jpg",
                 "width": "150",
                 "height": "150",
                 "label": "Large Square"
               },
               {
                 "name": "12764046743-75x100-Thumbnail.jpg",
-                "path": "tmp/72157641494613753/12764046743-75x100-Thumbnail.jpg",
+                "path": "72157641494613753/12764046743-75x100-Thumbnail.jpg",
                 "width": "75",
                 "height": "100",
                 "label": "Thumbnail"
               },
               {
                 "name": "12764046743-180x240-Small.jpg",
-                "path": "tmp/72157641494613753/12764046743-180x240-Small.jpg",
+                "path": "72157641494613753/12764046743-180x240-Small.jpg",
                 "width": "180",
                 "height": "240",
                 "label": "Small"
               },
               {
                 "name": "12764046743-240x320-Small 320.jpg",
-                "path": "tmp/72157641494613753/12764046743-240x320-Small 320.jpg",
+                "path": "72157641494613753/12764046743-240x320-Small 320.jpg",
                 "width": 240,
                 "height": "320",
                 "label": "Small 320"
               },
               {
                 "name": "12764046743-375x500-Medium.jpg",
-                "path": "tmp/72157641494613753/12764046743-375x500-Medium.jpg",
+                "path": "72157641494613753/12764046743-375x500-Medium.jpg",
                 "width": "375",
                 "height": "500",
                 "label": "Medium"
               },
               {
                 "name": "12764046743-480x640-Medium 640.jpg",
-                "path": "tmp/72157641494613753/12764046743-480x640-Medium 640.jpg",
+                "path": "72157641494613753/12764046743-480x640-Medium 640.jpg",
                 "width": "480",
                 "height": "640",
                 "label": "Medium 640"
               },
               {
                 "name": "12764046743-600x800-Medium 800.jpg",
-                "path": "tmp/72157641494613753/12764046743-600x800-Medium 800.jpg",
+                "path": "72157641494613753/12764046743-600x800-Medium 800.jpg",
                 "width": 600,
                 "height": "800",
                 "label": "Medium 800"
               },
               {
                 "name": "12764046743-768x1024-Large.jpg",
-                "path": "tmp/72157641494613753/12764046743-768x1024-Large.jpg",
+                "path": "72157641494613753/12764046743-768x1024-Large.jpg",
                 "width": "768",
                 "height": "1024",
                 "label": "Large"
               },
               {
                 "name": "12764046743-1200x1600-Large 1600.jpg",
-                "path": "tmp/72157641494613753/12764046743-1200x1600-Large 1600.jpg",
+                "path": "72157641494613753/12764046743-1200x1600-Large 1600.jpg",
                 "width": 1200,
                 "height": "1600",
                 "label": "Large 1600"
               },
               {
                 "name": "12764046743-1536x2048-Large 2048.jpg",
-                "path": "tmp/72157641494613753/12764046743-1536x2048-Large 2048.jpg",
+                "path": "72157641494613753/12764046743-1536x2048-Large 2048.jpg",
                 "width": 1536,
                 "height": "2048",
                 "label": "Large 2048"
               },
               {
                 "name": "12764046743-2448x3264-Original.jpg",
-                "path": "tmp/72157641494613753/12764046743-2448x3264-Original.jpg",
+                "path": "72157641494613753/12764046743-2448x3264-Original.jpg",
                 "width": "2448",
                 "height": "3264",
                 "label": "Original"
