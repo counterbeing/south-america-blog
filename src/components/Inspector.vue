@@ -2,6 +2,7 @@
   <main id="inspector" v-if="destination">
     <div class="body">
       <h1>{{ a.city }}, {{ a.country }}</h1>
+      <time :datetime="date">{{ a.date | formatDate }}</time>
       <div v-html="a.body"></div>
     </div>
     <div v-if="this.a">
@@ -13,6 +14,7 @@
   </main>
 </template>
 <script>
+import moment from 'moment'
 import Photo from './Photo'
 import { mapState } from 'vuex'
 export default {
@@ -20,6 +22,9 @@ export default {
   data: () => ({}),
   computed: {
     ...mapState(['current', 'destination']),
+    date() {
+      return moment(this.a.date).format('YYYY-MM-DD')
+    },
     a() {
       if (!this.destination.data) return {}
       return this.destination.data.attributes

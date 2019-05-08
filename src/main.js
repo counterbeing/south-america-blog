@@ -3,9 +3,12 @@ import VueLazyload from 'vue-lazyload'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+import moment from 'moment'
 
 Vue.use(VueLazyload)
 Vue.config.productionTip = false
+
+Vue.filter('formatDate', value => moment(value).format('LL'))
 
 new Vue({
   router,
