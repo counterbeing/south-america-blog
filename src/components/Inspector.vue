@@ -6,24 +6,18 @@
     </div>
     <div v-if="this.a">
       <figure v-for="photo in photos" :key="photo.taken">
-        <img :alt="photo.title" :src="source(photo)" />
+        <photo :photo="photo" />
         <figcaption>{{ photo.description }}</figcaption>
       </figure>
     </div>
   </main>
 </template>
 <script>
+import Photo from './Photo'
 import { mapState } from 'vuex'
 export default {
-  name: '',
+  components: { Photo },
   data: () => ({}),
-  methods: {
-    source(photo) {
-      const bucket = 'https://s3.amazonaws.com/south-america-blog/'
-      const version = photo.versions.find(v => v.label == 'Medium 800')
-      return [bucket, version.path.replace(/^tmp\//, '')].join('')
-    },
-  },
   computed: {
     ...mapState(['current', 'destination']),
     a() {
@@ -52,9 +46,7 @@ export default {
   padding: 5rem;
   font-size: 1.4rem;
 }
-img {
-  width: 100%;
-}
+
 figure {
   text-align: center;
 }
