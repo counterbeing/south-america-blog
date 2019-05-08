@@ -1,5 +1,6 @@
 <template>
   <main id="inspector" v-if="destination">
+    <nav-bar />
     <div class="body">
       <h1>{{ a.city }}, {{ a.country }}</h1>
       <time :datetime="date">{{ a.date | formatDate }}</time>
@@ -11,14 +12,16 @@
         <figcaption>{{ photo.description }}</figcaption>
       </figure>
     </div>
+    <nav-bar />
   </main>
 </template>
 <script>
 import moment from 'moment'
+import NavBar from './NavBar'
 import Photo from './Photo'
 import { mapState } from 'vuex'
 export default {
-  components: { Photo },
+  components: { Photo, NavBar },
   data: () => ({}),
   computed: {
     ...mapState(['current', 'destination']),

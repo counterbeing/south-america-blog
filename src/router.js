@@ -13,7 +13,7 @@ export default new Router({
       redirect: '/20140625_uruguay_colonia',
     },
     {
-      path: '/:destination_id',
+      path: '/:destination_id/',
       name: 'destination',
       component: Layout,
     },

@@ -34,5 +34,24 @@ export default new Vuex.Store({
       context.dispatch('getDestination')
     },
   },
-  getters: {},
+  getters: {
+    next(state) {
+      if (!state.current.id) return {}
+      const ci = Destinations.findIndex(d => d.id === state.current.id)
+      if (ci + 1 > Destinations.length - 1) {
+        return Destinations[0]
+      } else {
+        return Destinations[ci + 1]
+      }
+    },
+    previous(state) {
+      if (!state.current.id) return {}
+      const ci = Destinations.findIndex(d => d.id === state.current.id)
+      if (ci - 1 < 0) {
+        return Destinations[Destinations.length - 1]
+      } else {
+        return Destinations[ci - 1]
+      }
+    },
+  },
 })

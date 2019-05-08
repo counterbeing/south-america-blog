@@ -14,8 +14,10 @@ export default {
   }),
   computed: {
     ...mapState(['current', 'destinations']),
-    jinkies() {
-      return 'hi'
+    currentLatLng() {
+      const lat = this.current.attributes.latitude
+      const lng = this.current.attributes.longitude
+      return { lat, lng }
     },
   },
   methods: {
@@ -72,13 +74,12 @@ export default {
         this.drawPolyLine(pointA, pointB, this.map)
       }, this)
     },
+
     async drawMap() {
       const google = await gmapsInit()
-      const lat = this.current.attributes.latitude
-      const lng = this.current.attributes.longitude
       this.map = new google.maps.Map(this.$el, {
         zoom: 4,
-        center: { lat, lng },
+        center: this.currentLatLng,
       })
     },
   },
@@ -90,6 +91,7 @@ export default {
       if (!newMarker || !oldMarker) return
       newMarker.setIcon(this.icon(newValue.id))
       oldMarker.setIcon(this.icon(oldValue.id))
+      this.map.panTo(this.currentLatLng)
     },
   },
   async mounted() {
