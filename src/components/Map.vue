@@ -40,8 +40,7 @@ export default {
         icon: this.icon(id),
       })
       marker.addListener('click', function() {
-        router.push({ path: id })
-        // console.log(id)
+        router.push({ name: 'destination', params: { destination_id: id } })
       })
       this.markers[id] = marker
     },
