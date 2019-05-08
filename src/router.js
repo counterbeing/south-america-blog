@@ -10,8 +10,7 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: Layout,
+      redirect: '/20140625_uruguay_colonia',
     },
     {
       path: '/:destination_id',

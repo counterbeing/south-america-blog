@@ -1,13 +1,14 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import Destinations from './data/destinations.json'
+import config from '../config'
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
     destinations: Destinations,
-    current: Destinations[Destinations.length - 1],
+    current: {},
     destination: {},
   },
   mutations: {
@@ -22,7 +23,7 @@ export default new Vuex.Store({
   actions: {
     async getDestination({ commit, state }) {
       const response = await fetch(
-        '/destinations/' + state.current.id + '.json'
+        config.publicPath + 'destinations/' + state.current.id + '.json'
       )
       commit('SET_DESTINATION', await response.json())
     },

@@ -85,6 +85,7 @@ export default {
   },
   watch: {
     current: function(newValue, oldValue) {
+      if (!newValue) return
       const oldMarker = this.markers[oldValue.id]
       const newMarker = this.markers[newValue.id]
       if (!newMarker || !oldMarker) return
