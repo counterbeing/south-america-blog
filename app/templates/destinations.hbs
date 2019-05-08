@@ -1,7 +1,0 @@
-{{outlet}}
-
-{{#each model as |location|}}
-  {{#link-to 'destination' location.id}}
-    {{location.id}} {{location.date}}: {{location.latitude}}, {{location.longitude}}<br>
-  {{/link-to}}
-{{/each}}
