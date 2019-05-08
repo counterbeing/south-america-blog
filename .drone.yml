@@ -21,7 +21,9 @@ steps:
 
       - npm install
       - npm run build
-      - git checkout rendered
+      - git fetch origin
+      - git checkout --track origin/rendered
+
       - rsync -avz dist/ ./
 
       - git add .
