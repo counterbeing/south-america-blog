@@ -27,7 +27,7 @@ export default {
     },
   },
   mounted() {
-    // this.setCurrent(this.$route.params.id)
+    this.setCurrent(this.$route.params.destination_id)
   },
 }
 </script>
