@@ -31,7 +31,6 @@ export default {
         strokeWeight: 2,
         strokeColor: 'white',
         scale: isCurrent ? 2 : 1.5,
-        zIndex: isCurrent ? 1 : 0,
       }
     },
     createMapMarker(latLng, id) {
@@ -88,6 +87,7 @@ export default {
     current: function(newValue, oldValue) {
       const oldMarker = this.markers[oldValue.id]
       const newMarker = this.markers[newValue.id]
+      if (!newMarker || !oldMarker) return
       newMarker.setIcon(this.icon(newValue.id))
       oldMarker.setIcon(this.icon(oldValue.id))
     },
