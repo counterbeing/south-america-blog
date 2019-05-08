@@ -38,7 +38,7 @@ export default {
   overflow-y: scroll;
 }
 .body {
-  padding: 5rem;
+  padding: 3rem 5rem;
   font-size: 1.4rem;
 }
 

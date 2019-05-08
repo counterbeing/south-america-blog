@@ -1,8 +1,8 @@
 <template>
   <img
     :alt="photo.title"
-    :src="source"
-    :srcset="srcset"
+    v-lazy="source"
+    :data-srcset="srcset"
     sizes="(min-width: 800px) 40vw, 100vw"
   />
 </template>
@@ -25,11 +25,11 @@ export default {
           const width = v.width + 'w'
           return [path, width].join(' ')
         })
-        .join(', ')
+        .join(',')
     },
     source() {
       const version = this.versions[0]
-      return [bucket, version.path].join('')
+      return [bucket, encodeURIComponent(version.path)].join('')
     },
   },
 }

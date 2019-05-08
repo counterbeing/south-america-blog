@@ -10,7 +10,7 @@ export default {
   name: 'Map',
   data: () => ({
     map: null,
-    markers: [],
+    markers: {},
   }),
   computed: {
     ...mapState(['current', 'destinations']),
@@ -31,6 +31,7 @@ export default {
         strokeWeight: 2,
         strokeColor: 'white',
         scale: isCurrent ? 2 : 1.5,
+        zIndex: isCurrent ? 1 : 0,
       }
     },
     createMapMarker(latLng, id) {
@@ -43,7 +44,7 @@ export default {
         router.push({ path: id })
         // console.log(id)
       })
-      this.markers.push(marker)
+      this.markers[id] = marker
     },
     drawPolyLine: function(pointA, pointB) {
       if (!pointA || !pointB) {
@@ -81,6 +82,14 @@ export default {
         zoom: 4,
         center: { lat, lng },
       })
+    },
+  },
+  watch: {
+    current: function(newValue, oldValue) {
+      const oldMarker = this.markers[oldValue.id]
+      const newMarker = this.markers[newValue.id]
+      newMarker.setIcon(this.icon(newValue.id))
+      oldMarker.setIcon(this.icon(oldValue.id))
     },
   },
   async mounted() {
