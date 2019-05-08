@@ -6,7 +6,7 @@
       <div v-html="a.body"></div>
     </div>
     <div v-if="this.a">
-      <figure v-for="photo in photos" :key="photo.taken">
+      <figure v-for="photo in photos" :key="photo.taken + photo.title">
         <photo :photo="photo" />
         <figcaption>{{ photo.description }}</figcaption>
       </figure>
@@ -33,6 +33,15 @@ export default {
       if (!this.a['flickr-cache']) return {}
       return this.a['flickr-cache'].photos
     },
+  },
+  metaInfo() {
+    return {
+      title: `${this.a.city}, ${this.a.country}`,
+      titleTemplate: "%s - Cory Logan's South America Motorcycle Trip",
+      htmlAttrs: {
+        lang: 'en',
+      },
+    }
   },
 }
 </script>
