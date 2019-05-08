@@ -4,11 +4,13 @@
 <script>
 import gmapsInit from '@/utils/gmaps'
 import { mapState } from 'vuex'
+import router from '@/router'
 
 export default {
   name: 'Map',
   data: () => ({
     map: null,
+    markers: [],
   }),
   computed: {
     ...mapState(['current', 'destinations']),
@@ -17,29 +19,31 @@ export default {
     },
   },
   methods: {
-    createMapMarker(latLng) {
-      var pinColor = '#F31'
+    icon(id) {
+      const isCurrent = this.current.id === id
       var pinSVGFilled =
         'M 12,2 C 8.1340068,2 5,5.1340068 5,9 c 0,5.25 7,13 7,13 0,0 7,-7.75 7,-13 0,-3.8659932 -3.134007,-7 -7,-7 z'
-      var markerImage = {
+      return {
         path: pinSVGFilled,
         anchor: new window.google.maps.Point(12, 22),
         fillOpacity: 0.7,
-        fillColor: pinColor,
+        fillColor: isCurrent ? '#99F' : '#F31',
         strokeWeight: 2,
         strokeColor: 'white',
-        scale: 1.5,
+        scale: isCurrent ? 2 : 1.5,
       }
-      new window.google.maps.Marker({
+    },
+    createMapMarker(latLng, id) {
+      const marker = new window.google.maps.Marker({
         map: this.map,
         position: latLng,
-        icon: markerImage,
+        icon: this.icon(id),
       })
-
-      // let parent = this
-      // marker.addListener('click', function() {
-      // parent.get('locationManager').setLocation(parent.get('id'))
-      // })
+      marker.addListener('click', function() {
+        router.push({ path: id })
+        // console.log(id)
+      })
+      this.markers.push(marker)
     },
     drawPolyLine: function(pointA, pointB) {
       if (!pointA || !pointB) {
@@ -62,9 +66,9 @@ export default {
     drawPolyLines() {
       this.destinations.forEach(function(destinationA, index, array) {
         let destinationB = array[index + 1]
-        if (!destinationB) return
         const pointA = this.extractLatLng(destinationA)
-        this.createMapMarker(pointA)
+        this.createMapMarker(pointA, destinationA.id)
+        if (!destinationB) return
         const pointB = this.extractLatLng(destinationB)
         this.drawPolyLine(pointA, pointB, this.map)
       }, this)

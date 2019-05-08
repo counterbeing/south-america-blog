@@ -12,21 +12,22 @@ import Inspector from '@/components/Inspector'
 import Map from '@/components/Map'
 // import Navbar from './micro/Navbar';
 // import Stories from './stories.json';
+import { mapActions } from 'vuex'
 
 export default {
   data: () => ({}),
   components: { Inspector, Map },
   computed: {},
   methods: {
-    // ...mapActions(["setDestination"])
+    ...mapActions(['setCurrent']),
   },
   watch: {
-    // $route(to) {
-    //   this.setDestination(to.params.id);
-    // },
+    $route(to) {
+      this.setCurrent(to.params.destination_id)
+    },
   },
   mounted() {
-    // this.setDestination(this.$route.params.id);
+    // this.setCurrent(this.$route.params.id)
   },
 }
 </script>

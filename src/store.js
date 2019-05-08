@@ -11,6 +11,10 @@ export default new Vuex.Store({
     destination: {},
   },
   mutations: {
+    SET_CURRENT(state, current) {
+      state.current = current
+    },
+
     SET_DESTINATION(state, destination) {
       state.destination = destination
     },
@@ -20,13 +24,15 @@ export default new Vuex.Store({
       const response = await fetch(
         '/destinations/' + state.current.id + '.json'
       )
-      // console.log(response.json())
       commit('SET_DESTINATION', await response.json())
     },
-    setDestination: (context, payload) =>
-      context.commit('SET_CURRENT', payload),
+    setCurrent: (context, payload) => {
+      const current = context.state.destinations.find(dest => {
+        return dest.id === payload
+      })
+      context.commit('SET_CURRENT', current)
+      context.dispatch('getDestination')
+    },
   },
-  // getters: {
-  //   destination: state => state.destinations[0]
-  // }
+  getters: {},
 })
