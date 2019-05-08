@@ -1,5 +1,10 @@
 <template>
-  <img :alt="photo.title" :src="source" />
+  <img
+    :alt="photo.title"
+    :src="source"
+    :srcset="srcset"
+    sizes="(min-width: 800px) 40vw, 100vw"
+  />
 </template>
 <script>
 const bucket = 'https://s3.amazonaws.com/south-america-blog/'
@@ -12,6 +17,15 @@ export default {
   computed: {
     versions() {
       return this.photo.versions.filter(v => formats.includes(v.label))
+    },
+    srcset() {
+      return this.versions
+        .map(v => {
+          const path = [bucket, encodeURIComponent(v.path)].join('')
+          const width = v.width + 'w'
+          return [path, width].join(' ')
+        })
+        .join(', ')
     },
     source() {
       const version = this.versions[0]

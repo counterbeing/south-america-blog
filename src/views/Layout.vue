@@ -35,18 +35,32 @@ export default {
 <style>
 #blog {
 }
-
-@media only screen and (min-width: 700px) {
-  .desktop-hidden {
-    display: none !important;
+@media only screen and (max-width: 800px) {
+  #map-container {
+    width: 100vw;
+    height: 50vh;
   }
 }
 
-#map-container {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 40vw;
-  height: 100vh;
+@media only screen and (min-width: 800px) {
+  .desktop-hidden {
+    display: none !important;
+  }
+
+  #inspector {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 60%;
+    height: 100vh;
+  }
+
+  #map-container {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 40vw;
+    height: 100vh;
+  }
 }
 </style>

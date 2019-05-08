@@ -34,11 +34,6 @@ export default {
 
 <style lang="scss" scoped>
 #inspector {
-  position: fixed;
-  right: 0;
-  top: 0;
-  width: 60%;
-  height: 100vh;
   text-align: left;
   overflow-y: scroll;
 }
@@ -49,5 +44,12 @@ export default {
 
 figure {
   text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .body {
+    padding: 2rem;
+    font-size: 1.4rem;
+  }
 }
 </style>
