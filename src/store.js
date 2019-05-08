@@ -22,9 +22,9 @@ export default new Vuex.Store({
   },
   actions: {
     async getDestination({ commit, state }) {
-      const response = await fetch(
-        config.publicPath + 'destinations/' + state.current.id + '.json'
-      )
+      const u = config.publicPath + 'destinations/' + state.current.id + '.json'
+      console.log(u)
+      const response = await fetch(u)
       commit('SET_DESTINATION', await response.json())
     },
     setCurrent: (context, payload) => {
