@@ -1,15 +1,32 @@
-# pipeline:
-#   Trigger homepage build:
-#     image: corylogan/simple-drone-trigger:0.0.8
-#     pull: true
-#     secrets: [ DRONE_TOKEN, DRONE_SERVER ]
-#     environment:
-#       - DRONE_SERVER=${DRONE_SERVER}
-#       - DRONE_TOKEN=${DRONE_TOKEN}
-#       - REPOSITORY=counterbeing/homepage
-#     commands:
-#       - drone build start --fork $REPOSITORY $(drone build last $REPOSITORY | head -n 1 | cut -d " " -f 2)
-    # when:
-    #   event: push
-    #   branch: master
-    #   success: true
+kind: pipeline
+name: default
+
+steps:
+  - name: Build Blog
+    image: corylogan/blog-builder
+
+    environment:
+      SSH_PRIVATE_KEY:
+        from_secret: SSH_PRIVATE_KEY
+    commands:
+      - git remote set-url origin git@github.com:counterbeing/south-america-blog.git
+      - mkdir -p  /root/.ssh
+      - ssh-keyscan github.com >> /root/.ssh/known_hosts
+      - echo "$SSH_PRIVATE_KEY" > /root/.ssh/id_ed25519
+      - chmod 0600 /root/.ssh/id_ed25519
+      - eval "$(ssh-agent)"
+      - ssh-add /root/.ssh/id_ed25519
+      - git config --global user.email "ci@drone.corylogan.com"
+      - git config --global user.name "Drone Server"
+
+      - npm install
+      - npm run build
+      - git checkout rendered
+      - rsync -avz dist/ ./
+
+      - git add .
+      - git commit -am "build $(date +'%Y/%m/%d %H:%M:%S:%3N')"
+      - git push origin HEAD
+
+branches:
+  - master
