@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import Destinations from './data/destinations.json'
-import config from '../config'
 
 Vue.use(Vuex)
 
@@ -22,8 +21,9 @@ export default new Vuex.Store({
   },
   actions: {
     async getDestination({ commit, state }) {
-      const u = config.publicPath + 'destinations/' + state.current.id + '.json'
-      console.log(u)
+      const u =
+        process.env.BASE_URL + 'destinations/' + state.current.id + '.json'
+      process
       const response = await fetch(u)
       commit('SET_DESTINATION', await response.json())
     },
