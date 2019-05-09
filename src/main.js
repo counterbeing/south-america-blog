@@ -9,6 +9,7 @@ import VueAnalytics from 'vue-analytics'
 
 Vue.use(VueAnalytics, {
   id: 'UA-19114773-9',
+  router,
 })
 
 Vue.use(VueMeta, {
