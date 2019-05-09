@@ -22,6 +22,7 @@ steps:
       - npm install
       - npm run build
       - git fetch origin
+      - git checkout .
       - git checkout --track origin/rendered
 
       - rsync -avz dist/ ./
@@ -29,6 +30,16 @@ steps:
       - git add .
       - git commit -am "build $(date +'%Y/%m/%d %H:%M:%S:%3N')"
       - git push origin HEAD
+
+  - name: Build Homepage
+    image: plugins/downstream
+    settings:
+      server: https://drone.corylogan.com
+      token:
+        from_secret: drone_token
+      fork: true
+      repositories:
+        - counterbeing/homepage
 
 branches:
   - master
