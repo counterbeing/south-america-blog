@@ -41,5 +41,6 @@ steps:
       repositories:
         - counterbeing/homepage
 
-branches:
-  - master
+trigger:
+  branch:
+    - master

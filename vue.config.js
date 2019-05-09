@@ -5,14 +5,13 @@ const Renderer = PrerenderSPAPlugin.PuppeteerRenderer
 const destinations = require('./src/data/destinations.json')
 const paths = destinations.map(d => d.id)
 const routes = paths.map(p => `/${p}`) //.slice(-60, -10)
-const config = require('./config')
 
 module.exports = {
-  publicPath: config.publicPath,
+  publicPath: process.env.PUBLIC_PATH,
   configureWebpack: {
     plugins: [
       new SitemapPlugin(
-        [config.publicDomain, config.publicPath].join(''),
+        [process.env.PUBLIC_DOMAIN, process.env.PUBLIC_PATH].join(''),
         paths,
         {
           fileName: 'sitemap.xml',
