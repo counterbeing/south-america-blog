@@ -5,6 +5,11 @@ import router from './router'
 import store from './store'
 import moment from 'moment'
 import VueMeta from 'vue-meta'
+import VueAnalytics from 'vue-analytics'
+
+Vue.use(VueAnalytics, {
+  id: 'UA-19114773-9',
+})
 
 Vue.use(VueMeta, {
   refreshOnceOnNavigation: true,
