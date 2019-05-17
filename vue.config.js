@@ -12,7 +12,7 @@ module.exports = {
     plugins: [
       new SitemapPlugin(
         [process.env.PUBLIC_DOMAIN, process.env.PUBLIC_PATH].join(''),
-        paths,
+        routes,
         {
           fileName: 'sitemap.xml',
           lastMod: true,
