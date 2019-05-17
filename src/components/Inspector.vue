@@ -47,12 +47,9 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: [
-            process.env.PUBLIC_DOMAIN,
-            process.env.PUBLIC_PATH,
-            this.current.id,
-            '/',
-          ].join(''),
+          href: ['https://www.corylogan.com/sa/', this.current.id, '/'].join(
+            ''
+          ),
         },
       ],
     }
