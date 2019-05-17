@@ -4,7 +4,7 @@ const PrerenderSPAPlugin = require('prerender-spa-plugin')
 const Renderer = PrerenderSPAPlugin.PuppeteerRenderer
 const destinations = require('./src/data/destinations.json')
 const paths = destinations.map(d => d.id)
-const routes = paths.map(p => `/${p}`) //.slice(-60, -10)
+const routes = paths.map(p => `/${p}/`) //.slice(-60, -10)
 
 module.exports = {
   publicPath: process.env.PUBLIC_PATH,

@@ -44,6 +44,17 @@ export default {
       htmlAttrs: {
         lang: 'en',
       },
+      link: [
+        {
+          rel: 'canonical',
+          href: [
+            process.env.PUBLIC_DOMAIN,
+            process.env.PUBLIC_PATH,
+            this.current.id,
+            '/',
+          ].join(''),
+        },
+      ],
     }
   },
 }
